@@ -1,14 +1,20 @@
-2026/06/22-12:43:15.355 5560 Creating DB C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/06/22-12:43:15.374 5560 Reusing MANIFEST C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/06/22-12:51:18.651 4ff8 Level-0 table #5: started
-2026/06/22-12:51:18.660 4ff8 Level-0 table #5: 82495 bytes OK
-2026/06/22-12:51:18.663 4ff8 Delete type=0 #3
-2026/06/22-12:54:18.507 6120 Level-0 table #7: started
-2026/06/22-12:54:18.694 6120 Level-0 table #7: 99198 bytes OK
-2026/06/22-12:54:18.698 6120 Delete type=0 #4
-2026/06/22-12:56:18.500 60c4 Level-0 table #9: started
-2026/06/22-12:56:18.505 60c4 Level-0 table #9: 81407 bytes OK
-2026/06/22-12:56:18.506 60c4 Delete type=0 #6
-2026/06/22-13:20:01.382 3aec Level-0 table #11: started
-2026/06/22-13:20:04.287 3aec Level-0 table #11: 80443 bytes OK
-2026/06/22-13:20:07.651 3aec Delete type=0 #8
+2026/06/26-13:44:25.085 1094 Reusing MANIFEST C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/26-13:44:25.103 1094 Recovering log #10
+2026/06/26-13:44:25.104 1094 Level-0 table #13: started
+2026/06/26-13:44:25.110 1094 Level-0 table #13: 80411 bytes OK
+2026/06/26-13:44:25.113 1094 Delete type=0 #10
+2026/06/26-13:46:27.931 29b4 Level-0 table #16: started
+2026/06/26-13:46:27.937 29b4 Level-0 table #16: 80254 bytes OK
+2026/06/26-13:46:27.939 29b4 Delete type=0 #14
+2026/06/26-13:46:27.940 29b4 Compacting 4@0 + 1@1 files
+2026/06/26-13:46:27.945 29b4 Generated table #17@0: 3 keys, 40052 bytes
+2026/06/26-13:46:27.946 29b4 Compacted 4@0 + 1@1 files => 40052 bytes
+2026/06/26-13:46:27.947 29b4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/26-13:46:27.948 29b4 Delete type=2 #7
+2026/06/26-13:46:27.948 29b4 Delete type=2 #9
+2026/06/26-13:46:27.948 29b4 Delete type=2 #11
+2026/06/26-13:46:27.948 29b4 Delete type=2 #13
+2026/06/26-13:46:27.948 29b4 Delete type=2 #16
+2026/06/26-13:48:27.928 5ad4 Level-0 table #19: started
+2026/06/26-13:48:27.935 5ad4 Level-0 table #19: 79839 bytes OK
+2026/06/26-13:48:27.936 5ad4 Delete type=0 #15

@@ -1,20 +1,5 @@
-2026/06/26-13:44:25.085 1094 Reusing MANIFEST C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/06/26-13:44:25.103 1094 Recovering log #10
-2026/06/26-13:44:25.104 1094 Level-0 table #13: started
-2026/06/26-13:44:25.110 1094 Level-0 table #13: 80411 bytes OK
-2026/06/26-13:44:25.113 1094 Delete type=0 #10
-2026/06/26-13:46:27.931 29b4 Level-0 table #16: started
-2026/06/26-13:46:27.937 29b4 Level-0 table #16: 80254 bytes OK
-2026/06/26-13:46:27.939 29b4 Delete type=0 #14
-2026/06/26-13:46:27.940 29b4 Compacting 4@0 + 1@1 files
-2026/06/26-13:46:27.945 29b4 Generated table #17@0: 3 keys, 40052 bytes
-2026/06/26-13:46:27.946 29b4 Compacted 4@0 + 1@1 files => 40052 bytes
-2026/06/26-13:46:27.947 29b4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/26-13:46:27.948 29b4 Delete type=2 #7
-2026/06/26-13:46:27.948 29b4 Delete type=2 #9
-2026/06/26-13:46:27.948 29b4 Delete type=2 #11
-2026/06/26-13:46:27.948 29b4 Delete type=2 #13
-2026/06/26-13:46:27.948 29b4 Delete type=2 #16
-2026/06/26-13:48:27.928 5ad4 Level-0 table #19: started
-2026/06/26-13:48:27.935 5ad4 Level-0 table #19: 79839 bytes OK
-2026/06/26-13:48:27.936 5ad4 Delete type=0 #15
+2026/06/28-14:41:11.688 1aa4 Reusing MANIFEST C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/28-14:41:11.704 1aa4 Recovering log #18
+2026/06/28-14:41:11.705 1aa4 Level-0 table #21: started
+2026/06/28-14:41:11.708 1aa4 Level-0 table #21: 80283 bytes OK
+2026/06/28-14:41:11.710 1aa4 Delete type=0 #18
