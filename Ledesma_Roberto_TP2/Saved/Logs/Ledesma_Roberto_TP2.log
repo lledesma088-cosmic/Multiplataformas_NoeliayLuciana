@@ -6657,3 +6657,1035 @@ Sampler Limit: 32
 [2026.06.28-02.58.54:402][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
 [2026.06.28-02.58.54:416][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
 [2026.06.28-02.58.54:425][705]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.864 ms (total: 25.6 sec)
+[2026.06.28-02.59.41:338][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.28-02.59.41:340][292]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.017
+[2026.06.28-02.59.41:340][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DESCARGAS/PISOS/Piso_alfombra11] ([1] browsable assets)...
+[2026.06.28-02.59.41:340][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/DESCARGAS/PISOS/Piso_alfombra11]
+[2026.06.28-02.59.41:351][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DESCARGAS/PISOS/Piso_alfombra11_Auto7
+[2026.06.28-02.59.41:351][292]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Piso_alfombra11_Auto73DDF468240C526DCB7B352986D3F2199.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/DESCARGAS/PISOS/Piso_alfombra11_Auto7.uasset'
+[2026.06.28-02.59.41:352][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/materials/MasterMaterial/MasterMaterial] ([1] browsable assets)...
+[2026.06.28-02.59.41:352][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/materials/MasterMaterial/MasterMaterial]
+[2026.06.28-02.59.41:360][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/materials/MasterMaterial/MasterMaterial_Auto7
+[2026.06.28-02.59.41:360][292]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/MasterMaterial_Auto7C0A30F49457C3E1C656AB7880AC464E6.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/materials/MasterMaterial/MasterMaterial_Auto7.uasset'
+[2026.06.28-02.59.41:360][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DESCARGAS/PISOS/Piso_parque] ([1] browsable assets)...
+[2026.06.28-02.59.41:360][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/DESCARGAS/PISOS/Piso_parque]
+[2026.06.28-02.59.41:368][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DESCARGAS/PISOS/Piso_parque_Auto7
+[2026.06.28-02.59.41:368][292]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Piso_parque_Auto77E3C8BC742B9A4197C1AA7898F3F06D1.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/DESCARGAS/PISOS/Piso_parque_Auto7.uasset'
+[2026.06.28-02.59.41:368][292]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/DESCARGAS/PISOS/Piso_maderatop1] ([1] browsable assets)...
+[2026.06.28-02.59.41:368][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/DESCARGAS/PISOS/Piso_maderatop1]
+[2026.06.28-02.59.41:375][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DESCARGAS/PISOS/Piso_maderatop1_Auto7
+[2026.06.28-02.59.41:375][292]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Piso_maderatop1_Auto7CE32586D4F8EFCCC8DBF378E61D81CE0.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/DESCARGAS/PISOS/Piso_maderatop1_Auto7.uasset'
+[2026.06.28-02.59.41:375][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MODULOS/papel_superior_baño] ([1] browsable assets)...
+[2026.06.28-02.59.41:418][292]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/MODULOS/papel_superior_baño.papel_superior_baño]
+[2026.06.28-02.59.41:418][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/papel_superior_baño]
+[2026.06.28-02.59.41:432][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-02.59.41:454][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-02.59.41:462][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MODULOS/papel_superior_baño_Auto7
+[2026.06.28-02.59.41:462][292]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/papel_superior_baño_Auto7485F7EC44BC30B2A9262998B6785D998.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/MODULOS/papel_superior_baño_Auto7.uasset'
+[2026.06.28-02.59.41:463][292]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/DESCARGAS/OldWest/VOL5/Materials/MI_Curtain_NN_01a_Inst_2] ([1] browsable assets)...
+[2026.06.28-02.59.41:471][292]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/DESCARGAS/OldWest/VOL5/Materials/MI_Curtain_NN_01a_Inst_2.MI_Curtain_NN_01a_Inst_2]
+[2026.06.28-02.59.41:471][292]OBJ SavePackage: Finished generating thumbnails for package [/Game/DESCARGAS/OldWest/VOL5/Materials/MI_Curtain_NN_01a_Inst_2]
+[2026.06.28-02.59.41:485][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-02.59.41:505][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-02.59.41:514][292]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/DESCARGAS/OldWest/VOL5/Materials/MI_Curtain_NN_01a_Inst_2_Auto7
+[2026.06.28-02.59.41:514][292]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/MI_Curtain_NN_01a_Inst_2_Auto7CF21E3824FE8CDDBD437E7943BC9446D.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/DESCARGAS/OldWest/VOL5/Materials/MI_Curtain_NN_01a_Inst_2_Auto7.uasset'
+[2026.06.28-02.59.41:515][292]LogFileHelpers: Auto-saving content packages took 0.174
+[2026.06.28-03.01.20:274][827]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.06.28-03.01.20:274][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.28-03.01.20:305][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.06.28-03.01.20:966][870]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.06.28-03.01.20:966][870]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.28-03.01.20:999][870]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.28-03.01.21:481][901]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.06.28-03.01.21:481][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.28-03.01.21:513][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.28-03.01.22:033][937]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.06.28-03.01.22:033][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.28-03.01.22:064][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.28-03.01.23:147][ 19]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.06.28-03.01.23:147][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.28-03.01.23:180][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.06.28-03.01.23:923][ 76]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.06.28-03.01.23:923][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.28-03.01.23:957][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.28-03.01.24:596][130]LogSlate: Window 'Piso_top' being destroyed
+[2026.06.28-03.01.24:614][130]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.06.28-03.01.24:614][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.28-03.01.24:650][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.28-03.18.03:856][423]LogDerivedDataCache: C:/Users/Lula/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.28-04.09.30:789][682]LogWindowsTextInputMethodSystem: Activated input method: Español (Argentina) - (Keyboard).
+[2026.06.28-04.09.30:789][682]LogWindowsTextInputMethodSystem: Activated input method: Español (Argentina) - (Keyboard).
+[2026.06.28-04.09.34:911][958]Cmd: py "D:\Documents\Da Vinci\Quinto cuatrimestre\Desarrollo de Aplicaciones Multiplataforma\TP2\ExportedAssets\ImportAssetScript.py"
+[2026.06.28-04.09.35:224][958]LogPython: # ==================== Import started ! ==================== #
+
+[2026.06.28-04.09.35:232][958]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.09.35:244][958]LogPython: ### Import asset 1/1: 'Modulo_1'
+
+[2026.06.28-04.09.35:261][958]LogPython: Target file: D:\Documents\Da Vinci\Quinto cuatrimestre\Desarrollo de Aplicaciones Multiplataforma\TP2\ExportedAssets\StaticMesh\SM_Modulo_1.fbx
+
+[2026.06.28-04.09.35:266][958]LogPython: Task options: <Object '/Engine/Transient.InterchangeGenericAssetsPipeline_0' (0x000001DE311E8A00) Class 'InterchangeGenericAssetsPipeline'>
+
+[2026.06.28-04.09.35:282][958]LogStreaming: Display: FlushAsyncLoading(652): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.28-04.09.35:329][958]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.28-04.09.35:329][958]LogInterchangeEngine: Display: Interchange start importing source [D:/Documents/Da Vinci/Quinto cuatrimestre/Desarrollo de Aplicaciones Multiplataforma/TP2/ExportedAssets/StaticMesh/SM_Modulo_1.fbx]
+[2026.06.28-04.09.35:373][958]Interchange: Error: [D:/Documents/Da Vinci/Quinto cuatrimestre/Desarrollo de Aplicaciones Multiplataforma/TP2/ExportedAssets/StaticMesh/SM_Modulo_1.fbx : ““, StaticMesh] No puedes crear un recurso de la clase «StaticMesh» con el nombre «SM_Modulo_1» en «/Game/ImportedBlenderAssets» porque ya hay un recurso de la clase «ObjectRedirector» con el mismo nombre en esa carpeta.
+[2026.06.28-04.09.35:479][958]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.09.35:484][958]LogPython: # ================ Full import completed ! ================ #
+
+[2026.06.28-04.09.35:495][958]LogPython: Imported StaticMesh: 0
+
+[2026.06.28-04.09.35:505][958]LogPython: Imported SkeletalMesh: 0
+
+[2026.06.28-04.09.35:516][958]LogPython: Imported Alembic: 0
+
+[2026.06.28-04.09.35:527][958]LogPython: Imported Animation: 0
+
+[2026.06.28-04.09.35:538][958]LogPython: Import failled: 1
+
+[2026.06.28-04.09.35:548][958]LogPython: Import failed: Zero imported object for: Modulo_1
+
+[2026.06.28-04.09.35:559][958]LogPython: # ==================== Import finished! ==================== #
+
+[2026.06.28-04.09.35:569][958]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.09.42:116][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.09.42:183][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/papel_inferior_top] ([1] browsable assets)...
+[2026.06.28-04.09.42:183][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/papel_inferior_top]
+[2026.06.28-04.09.42:190][628]LogSavePackage: Moving output files for package: /Game/MODULOS/papel_inferior_top
+[2026.06.28-04.09.42:190][628]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/papel_inferior_topB33D2FB14C5F4FF55F3E73B690B6505E.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/papel_inferior_top.uasset'
+[2026.06.28-04.09.42:198][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 81.797 ms (total: 25.7 sec)
+[2026.06.28-04.09.42:248][628]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.09.42:248][628]LogContentValidation: Enabled validators:
+[2026.06.28-04.09.42:248][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.09.42:248][628]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.09.42:248][628]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.09.42:248][628]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.09.42:248][628]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.09.42:248][628]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.09.42:248][628]AssetCheck: /Game/MODULOS/papel_inferior_top Validando recurso
+[2026.06.28-04.16.16:109][476]Cmd: py "D:\Documents\Da Vinci\Quinto cuatrimestre\Desarrollo de Aplicaciones Multiplataforma\TP2\ExportedAssets\ImportAssetScript.py"
+[2026.06.28-04.16.16:117][476]LogPython: # ==================== Import started ! ==================== #
+
+[2026.06.28-04.16.16:124][476]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.16.16:134][476]LogPython: ### Import asset 1/1: 'Puerta de las habitaciones'
+
+[2026.06.28-04.16.16:145][476]LogPython: Target file: D:\Documents\Da Vinci\Quinto cuatrimestre\Desarrollo de Aplicaciones Multiplataforma\TP2\ExportedAssets\StaticMesh\SM_Puerta de las habitaciones.fbx
+
+[2026.06.28-04.16.16:157][476]LogPython: Task options: <Object '/Engine/Transient.InterchangeGenericAssetsPipeline_3' (0x000001DDA6D38100) Class 'InterchangeGenericAssetsPipeline'>
+
+[2026.06.28-04.16.16:231][476]LogStreaming: Display: FlushAsyncLoading(662): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.28-04.16.16:231][476]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.28-04.16.16:231][476]LogInterchangeEngine: Display: Interchange start importing source [D:/Documents/Da Vinci/Quinto cuatrimestre/Desarrollo de Aplicaciones Multiplataforma/TP2/ExportedAssets/StaticMesh/SM_Puerta de las habitaciones.fbx]
+[2026.06.28-04.16.16:379][476]LogStaticMesh: Display: Malla estática de construcción SM_Puerta_de_las_habitaciones (Estimación de memoria necesaria: 13.46681 MB)...
+[2026.06.28-04.16.16:458][476]LogStaticMesh: Adjacency [0.00s], tris: 8796, UVs 2
+[2026.06.28-04.16.16:464][476]LogStaticMesh: Clustering [0.01s]. Ratio: 1.014493
+[2026.06.28-04.16.16:466][476]LogStaticMesh: Leaves [0.00s]
+[2026.06.28-04.16.16:654][476]LogStaticMesh: Reduce [0.19s]
+[2026.06.28-04.16.16:654][476]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.06.28-04.16.16:655][476]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2026.06.28-04.16.16:686][476]LogStaticMesh: ConstrainClusters:
+[2026.06.28-04.16.16:686][476]LogStaticMesh:   Input: 146 Clusters, 18368 Triangles and 42300 Vertices
+[2026.06.28-04.16.16:686][476]LogStaticMesh:   Output without splits: 146 Clusters, 18368 Triangles and 42300 Vertices
+[2026.06.28-04.16.16:686][476]LogStaticMesh:   Output with splits: 286 Clusters, 18368 Triangles and 42385 Vertices
+[2026.06.28-04.16.16:686][476]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 286, Slow Path Clusters: 0, 1 Material: 286, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2026.06.28-04.16.16:691][476]LogStaticMesh: WritePages:
+[2026.06.28-04.16.16:691][476]LogStaticMesh:   Root: GPU size: 31608 bytes. 1 Pages. 31608.000 bytes per page (96.460% utilization).
+[2026.06.28-04.16.16:691][476]LogStaticMesh:   Streaming: GPU size: 494916 bytes. 4 Pages (4 with relative encoding). 123729.000 bytes per page (94.398% utilization).
+[2026.06.28-04.16.16:691][476]LogStaticMesh:   Page data disk size: 509400 bytes. Fixup data size: 1856 bytes.
+[2026.06.28-04.16.16:691][476]LogStaticMesh:   Total GPU size: 526524 bytes, Total disk size: 511256 bytes.
+[2026.06.28-04.16.16:691][476]LogStaticMesh: Encode [0.04s]
+[2026.06.28-04.16.16:691][476]LogStaticMesh: NaniteBuild [0.24s]
+[2026.06.28-04.16.16:703][476]LogStaticMesh: Built static mesh [0.32s] /Game/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones.SM_Puerta_de_las_habitaciones
+[2026.06.28-04.16.16:833][476]LogInterchangeEngine: Display: Interchange import completed [D:/Documents/Da Vinc...tedAssets/StaticMesh/SM_Puerta de las habitaciones.fbx]
+[2026.06.28-04.16.16:857][476]LogStaticMesh: Display: Esperando que mallas estáticas esté listo0 /1 (/Game/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones)...
+[2026.06.28-04.16.16:940][476]LogStaticMesh: Display: Esperando que mallas estáticas esté listo0 /1 (/Game/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones)...
+[2026.06.28-04.16.16:997][476]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.16.17:003][476]LogPython: # ================ Full import completed ! ================ #
+
+[2026.06.28-04.16.17:014][476]LogPython: Imported StaticMesh: 1
+
+[2026.06.28-04.16.17:025][476]LogPython: Imported SkeletalMesh: 0
+
+[2026.06.28-04.16.17:036][476]LogPython: Imported Alembic: 0
+
+[2026.06.28-04.16.17:046][476]LogPython: Imported Animation: 0
+
+[2026.06.28-04.16.17:057][476]LogPython: Import failled: 0
+
+[2026.06.28-04.16.17:068][476]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.16.17:125][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones] ([1] browsable assets)...
+[2026.06.28-04.16.17:163][476]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones.SM_Puerta_de_las_habitaciones]
+[2026.06.28-04.16.17:163][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones]
+[2026.06.28-04.16.17:177][476]LogSavePackage: Moving output files for package: /Game/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones
+[2026.06.28-04.16.17:177][476]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SM_Puerta_de_las_habitacionesC2EB6F82499C4B22C7003785DFCAA29B.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones.uasset'
+[2026.06.28-04.16.17:185][476]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.836 ms (total: 25.8 sec)
+[2026.06.28-04.16.17:190][476]LogPython: # ==================== Import finished! ==================== #
+
+[2026.06.28-04.16.17:194][476]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.16.17:259][476]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.16.17:259][476]LogContentValidation: Enabled validators:
+[2026.06.28-04.16.17:259][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.16.17:259][476]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.16.17:259][476]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.16.17:259][476]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.16.17:259][476]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.16.17:259][476]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.16.17:259][476]AssetCheck: /Game/ImportedBlenderAssets/SM_Puerta_de_las_habitaciones Validando recurso
+[2026.06.28-04.16.17:299][476]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.16.48:243][307]Cmd: py "D:\Documents\Da Vinci\Quinto cuatrimestre\Desarrollo de Aplicaciones Multiplataforma\TP2\ExportedAssets\ImportAssetScript.py"
+[2026.06.28-04.16.48:250][307]LogPython: # ==================== Import started ! ==================== #
+
+[2026.06.28-04.16.48:259][307]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.16.48:269][307]LogPython: ### Import asset 1/1: 'Puerta principal'
+
+[2026.06.28-04.16.48:280][307]LogPython: Target file: D:\Documents\Da Vinci\Quinto cuatrimestre\Desarrollo de Aplicaciones Multiplataforma\TP2\ExportedAssets\StaticMesh\SM_Puerta principal.fbx
+
+[2026.06.28-04.16.48:291][307]LogPython: Task options: <Object '/Engine/Transient.InterchangeGenericAssetsPipeline_5' (0x000001DDB3154800) Class 'InterchangeGenericAssetsPipeline'>
+
+[2026.06.28-04.16.48:342][307]LogStreaming: Display: FlushAsyncLoading(664): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.28-04.16.48:343][307]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.28-04.16.48:343][307]LogInterchangeEngine: Display: Interchange start importing source [D:/Documents/Da Vinci/Quinto cuatrimestre/Desarrollo de Aplicaciones Multiplataforma/TP2/ExportedAssets/StaticMesh/SM_Puerta principal.fbx]
+[2026.06.28-04.16.48:485][307]LogStaticMesh: Display: Malla estática de construcción SM_Puerta_principal (Estimación de memoria necesaria: 14.709636 MB)...
+[2026.06.28-04.16.48:552][307]LogStaticMesh: Adjacency [0.00s], tris: 9604, UVs 2
+[2026.06.28-04.16.48:558][307]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2026.06.28-04.16.48:560][307]LogStaticMesh: Leaves [0.00s]
+[2026.06.28-04.16.48:781][307]LogStaticMesh: Reduce [0.22s]
+[2026.06.28-04.16.48:791][307]LogStaticMesh: Fallback [0.01s], num tris: 308
+[2026.06.28-04.16.48:795][307]LogStaticMesh: Fallback [0.00s], num tris: 256
+[2026.06.28-04.16.48:813][307]LogStaticMesh: ConstrainClusters:
+[2026.06.28-04.16.48:813][307]LogStaticMesh:   Input: 156 Clusters, 19680 Triangles and 42671 Vertices
+[2026.06.28-04.16.48:813][307]LogStaticMesh:   Output without splits: 156 Clusters, 19680 Triangles and 42706 Vertices
+[2026.06.28-04.16.48:813][307]LogStaticMesh:   Output with splits: 284 Clusters, 19680 Triangles and 42790 Vertices
+[2026.06.28-04.16.48:814][307]LogStaticMesh: Material Stats - Unique Materials: 5, Fast Path Clusters: 282, Slow Path Clusters: 2, 1 Material: 250, 2 Materials: 25, 3 Materials: 7, At Least 4 Materials: 2
+[2026.06.28-04.16.48:817][307]LogStaticMesh: WritePages:
+[2026.06.28-04.16.48:817][307]LogStaticMesh:   Root: GPU size: 31852 bytes. 1 Pages. 31852.000 bytes per page (97.205% utilization).
+[2026.06.28-04.16.48:817][307]LogStaticMesh:   Streaming: GPU size: 511268 bytes. 4 Pages (4 with relative encoding). 127817.000 bytes per page (97.517% utilization).
+[2026.06.28-04.16.48:817][307]LogStaticMesh:   Page data disk size: 523468 bytes. Fixup data size: 1960 bytes.
+[2026.06.28-04.16.48:817][307]LogStaticMesh:   Total GPU size: 543120 bytes, Total disk size: 525428 bytes.
+[2026.06.28-04.16.48:817][307]LogStaticMesh: Encode [0.02s]
+[2026.06.28-04.16.48:817][307]LogStaticMesh: NaniteBuild [0.27s]
+[2026.06.28-04.16.48:832][307]LogStaticMesh: Built static mesh [0.35s] /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal
+[2026.06.28-04.16.48:895][307]LogStaticMesh: Warning: SM_Puerta_principal tiene bases tangentes degeneradas que darán lugar a un sombreado incorrecto. Considera la posibilidad de activar Recalcular tangentes en la configuración de Construcción de la malla. 
+[2026.06.28-04.16.48:895][307]LogStaticMesh: Warning: SM_Puerta_principal tiene algunas bionormales casi nulas que pueden crear algunos problemas. (La tolerancia de 1E-4)
+[2026.06.28-04.16.48:911][307]LogInterchangeEngine: Display: Interchange import completed [D:/Documents/Da Vinc...tedAssets/StaticMesh/SM_Puerta principal.fbx]
+[2026.06.28-04.16.48:935][307]LogStaticMesh: Display: Esperando que mallas estáticas esté listo0 /1 (/Game/ImportedBlenderAssets/SM_Puerta_principal)...
+[2026.06.28-04.16.49:006][307]LogStaticMesh: Display: Esperando que mallas estáticas esté listo0 /1 (/Game/ImportedBlenderAssets/SM_Puerta_principal)...
+[2026.06.28-04.16.49:055][307]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.16.49:061][307]LogPython: # ================ Full import completed ! ================ #
+
+[2026.06.28-04.16.49:072][307]LogPython: Imported StaticMesh: 1
+
+[2026.06.28-04.16.49:083][307]LogPython: Imported SkeletalMesh: 0
+
+[2026.06.28-04.16.49:095][307]LogPython: Imported Alembic: 0
+
+[2026.06.28-04.16.49:106][307]LogPython: Imported Animation: 0
+
+[2026.06.28-04.16.49:116][307]LogPython: Import failled: 0
+
+[2026.06.28-04.16.49:127][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.16.49:157][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ImportedBlenderAssets/SM_Puerta_principal] ([1] browsable assets)...
+[2026.06.28-04.16.49:228][307]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal]
+[2026.06.28-04.16.49:228][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/ImportedBlenderAssets/SM_Puerta_principal]
+[2026.06.28-04.16.49:243][307]LogSavePackage: Moving output files for package: /Game/ImportedBlenderAssets/SM_Puerta_principal
+[2026.06.28-04.16.49:243][307]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SM_Puerta_principal392DC6B84FABCB5E4922E9A974CF945D.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/ImportedBlenderAssets/SM_Puerta_principal.uasset'
+[2026.06.28-04.16.49:251][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.052 ms (total: 25.9 sec)
+[2026.06.28-04.16.49:254][307]LogPython: # ==================== Import finished! ==================== #
+
+[2026.06.28-04.16.49:263][307]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.16.49:325][307]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.16.49:325][307]LogContentValidation: Enabled validators:
+[2026.06.28-04.16.49:325][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.16.49:325][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.16.49:325][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.16.49:325][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.16.49:325][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.16.49:325][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.16.49:325][307]AssetCheck: /Game/ImportedBlenderAssets/SM_Puerta_principal Validando recurso
+[2026.06.28-04.16.49:345][307]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.16.53:780][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal
+[2026.06.28-04.16.53:780][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal
+[2026.06.28-04.16.53:780][736]LogActorFactory: Actor Factory spawned StaticMesh /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_5
+[2026.06.28-04.16.54:855][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.28-04.16.54:859][858]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2026.06.28-04.16.54:862][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal
+[2026.06.28-04.16.54:862][858]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal
+[2026.06.28-04.16.54:864][858]LogActorFactory: Actor Factory spawned StaticMesh /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F5E802_1459090672
+[2026.06.28-04.17.41:600][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+[2026.06.28-04.17.41:600][549]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+[2026.06.28-04.17.41:601][549]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_13
+[2026.06.28-04.17.42:963][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.06.28-04.17.42:968][708]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.06.28-04.17.42:972][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+[2026.06.28-04.17.42:972][708]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+[2026.06.28-04.17.42:974][708]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F5E802_1507200673
+[2026.06.28-04.18.03:949][ 30]LogDerivedDataCache: C:/Users/Lula/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.06.28-04.18.06:519][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.18.06:519][277]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.18.06:520][277]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_46
+[2026.06.28-04.18.08:289][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-04.18.08:293][484]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.06.28-04.18.08:296][484]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.18.08:296][484]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.18.08:298][484]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F5E802_1532524674
+[2026.06.28-04.18.39:186][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.18.39:198][261]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IQ/4GEMH7L9ITILGQ7CQ280DR_Auto8
+[2026.06.28-04.18.39:198][261]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/4GEMH7L9ITILGQ7CQ280DR_Auto8833FCB3A497928D34D10E98B7C058507.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IQ/4GEMH7L9ITILGQ7CQ280DR_Auto8.uasset'
+[2026.06.28-04.18.39:206][261]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/KK/JESQ5YT4QNFA4VAZTZMXC7_Auto8
+[2026.06.28-04.18.39:206][261]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/JESQ5YT4QNFA4VAZTZMXC7_Auto8B0FAF0A84414E7A6C475DFB06060E037.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/KK/JESQ5YT4QNFA4VAZTZMXC7_Auto8.uasset'
+[2026.06.28-04.18.39:212][261]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/DM/0261JI0807NVMJBPPF0TTT_Auto8
+[2026.06.28-04.18.39:212][261]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/0261JI0807NVMJBPPF0TTT_Auto829AA9DF048880F58ADF17F957137BD76.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/DM/0261JI0807NVMJBPPF0TTT_Auto8.uasset'
+[2026.06.28-04.18.39:212][261]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.042
+[2026.06.28-04.18.39:212][261]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2026.06.28-04.18.44:938][489]Cmd: py "D:\Documents\Da Vinci\Quinto cuatrimestre\Desarrollo de Aplicaciones Multiplataforma\TP2\ExportedAssets\ImportAssetScript.py"
+[2026.06.28-04.18.44:946][489]LogPython: # ==================== Import started ! ==================== #
+
+[2026.06.28-04.18.44:952][489]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.18.44:962][489]LogPython: ### Import asset 1/1: 'Modulo_2_ok'
+
+[2026.06.28-04.18.44:973][489]LogPython: Target file: D:\Documents\Da Vinci\Quinto cuatrimestre\Desarrollo de Aplicaciones Multiplataforma\TP2\ExportedAssets\StaticMesh\SM_Modulo_2_ok.fbx
+
+[2026.06.28-04.18.44:983][489]LogPython: Task options: <Object '/Engine/Transient.InterchangeGenericAssetsPipeline_7' (0x000001DE05EDA200) Class 'InterchangeGenericAssetsPipeline'>
+
+[2026.06.28-04.18.45:056][489]LogStreaming: Display: FlushAsyncLoading(666): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.28-04.18.45:057][489]LogInterchangeEngine: Display: Interchange import: Using stack [OverridePipeline] to import.
+[2026.06.28-04.18.45:057][489]LogInterchangeEngine: Display: Interchange start importing source [D:/Documents/Da Vinci/Quinto cuatrimestre/Desarrollo de Aplicaciones Multiplataforma/TP2/ExportedAssets/StaticMesh/SM_Modulo_2_ok.fbx]
+[2026.06.28-04.18.45:073][489]LogStaticMesh: Display: Malla estática de construcción SM_Modulo_2_ok (Estimación de memoria necesaria: 0.255153 MB)...
+[2026.06.28-04.18.45:077][489]LogStaticMesh: Adjacency [0.00s], tris: 156, UVs 2
+[2026.06.28-04.18.45:077][489]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2026.06.28-04.18.45:077][489]LogStaticMesh: Leaves [0.00s]
+[2026.06.28-04.18.45:078][489]LogStaticMesh: Reduce [0.00s]
+[2026.06.28-04.18.45:079][489]LogStaticMesh: Fallback [0.00s], num tris: 156
+[2026.06.28-04.18.45:079][489]LogStaticMesh: Fallback [0.00s], num tris: 156
+[2026.06.28-04.18.45:079][489]LogStaticMesh: ConstrainClusters:
+[2026.06.28-04.18.45:079][489]LogStaticMesh:   Input: 3 Clusters, 282 Triangles and 472 Vertices
+[2026.06.28-04.18.45:079][489]LogStaticMesh:   Output without splits: 3 Clusters, 282 Triangles and 472 Vertices
+[2026.06.28-04.18.45:079][489]LogStaticMesh:   Output with splits: 3 Clusters, 282 Triangles and 472 Vertices
+[2026.06.28-04.18.45:079][489]LogStaticMesh: Material Stats - Unique Materials: 3, Fast Path Clusters: 3, Slow Path Clusters: 0, 1 Material: 0, 2 Materials: 0, 3 Materials: 3, At Least 4 Materials: 0
+[2026.06.28-04.18.45:079][489]LogStaticMesh: WritePages:
+[2026.06.28-04.18.45:079][489]LogStaticMesh:   Root: GPU size: 7656 bytes. 1 Pages. 7656.000 bytes per page (23.364% utilization).
+[2026.06.28-04.18.45:079][489]LogStaticMesh:   Streaming: 0 bytes.
+[2026.06.28-04.18.45:079][489]LogStaticMesh:   Page data disk size: 6712 bytes. Fixup data size: 40 bytes.
+[2026.06.28-04.18.45:079][489]LogStaticMesh:   Total GPU size: 7656 bytes, Total disk size: 6752 bytes.
+[2026.06.28-04.18.45:079][489]LogStaticMesh: Encode [0.00s]
+[2026.06.28-04.18.45:079][489]LogStaticMesh: NaniteBuild [0.00s]
+[2026.06.28-04.18.45:086][489]LogStaticMesh: Built static mesh [0.01s] /Game/ImportedBlenderAssets/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.18.45:091][489]LogStaticMesh: Warning: SM_Modulo_2_ok tiene bases tangentes degeneradas que darán lugar a un sombreado incorrecto. Considera la posibilidad de activar Recalcular tangentes en la configuración de Construcción de la malla. 
+[2026.06.28-04.18.45:091][489]LogStaticMesh: Warning: SM_Modulo_2_ok tiene algunas bionormales casi nulas que pueden crear algunos problemas. (La tolerancia de 1E-4)
+[2026.06.28-04.18.45:113][489]LogInterchangeEngine: Display: Interchange import completed [D:/Documents/Da Vinc...tedAssets/StaticMesh/SM_Modulo_2_ok.fbx]
+[2026.06.28-04.18.45:144][489]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.18.45:151][489]LogPython: # ================ Full import completed ! ================ #
+
+[2026.06.28-04.18.45:162][489]LogPython: Imported StaticMesh: 1
+
+[2026.06.28-04.18.45:173][489]LogPython: Imported SkeletalMesh: 0
+
+[2026.06.28-04.18.45:184][489]LogPython: Imported Alembic: 0
+
+[2026.06.28-04.18.45:194][489]LogPython: Imported Animation: 0
+
+[2026.06.28-04.18.45:205][489]LogPython: Import failled: 0
+
+[2026.06.28-04.18.45:215][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.18.45:272][489]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ImportedBlenderAssets/SM_Modulo_2_ok] ([1] browsable assets)...
+[2026.06.28-04.18.45:305][489]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ImportedBlenderAssets/SM_Modulo_2_ok.SM_Modulo_2_ok]
+[2026.06.28-04.18.45:305][489]OBJ SavePackage: Finished generating thumbnails for package [/Game/ImportedBlenderAssets/SM_Modulo_2_ok]
+[2026.06.28-04.18.45:313][489]LogSavePackage: Moving output files for package: /Game/ImportedBlenderAssets/SM_Modulo_2_ok
+[2026.06.28-04.18.45:313][489]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SM_Modulo_2_okE6AAEFF941DC095617C8C1A4E82D12A6.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/ImportedBlenderAssets/SM_Modulo_2_ok.uasset'
+[2026.06.28-04.18.45:320][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 104.661 ms (total: 26.1 sec)
+[2026.06.28-04.18.45:323][489]LogPython: # ==================== Import finished! ==================== #
+
+[2026.06.28-04.18.45:329][489]LogPython: # ---------------------------------------------------------- #
+
+[2026.06.28-04.18.45:387][489]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.18.45:387][489]LogContentValidation: Enabled validators:
+[2026.06.28-04.18.45:387][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.18.45:387][489]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.18.45:387][489]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.18.45:387][489]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.18.45:387][489]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.18.45:387][489]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.18.45:387][489]AssetCheck: /Game/ImportedBlenderAssets/SM_Modulo_2_ok Validando recurso
+[2026.06.28-04.18.45:429][489]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.18.52:797][195]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.18.52:797][195]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/SM_Modulo_2_ok] ([1] browsable assets)...
+[2026.06.28-04.18.52:797][195]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/SM_Modulo_2_ok]
+[2026.06.28-04.18.52:798][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MODULOS/SM_Modulo_2_ok" FILE="../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/SM_Modulo_2_ok.uasset" SILENT=true
+[2026.06.28-04.18.52:806][195]LogSavePackage: Moving output files for package: /Game/MODULOS/SM_Modulo_2_ok
+[2026.06.28-04.18.52:806][195]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SM_Modulo_2_ok62DCD7284B46068A4A8ABC8440742870.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/SM_Modulo_2_ok.uasset'
+[2026.06.28-04.18.52:807][195]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.968 ms (total: 26.1 sec)
+[2026.06.28-04.18.52:852][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.06.28-04.18.52:871][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.06.28-04.18.52:886][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-04.18.52:902][195]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.06.28-04.18.52:902][195]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.18.52:902][195]LogContentValidation: Enabled validators:
+[2026.06.28-04.18.52:902][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.18.52:902][195]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.18.52:902][195]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.18.52:902][195]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.18.52:902][195]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.18.52:902][195]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.18.52:902][195]AssetCheck: /Game/MODULOS/SM_Modulo_2_ok Validando recurso
+[2026.06.28-04.18.52:916][195]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.18.55:940][505]Cmd: DELETE
+[2026.06.28-04.18.55:940][505]Cmd: ACTOR DELETE
+[2026.06.28-04.18.55:942][505]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.28-04.18.55:957][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.06.28-04.18.55:960][505]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.06.28-04.19.00:138][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.19.00:139][875]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.19.00:139][875]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_47
+[2026.06.28-04.19.02:015][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.19.02:019][ 96]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.06.28-04.19.02:022][ 96]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.19.02:022][ 96]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.19.02:024][ 96]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F5E802_1586250675
+[2026.06.28-04.19.29:656][116]Cmd: DELETE
+[2026.06.28-04.19.29:656][116]Cmd: ACTOR DELETE
+[2026.06.28-04.19.29:658][116]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.28-04.19.29:675][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-04.19.29:680][116]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2026.06.28-04.19.30:738][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.19.30:786][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.19.30:801][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.19.30:816][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.19.30:825][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IQ/4GEMH7L9ITILGQ7CQ280DR
+[2026.06.28-04.19.30:825][242]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/4GEMH7L9ITILGQ7CQ280DRA19AB9FD4375D036C7EFC2BBA0939ADC.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IQ/4GEMH7L9ITILGQ7CQ280DR.uasset'
+[2026.06.28-04.19.30:833][242]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/VU/4WPW3NUREQPMJ9BNFPBPT4
+[2026.06.28-04.19.30:833][242]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/4WPW3NUREQPMJ9BNFPBPT4BA32118B446175B9F17195AA447501CB.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/VU/4WPW3NUREQPMJ9BNFPBPT4.uasset'
+[2026.06.28-04.19.30:840][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.341 ms (total: 26.2 sec)
+[2026.06.28-04.19.30:887][242]LogContentValidation: Display: Starting to validate 2 assets
+[2026.06.28-04.19.30:887][242]LogContentValidation: Enabled validators:
+[2026.06.28-04.19.30:887][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.19.30:887][242]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.19.30:887][242]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.19.30:887][242]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.19.30:887][242]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.19.30:887][242]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.19.30:887][242]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.19.30:918][242]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.19.33:473][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.19.33:473][462]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.19.33:473][462]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_48
+[2026.06.28-04.19.37:641][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.06.28-04.19.37:643][957]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.06.28-04.19.37:647][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.19.37:647][957]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.19.37:648][957]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F5E802_1621875676
+[2026.06.28-04.19.50:391][317]Cmd: TRANSACTION UNDO
+[2026.06.28-04.19.50:391][317]LogEditorTransaction: Undo Mover elementos
+[2026.06.28-04.19.59:438][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.19.59:504][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.19.59:521][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.19.59:535][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.19.59:547][289]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/Z6/2717M0GW7AS1IMTRYVT8LK
+[2026.06.28-04.19.59:547][289]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/2717M0GW7AS1IMTRYVT8LKE71F717A4D196CF1E921B19F892B4B5A.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/Z6/2717M0GW7AS1IMTRYVT8LK.uasset'
+[2026.06.28-04.19.59:555][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.183 ms (total: 26.3 sec)
+[2026.06.28-04.19.59:604][289]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.19.59:604][289]LogContentValidation: Enabled validators:
+[2026.06.28-04.19.59:604][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.19.59:604][289]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.19.59:604][289]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.19.59:604][289]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.19.59:604][289]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.19.59:604][289]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.19.59:604][289]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.19.59:634][289]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.20.15:722][ 39]Cmd: DELETE
+[2026.06.28-04.20.15:722][ 39]Cmd: ACTOR DELETE
+[2026.06.28-04.20.15:724][ 39]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.28-04.20.15:741][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-04.20.15:744][ 39]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.06.28-04.20.17:983][288]Cmd: DELETE
+[2026.06.28-04.20.17:983][288]Cmd: ACTOR DELETE
+[2026.06.28-04.20.17:986][288]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.28-04.20.18:004][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.06.28-04.20.18:007][288]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2026.06.28-04.20.19:004][397]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.20.19:089][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.20.19:106][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.20.19:120][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.20.19:128][397]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.395 ms (total: 26.4 sec)
+[2026.06.28-04.20.20:772][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+[2026.06.28-04.20.20:772][528]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+[2026.06.28-04.20.20:773][528]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_49
+[2026.06.28-04.20.21:654][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.20.21:657][629]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2026.06.28-04.20.21:659][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+[2026.06.28-04.20.21:659][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+[2026.06.28-04.20.21:661][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2.SM_Modulo_2 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F5E802_1665887677
+[2026.06.28-04.21.25:524][994]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.21.25:602][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.21.25:619][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-04.21.25:634][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.21.25:643][994]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/DG/NPG8JPU55F7UTICDROCV4R
+[2026.06.28-04.21.25:643][994]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/NPG8JPU55F7UTICDROCV4R0489F2CB4E9F8EC793C9588729512339.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/DG/NPG8JPU55F7UTICDROCV4R.uasset'
+[2026.06.28-04.21.25:651][994]LogFileHelpers: InternalPromptForCheckoutAndSave took 126.274 ms (total: 26.5 sec)
+[2026.06.28-04.21.25:703][994]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.21.25:703][994]LogContentValidation: Enabled validators:
+[2026.06.28-04.21.25:703][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.21.25:703][994]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.21.25:703][994]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.21.25:703][994]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.21.25:703][994]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.21.25:703][994]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.21.25:703][994]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.21.25:737][994]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.21.34:335][966]Cmd: TRANSACTION UNDO
+[2026.06.28-04.21.34:335][966]LogEditorTransaction: Undo Mover elementos
+[2026.06.28-04.21.35:120][  3]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.21.35:202][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2026.06.28-04.21.35:219][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.21.35:233][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.21.35:242][  3]LogFileHelpers: InternalPromptForCheckoutAndSave took 121.710 ms (total: 26.7 sec)
+[2026.06.28-04.21.36:829][180]Cmd: DUPLICATE
+[2026.06.28-04.21.36:829][180]Cmd: ACTOR DUPLICATE
+[2026.06.28-04.21.58:755][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.21.58:832][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.06.28-04.21.58:851][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.06.28-04.21.58:867][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.21.58:877][523]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/VG/581XK9PKV0HX3U4UWCQI8Q
+[2026.06.28-04.21.58:877][523]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/581XK9PKV0HX3U4UWCQI8Q19BE0DCF4660162B68390A8CF1C89227.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/VG/581XK9PKV0HX3U4UWCQI8Q.uasset'
+[2026.06.28-04.21.58:886][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 131.102 ms (total: 26.8 sec)
+[2026.06.28-04.21.58:933][523]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.21.58:933][523]LogContentValidation: Enabled validators:
+[2026.06.28-04.21.58:933][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.21.58:933][523]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.21.58:933][523]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.21.58:933][523]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.21.58:933][523]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.21.58:933][523]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.21.58:933][523]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.21.58:969][523]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.22.34:851][638]Cmd: TRANSACTION UNDO
+[2026.06.28-04.22.34:851][638]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.06.28-04.22.35:166][642]Cmd: TRANSACTION UNDO
+[2026.06.28-04.22.35:166][642]LogEditorTransaction: Undo Mover elementos
+[2026.06.28-04.22.35:417][648]Cmd: TRANSACTION UNDO
+[2026.06.28-04.22.35:417][648]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.06.28-04.22.35:869][691]Cmd: TRANSACTION UNDO
+[2026.06.28-04.22.35:869][691]LogEditorTransaction: Undo Hacer clic en elementos
+[2026.06.28-04.22.36:269][729]Cmd: TRANSACTION UNDO
+[2026.06.28-04.22.36:269][729]LogEditorTransaction: Undo Mover elementos
+[2026.06.28-04.22.37:191][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.22.37:269][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-04.22.37:289][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-04.22.37:304][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-04.22.37:314][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.827 ms (total: 26.9 sec)
+[2026.06.28-04.23.06:285][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.23.06:332][567]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/Socalos_1] ([1] browsable assets)...
+[2026.06.28-04.23.06:332][567]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/Socalos_1]
+[2026.06.28-04.23.06:332][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MODULOS/Socalos_1" FILE="../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Socalos_1.uasset" SILENT=true
+[2026.06.28-04.23.06:341][567]LogSavePackage: Moving output files for package: /Game/MODULOS/Socalos_1
+[2026.06.28-04.23.06:341][567]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Socalos_16479AE524F34E99E21EE14B80091458B.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Socalos_1.uasset'
+[2026.06.28-04.23.06:347][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.847 ms (total: 27.0 sec)
+[2026.06.28-04.23.06:401][567]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.23.06:401][567]LogContentValidation: Enabled validators:
+[2026.06.28-04.23.06:401][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.23.06:401][567]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.23.06:401][567]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.23.06:401][567]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.23.06:401][567]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.23.06:401][567]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.23.06:401][567]AssetCheck: /Game/MODULOS/Socalos_1 Validando recurso
+[2026.06.28-04.23.21:073][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.23.21:115][ 38]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/Papel_superior] ([1] browsable assets)...
+[2026.06.28-04.23.21:115][ 38]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/Papel_superior]
+[2026.06.28-04.23.21:115][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MODULOS/Papel_superior" FILE="../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Papel_superior.uasset" SILENT=true
+[2026.06.28-04.23.21:123][ 38]LogSavePackage: Moving output files for package: /Game/MODULOS/Papel_superior
+[2026.06.28-04.23.21:123][ 38]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Papel_superiorEC47C8CE4FC347A214E1B9857621BB87.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Papel_superior.uasset'
+[2026.06.28-04.23.21:131][ 38]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.116 ms (total: 27.0 sec)
+[2026.06.28-04.23.21:164][ 38]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.23.21:164][ 38]LogContentValidation: Enabled validators:
+[2026.06.28-04.23.21:164][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.23.21:164][ 38]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.23.21:164][ 38]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.23.21:164][ 38]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.23.21:164][ 38]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.23.21:164][ 38]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.23.21:164][ 38]AssetCheck: /Game/MODULOS/Papel_superior Validando recurso
+[2026.06.28-04.23.35:404][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.23.35:466][310]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/Socalos_1] ([1] browsable assets)...
+[2026.06.28-04.23.35:466][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/Socalos_1]
+[2026.06.28-04.23.35:466][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MODULOS/Socalos_1" FILE="../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Socalos_1.uasset" SILENT=true
+[2026.06.28-04.23.35:474][310]LogSavePackage: Moving output files for package: /Game/MODULOS/Socalos_1
+[2026.06.28-04.23.35:474][310]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Socalos_1243BBEFA4B5A5D2112B0DDBF297F1690.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Socalos_1.uasset'
+[2026.06.28-04.23.35:480][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.504 ms (total: 27.1 sec)
+[2026.06.28-04.23.35:535][310]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.23.35:535][310]LogContentValidation: Enabled validators:
+[2026.06.28-04.23.35:535][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.23.35:535][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.23.35:535][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.23.35:535][310]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.23.35:535][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.23.35:535][310]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.23.35:535][310]AssetCheck: /Game/MODULOS/Socalos_1 Validando recurso
+[2026.06.28-04.23.57:940][558]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.23.57:999][558]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/Papel_inferior] ([1] browsable assets)...
+[2026.06.28-04.23.57:999][558]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/Papel_inferior]
+[2026.06.28-04.23.57:999][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MODULOS/Papel_inferior" FILE="../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Papel_inferior.uasset" SILENT=true
+[2026.06.28-04.23.58:007][558]LogSavePackage: Moving output files for package: /Game/MODULOS/Papel_inferior
+[2026.06.28-04.23.58:007][558]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Papel_inferior1CB1B99B415EC645CC63CD93D829C59D.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Papel_inferior.uasset'
+[2026.06.28-04.23.58:014][558]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.422 ms (total: 27.2 sec)
+[2026.06.28-04.23.58:066][558]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.23.58:066][558]LogContentValidation: Enabled validators:
+[2026.06.28-04.23.58:066][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.23.58:066][558]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.23.58:066][558]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.23.58:066][558]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.23.58:066][558]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.23.58:066][558]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.23.58:066][558]AssetCheck: /Game/MODULOS/Papel_inferior Validando recurso
+[2026.06.28-04.24.13:762][169]Cmd: DELETE
+[2026.06.28-04.24.13:762][169]Cmd: ACTOR DELETE
+[2026.06.28-04.24.13:764][169]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.28-04.24.13:779][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.24.13:793][169]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2026.06.28-04.24.15:508][349]Cmd: DELETE
+[2026.06.28-04.24.15:508][349]Cmd: ACTOR DELETE
+[2026.06.28-04.24.15:510][349]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.28-04.24.15:525][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.24.15:529][349]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.06.28-04.24.20:411][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-04.24.21:711][765]LogSlate: Window 'Delete Assets' being destroyed
+[2026.06.28-04.24.21:763][765]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MODULOS/SM_Modulo_2.SM_Modulo_2
+	Asset Type: StaticMesh
+[2026.06.28-04.24.21:931][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.06.28-04.24.21:946][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.28-04.24.21:961][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2026.06.28-04.24.23:918][966]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.24.23:999][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.28-04.24.24:015][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.28-04.24.24:030][966]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.24.24:040][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/VU/4WPW3NUREQPMJ9BNFPBPT4
+[2026.06.28-04.24.24:040][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/4WPW3NUREQPMJ9BNFPBPT4E100C79742DFDC79B3EAECA919B639F4.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/VU/4WPW3NUREQPMJ9BNFPBPT4.uasset'
+[2026.06.28-04.24.24:047][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/BD/7YG3OZ41GGF7JUVN551PA1
+[2026.06.28-04.24.24:047][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/7YG3OZ41GGF7JUVN551PA196E9D5DB40CB29117D048DAA7AA756E9.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/BD/7YG3OZ41GGF7JUVN551PA1.uasset'
+[2026.06.28-04.24.24:053][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/VG/7KD5NBWLBIR3BNU8TDYXN8
+[2026.06.28-04.24.24:053][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/7KD5NBWLBIR3BNU8TDYXN8C1630DB343B4EA58DA00D78CA57B3F4A.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/VG/7KD5NBWLBIR3BNU8TDYXN8.uasset'
+[2026.06.28-04.24.24:060][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/ED/61NWBCBSVRIKYDK285GQ7P
+[2026.06.28-04.24.24:060][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/61NWBCBSVRIKYDK285GQ7PC9C65CD64E2FDD8D78E79C8C5F726AB1.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/ED/61NWBCBSVRIKYDK285GQ7P.uasset'
+[2026.06.28-04.24.24:066][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8K/BIT1382A5BNM8MEL88V6G4
+[2026.06.28-04.24.24:066][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/BIT1382A5BNM8MEL88V6G44F7C9F30481D4399894D2A9490BB208F.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/8K/BIT1382A5BNM8MEL88V6G4.uasset'
+[2026.06.28-04.24.24:072][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/Z6/2717M0GW7AS1IMTRYVT8LK
+[2026.06.28-04.24.24:072][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/2717M0GW7AS1IMTRYVT8LK1EBB6EDB4EC911B21DDEFA8CE855C22D.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/Z6/2717M0GW7AS1IMTRYVT8LK.uasset'
+[2026.06.28-04.24.24:079][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/XZ/6NZQEEPMT37H9Z63WPRV1E
+[2026.06.28-04.24.24:079][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/6NZQEEPMT37H9Z63WPRV1EC42B2ACF401A6A7BF6395BA92B0FA4B0.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/XZ/6NZQEEPMT37H9Z63WPRV1E.uasset'
+[2026.06.28-04.24.24:085][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/YR/91P3E9FG0C34TFM84K2U2A
+[2026.06.28-04.24.24:085][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/91P3E9FG0C34TFM84K2U2A18C1698143482A01DA1870AB06097D61.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/YR/91P3E9FG0C34TFM84K2U2A.uasset'
+[2026.06.28-04.24.24:091][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/FP/YAMZWC0AIRTAV7VG5RF8K1
+[2026.06.28-04.24.24:091][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/YAMZWC0AIRTAV7VG5RF8K111C50152416E2508846F1C8501F7E36C.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/FP/YAMZWC0AIRTAV7VG5RF8K1.uasset'
+[2026.06.28-04.24.24:098][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/GC/O9KWDF5U3CB246NTIUH8O8
+[2026.06.28-04.24.24:098][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/O9KWDF5U3CB246NTIUH8O85AA2345C4F82D681265D979F3C0AEA31.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/GC/O9KWDF5U3CB246NTIUH8O8.uasset'
+[2026.06.28-04.24.24:104][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/NX/D4FPE1720DCZAJ59IN5EFA
+[2026.06.28-04.24.24:104][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/D4FPE1720DCZAJ59IN5EFA33177CAE43127C67846ED2B3BBC8AC78.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/NX/D4FPE1720DCZAJ59IN5EFA.uasset'
+[2026.06.28-04.24.24:110][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/5I/G2TVI6RY6JR74IWAOJF37W
+[2026.06.28-04.24.24:110][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/G2TVI6RY6JR74IWAOJF37WF0C05CCA43025E3E32856BA0BA949E85.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/5I/G2TVI6RY6JR74IWAOJF37W.uasset'
+[2026.06.28-04.24.24:117][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/5L/516AT8R7F1QRVRBXTVLRAI
+[2026.06.28-04.24.24:117][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/516AT8R7F1QRVRBXTVLRAIB37659D64BC3455AD72402A039367C59.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/5L/516AT8R7F1QRVRBXTVLRAI.uasset'
+[2026.06.28-04.24.24:123][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/HC/WXRQTEMVDF1IRWP9IFL2VE
+[2026.06.28-04.24.24:124][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/WXRQTEMVDF1IRWP9IFL2VE9B938C2E4AF4F716A0DACAA12BAF0F6B.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/HC/WXRQTEMVDF1IRWP9IFL2VE.uasset'
+[2026.06.28-04.24.24:129][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/48/Z112JEBOPZICLHCJ671GMV
+[2026.06.28-04.24.24:130][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Z112JEBOPZICLHCJ671GMV7808F14A46152183A53A308D98C056AE.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/48/Z112JEBOPZICLHCJ671GMV.uasset'
+[2026.06.28-04.24.24:136][966]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/F2/X3N1119O1XBN7NTI2IQ3YO
+[2026.06.28-04.24.24:136][966]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/X3N1119O1XBN7NTI2IQ3YO7B36F20C4556FA935F0E9BA0670B0733.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/F2/X3N1119O1XBN7NTI2IQ3YO.uasset'
+[2026.06.28-04.24.24:144][966]LogFileHelpers: InternalPromptForCheckoutAndSave took 225.167 ms (total: 27.4 sec)
+[2026.06.28-04.24.24:198][966]LogContentValidation: Display: Starting to validate 16 assets
+[2026.06.28-04.24.24:198][966]LogContentValidation: Enabled validators:
+[2026.06.28-04.24.24:198][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.24.24:198][966]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.24.24:198][966]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.24.24:198][966]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.24.24:198][966]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.24.24:198][966]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.24.24:198][966]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.24.26:078][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.24.26:078][118]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.24.26:078][118]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_50
+[2026.06.28-04.24.26:530][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.24.26:533][168]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.06.28-04.24.26:831][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.24.26:831][202]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.24.26:832][202]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_51
+[2026.06.28-04.24.27:324][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.24.27:326][256]LogEditorActor: Deleted 0 Actors (0.016 secs)
+[2026.06.28-04.24.27:329][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.24.27:329][256]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.24.27:331][256]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F5E802_1911557679
+[2026.06.28-04.25.10:322][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.25.10:372][375]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/3H/X0M510ICLIP443YF8XG6LM
+[2026.06.28-04.25.10:372][375]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/X0M510ICLIP443YF8XG6LM5F9FE7304F19B79DBC0B118BEC013B39.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/3H/X0M510ICLIP443YF8XG6LM.uasset'
+[2026.06.28-04.25.10:379][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 57.112 ms (total: 27.5 sec)
+[2026.06.28-04.25.10:413][375]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.25.10:413][375]LogContentValidation: Enabled validators:
+[2026.06.28-04.25.10:413][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.25.10:413][375]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.25.10:413][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.25.10:413][375]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.25.10:413][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.25.10:413][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.25.10:413][375]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.25.10:446][375]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.25.12:310][583]Cmd: DUPLICATE
+[2026.06.28-04.25.12:310][583]Cmd: ACTOR DUPLICATE
+[2026.06.28-04.25.28:532][294]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.25.28:587][294]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/XL/97IDZQE75AQBDWQEAFZVNK
+[2026.06.28-04.25.28:587][294]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/97IDZQE75AQBDWQEAFZVNKDFAB70134A897FEB6CD441AA0E984C8D.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/XL/97IDZQE75AQBDWQEAFZVNK.uasset'
+[2026.06.28-04.25.28:594][294]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.056 ms (total: 27.5 sec)
+[2026.06.28-04.25.28:647][294]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.25.28:647][294]LogContentValidation: Enabled validators:
+[2026.06.28-04.25.28:647][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.25.28:647][294]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.25.28:647][294]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.25.28:647][294]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.25.28:647][294]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.25.28:647][294]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.25.28:647][294]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.25.28:678][294]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.25.45:452][912]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.25.45:496][912]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/Papel_superior] ([1] browsable assets)...
+[2026.06.28-04.25.45:496][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/Papel_superior]
+[2026.06.28-04.25.45:496][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MODULOS/Papel_superior" FILE="../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Papel_superior.uasset" SILENT=true
+[2026.06.28-04.25.45:504][912]LogSavePackage: Moving output files for package: /Game/MODULOS/Papel_superior
+[2026.06.28-04.25.45:504][912]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Papel_superiorFCFD50A244012FD3EBACBBAA43582E86.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Papel_superior.uasset'
+[2026.06.28-04.25.45:511][912]LogFileHelpers: InternalPromptForCheckoutAndSave took 58.058 ms (total: 27.6 sec)
+[2026.06.28-04.25.45:564][912]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.25.45:564][912]LogContentValidation: Enabled validators:
+[2026.06.28-04.25.45:564][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.25.45:564][912]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.25.45:564][912]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.25.45:564][912]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.25.45:564][912]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.25.45:564][912]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.25.45:565][912]AssetCheck: /Game/MODULOS/Papel_superior Validando recurso
+[2026.06.28-04.26.08:087][155]Cmd: DELETE
+[2026.06.28-04.26.08:087][155]Cmd: ACTOR DELETE
+[2026.06.28-04.26.08:089][155]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.28-04.26.08:105][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.06.28-04.26.08:113][155]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2026.06.28-04.26.10:593][353]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.26.10:593][353]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.26.10:593][353]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_52
+[2026.06.28-04.26.12:021][519]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-04.26.12:025][519]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.06.28-04.26.12:028][519]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.26.12:028][519]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3
+[2026.06.28-04.26.12:029][519]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_3.SM_Modulo_3 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F5E802_2016256681
+[2026.06.28-04.26.41:661][274]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.26.41:731][274]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/Papel_inferior] ([1] browsable assets)...
+[2026.06.28-04.26.41:731][274]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/Papel_inferior]
+[2026.06.28-04.26.41:731][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MODULOS/Papel_inferior" FILE="../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Papel_inferior.uasset" SILENT=true
+[2026.06.28-04.26.41:738][274]LogSavePackage: Moving output files for package: /Game/MODULOS/Papel_inferior
+[2026.06.28-04.26.41:738][274]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Papel_inferiorFDF2CBB94833DBF2762CACA3D0974FCF.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/Papel_inferior.uasset'
+[2026.06.28-04.26.41:745][274]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.876 ms (total: 27.7 sec)
+[2026.06.28-04.26.41:794][274]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.26.41:794][274]LogContentValidation: Enabled validators:
+[2026.06.28-04.26.41:794][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.26.41:794][274]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.26.41:794][274]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.26.41:794][274]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.26.41:794][274]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.26.41:794][274]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.26.41:794][274]AssetCheck: /Game/MODULOS/Papel_inferior Validando recurso
+[2026.06.28-04.26.51:290][266]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MODULOS/Papel_superior.Papel_superior
+[2026.06.28-04.26.51:291][266]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.06.28-04.28.16:332][219]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.28.16:407][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.28-04.28.16:428][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.06.28-04.28.16:443][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.28.16:455][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/XL/97IDZQE75AQBDWQEAFZVNK
+[2026.06.28-04.28.16:455][219]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/97IDZQE75AQBDWQEAFZVNKB2A536EF4468EA5BB2B48E9233AEA09D.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/XL/97IDZQE75AQBDWQEAFZVNK.uasset'
+[2026.06.28-04.28.16:464][219]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/D5/7PD7D0GSAGVJBF7QEYF5ZG
+[2026.06.28-04.28.16:464][219]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/7PD7D0GSAGVJBF7QEYF5ZG782B8A234F15DC55432E44B249CD6166.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/D5/7PD7D0GSAGVJBF7QEYF5ZG.uasset'
+[2026.06.28-04.28.16:471][219]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.344 ms (total: 27.8 sec)
+[2026.06.28-04.28.16:509][219]LogContentValidation: Display: Starting to validate 2 assets
+[2026.06.28-04.28.16:509][219]LogContentValidation: Enabled validators:
+[2026.06.28-04.28.16:509][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.28.16:509][219]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.28.16:509][219]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.28.16:509][219]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.28.16:509][219]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.28.16:509][219]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.28.16:509][219]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.28.16:544][219]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.29.00:953][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.29.01:026][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.29.01:046][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.29.01:061][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.29.01:070][ 48]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/6Q/UN4A212Z65QWAKU7ADLP5S
+[2026.06.28-04.29.01:071][ 48]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/UN4A212Z65QWAKU7ADLP5S12E1556A47BB31E5B87C16AA511B27AA.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/6Q/UN4A212Z65QWAKU7ADLP5S.uasset'
+[2026.06.28-04.29.01:078][ 48]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/DC/DZMC3PID6SU6OUGBK8Q8GX
+[2026.06.28-04.29.01:078][ 48]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/DZMC3PID6SU6OUGBK8Q8GX8123AA9F46F0C2CDA43562AEC3C5C880.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/DC/DZMC3PID6SU6OUGBK8Q8GX.uasset'
+[2026.06.28-04.29.01:080][ 48]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IQ/4GEMH7L9ITILGQ7CQ280DR
+[2026.06.28-04.29.01:080][ 48]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/4GEMH7L9ITILGQ7CQ280DRB6BEC60545DEC46B977E809F4EC94769.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IQ/4GEMH7L9ITILGQ7CQ280DR.uasset'
+[2026.06.28-04.29.01:087][ 48]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/CX/0317DGGFP88XX8BQSKT88S
+[2026.06.28-04.29.01:087][ 48]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/0317DGGFP88XX8BQSKT88S772FA0D3408217B5F22ED08AEF3D4408.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/CX/0317DGGFP88XX8BQSKT88S.uasset'
+[2026.06.28-04.29.01:095][ 48]LogFileHelpers: InternalPromptForCheckoutAndSave took 141.457 ms (total: 27.9 sec)
+[2026.06.28-04.29.01:142][ 48]LogContentValidation: Display: Starting to validate 4 assets
+[2026.06.28-04.29.01:142][ 48]LogContentValidation: Enabled validators:
+[2026.06.28-04.29.01:142][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.29.01:142][ 48]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.29.01:142][ 48]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.29.01:142][ 48]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.29.01:142][ 48]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.29.01:142][ 48]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.29.01:142][ 48]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.29.07:971][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.29.07:972][601]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.29.07:972][601]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_53
+[2026.06.28-04.29.08:830][674]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.29.08:834][674]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.06.28-04.29.08:838][674]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.29.08:838][674]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.29.08:839][674]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1119324858
+[2026.06.28-04.29.12:550][984]Cmd: TRANSACTION UNDO
+[2026.06.28-04.29.12:550][984]LogEditorTransaction: Undo Rotar elementos
+[2026.06.28-04.29.30:111][464]Cmd: DUPLICATE
+[2026.06.28-04.29.30:111][464]Cmd: ACTOR DUPLICATE
+[2026.06.28-04.29.59:520][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.29.59:571][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2026.06.28-04.29.59:591][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.29.59:606][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.29.59:615][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/B4/CRRWX70R04IFD9VZYKRAXV
+[2026.06.28-04.29.59:615][920]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/CRRWX70R04IFD9VZYKRAXV89864F31416FB774532CCBBFD4818147.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/B4/CRRWX70R04IFD9VZYKRAXV.uasset'
+[2026.06.28-04.29.59:622][920]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/8F/AWRHOUXTAAZEUYA6VORGQP
+[2026.06.28-04.29.59:622][920]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/AWRHOUXTAAZEUYA6VORGQPC61E3F2D417E79F32D1029AACB5B9CF1.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/8F/AWRHOUXTAAZEUYA6VORGQP.uasset'
+[2026.06.28-04.29.59:630][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.310 ms (total: 28.0 sec)
+[2026.06.28-04.29.59:693][920]LogContentValidation: Display: Starting to validate 2 assets
+[2026.06.28-04.29.59:693][920]LogContentValidation: Enabled validators:
+[2026.06.28-04.29.59:693][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.29.59:693][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.29.59:693][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.29.59:693][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.29.59:693][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.29.59:693][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.29.59:693][920]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.29.59:729][920]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.30.34:384][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.30.34:384][898]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/SM_Puerta_principal] ([1] browsable assets)...
+[2026.06.28-04.30.34:384][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/SM_Puerta_principal]
+[2026.06.28-04.30.34:396][898]LogSavePackage: Moving output files for package: /Game/MODULOS/SM_Puerta_principal
+[2026.06.28-04.30.34:396][898]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SM_Puerta_principal0FEE7C004972FF85E58233A563DC7E77.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/SM_Puerta_principal.uasset'
+[2026.06.28-04.30.34:396][898]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ImportedBlenderAssets/SM_Puerta_principal] ([1] browsable assets)...
+[2026.06.28-04.30.34:396][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/ImportedBlenderAssets/SM_Puerta_principal]
+[2026.06.28-04.30.34:402][898]LogSavePackage: Moving output files for package: /Game/ImportedBlenderAssets/SM_Puerta_principal
+[2026.06.28-04.30.34:402][898]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SM_Puerta_principal38351FC548E98E0102E68AB68F7A42DE.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/ImportedBlenderAssets/SM_Puerta_principal.uasset'
+[2026.06.28-04.30.34:403][898]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MODULOS/SM_Puerta_de_las_habitaciones] ([1] browsable assets)...
+[2026.06.28-04.30.34:403][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/MODULOS/SM_Puerta_de_las_habitaciones]
+[2026.06.28-04.30.34:413][898]LogSavePackage: Moving output files for package: /Game/MODULOS/SM_Puerta_de_las_habitaciones
+[2026.06.28-04.30.34:413][898]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SM_Puerta_de_las_habitaciones679651F24C67E1DFDDE74F9E483A914C.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/MODULOS/SM_Puerta_de_las_habitaciones.uasset'
+[2026.06.28-04.30.34:414][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 28.700 ms (total: 28.1 sec)
+[2026.06.28-04.30.34:447][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.06.28-04.30.34:466][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.06.28-04.30.34:481][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-04.30.34:498][898]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.06.28-04.30.34:498][898]LogContentValidation: Display: Starting to validate 3 assets
+[2026.06.28-04.30.34:498][898]LogContentValidation: Enabled validators:
+[2026.06.28-04.30.34:498][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.30.34:498][898]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.30.34:498][898]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.30.34:498][898]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.30.34:498][898]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.30.34:498][898]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.30.34:498][898]AssetCheck: /Game/MODULOS/SM_Puerta_principal Validando recurso
+[2026.06.28-04.30.34:499][898]AssetCheck: /Game/ImportedBlenderAssets/SM_Puerta_principal Validando recurso
+[2026.06.28-04.30.34:499][898]AssetCheck: /Game/MODULOS/SM_Puerta_de_las_habitaciones Validando recurso
+[2026.06.28-04.30.34:548][898]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.30.37:352][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.06.28-04.30.38:362][183]LogSlate: Window 'Delete Assets' being destroyed
+[2026.06.28-04.30.38:376][183]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/ImportedBlenderAssets/SM_Puerta_principal.SM_Puerta_principal
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/ImportedBlenderAssets/SM_Modulo_4.SM_Modulo_4
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/ImportedBlenderAssets/SM_Modulo_2.SM_Modulo_2
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/ImportedBlenderAssets/SM_Modulo_1.SM_Modulo_1
+	Asset Type: ObjectRedirector
+	Asset Name: /Game/ImportedBlenderAssets/SM_Modulo_3.SM_Modulo_3
+	Asset Type: ObjectRedirector
+[2026.06.28-04.30.38:562][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.28-04.30.38:577][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.28-04.30.38:593][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.30.38:632][183]LogStreaming: Display: FlushAsyncLoading(668): 1 QueuedPackages, 0 AsyncPackages
+[2026.06.28-04.30.39:241][201]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.06.28-04.30.44:568][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Puerta_de_las_habitaciones.SM_Puerta_de_las_habitaciones
+[2026.06.28-04.30.44:568][539]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Puerta_de_las_habitaciones.SM_Puerta_de_las_habitaciones
+[2026.06.28-04.30.44:569][539]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Puerta_de_las_habitaciones.SM_Puerta_de_las_habitaciones as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_58
+[2026.06.28-04.30.45:362][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.30.45:366][602]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2026.06.28-04.30.45:369][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Puerta_de_las_habitaciones.SM_Puerta_de_las_habitaciones
+[2026.06.28-04.30.45:369][602]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Puerta_de_las_habitaciones.SM_Puerta_de_las_habitaciones
+[2026.06.28-04.30.45:371][602]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Puerta_de_las_habitaciones.SM_Puerta_de_las_habitaciones as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1215855860
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: ================================================
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Total job queries 1089, among them cache hits 491 (45.09%), DDC hits 452 (41.51%), Duplicates 77 (7.07%)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Tracking 521 distinct input hashes that result in 385 distinct outputs (73.90%)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: RAM used: 4,74 MiB of 1,60 GiB budget. Usage: 0.29%
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Shaders Compiled: 69
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Jobs assigned 69, completed 69 (100%)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Average time worker was idle: 1103.93 s
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Job execution time: average 0.74 s, max 1.64 s
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Job life time (pending + execution): average 0.80 s, max 1.75
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Shader code size: total 828,682 KiB, numShaders 71, average 11,671 KiB, min 2,25 KiB, max 21,383 KiB
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.88 s
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Jobs were issued in 69 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Average processing rate: 4.64 jobs/sec
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Total thread time: 40,785 s
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Total thread preprocess time: 13,038 s
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Percentage time preprocessing: 31.97%
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Effective parallelization: 2.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.274090
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    4 times, average 1.29 sec, max 1.42 sec, min 1.20 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    3 times, average 1.25 sec, max 1.43 sec, min 1.14 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    4 times, average 1.06 sec, max 1.17 sec, min 0.97 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.81 sec, max 0.90 sec, min 0.68 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    3 times, average 0.80 sec, max 0.83 sec, min 0.76 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 15.58% of total time (compiled    8 times, average 0.79 sec, max 1.13 sec, min 0.60 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 12.64% of total time (compiled    4 times, average 1.29 sec, max 1.42 sec, min 1.20 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 11.61% of total time (compiled    6 times, average 0.79 sec, max 1.07 sec, min 0.55 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                                                 FLumenCardCS - 10.38% of total time (compiled    4 times, average 1.06 sec, max 1.17 sec, min 0.97 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.18% of total time (compiled   11 times, average 0.34 sec, max 0.41 sec, min 0.27 sec)
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: === Material stats ===
+[2026.06.28-04.31.10:726][800]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.06.28-04.31.10:727][800]LogShaderCompilers: Display: Materials Translated:    258
+[2026.06.28-04.31.10:727][800]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2026.06.28-04.31.10:727][800]LogShaderCompilers: Display: Material Translation Only: 0.05 s (46%)
+[2026.06.28-04.31.10:727][800]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2026.06.28-04.31.10:727][800]LogShaderCompilers: Display: Material Cache Hits: 41 (16%)
+[2026.06.28-04.31.10:727][800]LogShaderCompilers: Display: ================================================
+[2026.06.28-04.31.38:569][125]Cmd: TRANSACTION UNDO
+[2026.06.28-04.31.38:569][125]LogEditorTransaction: Undo Modificar la ubicación del componente
+[2026.06.28-04.32.18:099][371]Cmd: DELETE
+[2026.06.28-04.32.18:099][371]Cmd: ACTOR DELETE
+[2026.06.28-04.32.18:099][371]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1215855860.StaticMeshComponent0: No es posible eliminar componentes no instanciados o la raíz de la escena.
+[2026.06.28-04.32.19:531][487]Cmd: DELETE
+[2026.06.28-04.32.19:531][487]Cmd: ACTOR DELETE
+[2026.06.28-04.32.19:531][487]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1215855860.StaticMeshComponent0: No es posible eliminar componentes no instanciados o la raíz de la escena.
+[2026.06.28-04.32.21:022][613]Cmd: DELETE
+[2026.06.28-04.32.21:022][613]Cmd: ACTOR DELETE
+[2026.06.28-04.32.21:022][613]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1215855860.StaticMeshComponent0: No es posible eliminar componentes no instanciados o la raíz de la escena.
+[2026.06.28-04.32.21:578][653]Cmd: DELETE
+[2026.06.28-04.32.21:578][653]Cmd: ACTOR DELETE
+[2026.06.28-04.32.21:578][653]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1215855860.StaticMeshComponent0: No es posible eliminar componentes no instanciados o la raíz de la escena.
+[2026.06.28-04.32.23:672][823]Cmd: DELETE
+[2026.06.28-04.32.23:672][823]Cmd: ACTOR DELETE
+[2026.06.28-04.32.23:672][823]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1215855860.StaticMeshComponent0: No es posible eliminar componentes no instanciados o la raíz de la escena.
+[2026.06.28-04.32.25:188][949]Cmd: DELETE
+[2026.06.28-04.32.25:188][949]Cmd: ACTOR DELETE
+[2026.06.28-04.32.25:188][949]LogEditorActor: Cannot delete component StaticMeshComponent /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1215855860.StaticMeshComponent0: No es posible eliminar componentes no instanciados o la raíz de la escena.
+[2026.06.28-04.32.26:858][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.32.26:902][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.06.28-04.32.26:922][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.32.26:937][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.32.26:946][ 88]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/1Z/82AU722NXEU3S4O6TLEXV4
+[2026.06.28-04.32.26:946][ 88]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/82AU722NXEU3S4O6TLEXV436FD37634FBDCD9088F7489025F291D0.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/1Z/82AU722NXEU3S4O6TLEXV4.uasset'
+[2026.06.28-04.32.26:953][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.354 ms (total: 28.2 sec)
+[2026.06.28-04.32.27:005][ 88]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.32.27:005][ 88]LogContentValidation: Enabled validators:
+[2026.06.28-04.32.27:005][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.32.27:005][ 88]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.32.27:005][ 88]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.32.27:005][ 88]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.32.27:005][ 88]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.32.27:005][ 88]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.32.27:005][ 88]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.32.27:043][ 88]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.32.28:390][204]Cmd: DELETE
+[2026.06.28-04.32.28:390][204]Cmd: ACTOR DELETE
+[2026.06.28-04.32.28:392][204]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.06.28-04.32.28:407][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.32.28:411][204]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2026.06.28-04.32.29:722][328]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.32.29:769][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.32.29:785][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.32.29:800][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-04.32.29:807][328]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.617 ms (total: 28.3 sec)
+[2026.06.28-04.33.02:684][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.33.02:753][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2026.06.28-04.33.02:773][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.33.02:788][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.33.02:797][ 27]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/6Q/UN4A212Z65QWAKU7ADLP5S
+[2026.06.28-04.33.02:797][ 27]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/UN4A212Z65QWAKU7ADLP5SDA4C0D7E42424E46BB2BFF8B6AEF0A03.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/6Q/UN4A212Z65QWAKU7ADLP5S.uasset'
+[2026.06.28-04.33.02:803][ 27]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/DC/DZMC3PID6SU6OUGBK8Q8GX
+[2026.06.28-04.33.02:803][ 27]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/DZMC3PID6SU6OUGBK8Q8GX8AFEDFE746B0B69E250D53AA506B2C53.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/DC/DZMC3PID6SU6OUGBK8Q8GX.uasset'
+[2026.06.28-04.33.02:810][ 27]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/6E/QZKEUKWE7JW3RMWW13153A
+[2026.06.28-04.33.02:810][ 27]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/QZKEUKWE7JW3RMWW13153AF4C2CC1C4F094365ABAF9BA148370EA2.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/0/6E/QZKEUKWE7JW3RMWW13153A.uasset'
+[2026.06.28-04.33.02:817][ 27]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/CX/0317DGGFP88XX8BQSKT88S
+[2026.06.28-04.33.02:817][ 27]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/0317DGGFP88XX8BQSKT88S94F655BE43C3B40CC05DBB99A4735E9A.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/CX/0317DGGFP88XX8BQSKT88S.uasset'
+[2026.06.28-04.33.02:827][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 142.631 ms (total: 28.4 sec)
+[2026.06.28-04.33.02:889][ 27]LogContentValidation: Display: Starting to validate 4 assets
+[2026.06.28-04.33.02:889][ 27]LogContentValidation: Enabled validators:
+[2026.06.28-04.33.02:889][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.33.02:889][ 27]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.33.02:889][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.33.02:889][ 27]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.33.02:889][ 27]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.33.02:889][ 27]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.33.02:889][ 27]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.34.07:299][891]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.34.07:396][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.06.28-04.34.07:421][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2026.06.28-04.34.07:435][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.34.07:444][891]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/B4/CRRWX70R04IFD9VZYKRAXV
+[2026.06.28-04.34.07:445][891]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/CRRWX70R04IFD9VZYKRAXV6D5D63544ED6C28A702885AE36DFF363.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/B4/CRRWX70R04IFD9VZYKRAXV.uasset'
+[2026.06.28-04.34.07:452][891]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.006 ms (total: 28.6 sec)
+[2026.06.28-04.34.07:503][891]LogContentValidation: Display: Starting to validate 1 assets
+[2026.06.28-04.34.07:503][891]LogContentValidation: Enabled validators:
+[2026.06.28-04.34.07:503][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.34.07:503][891]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.34.07:503][891]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.34.07:503][891]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.34.07:503][891]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.34.07:503][891]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.34.07:503][891]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.34.18:468][780]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.34.18:468][780]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.34.18:469][780]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_60
+[2026.06.28-04.34.20:022][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-04.34.20:026][912]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2026.06.28-04.34.20:029][912]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.34.20:029][912]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok
+[2026.06.28-04.34.20:031][912]LogActorFactory: Actor Factory spawned StaticMesh /Game/MODULOS/SM_Modulo_2_ok.SM_Modulo_2_ok as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_74563CBB2B02F6E802_1430515861
+[2026.06.28-04.34.27:446][530]Cmd: DUPLICATE
+[2026.06.28-04.34.27:447][530]Cmd: ACTOR DUPLICATE
+[2026.06.28-04.35.26:269][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.35.26:336][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.06.28-04.35.26:358][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-04.35.26:373][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2026.06.28-04.35.26:382][140]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/YY/6Q4CBE85OHIIJEEGRMOSZ5
+[2026.06.28-04.35.26:382][140]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/6Q4CBE85OHIIJEEGRMOSZ56F5F035C4EB726D0A494A2BA65EF8135.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/YY/6Q4CBE85OHIIJEEGRMOSZ5.uasset'
+[2026.06.28-04.35.26:389][140]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/92/KL9BLS5YACQG5TO1HRC84F
+[2026.06.28-04.35.26:390][140]LogSavePackage: Moving '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/KL9BLS5YACQG5TO1HRC84FA62D8E7344B086DF5F13BB9262FF797E.tmp' to '../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/92/KL9BLS5YACQG5TO1HRC84F.uasset'
+[2026.06.28-04.35.26:397][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.339 ms (total: 28.7 sec)
+[2026.06.28-04.35.26:433][140]LogContentValidation: Display: Starting to validate 2 assets
+[2026.06.28-04.35.26:433][140]LogContentValidation: Enabled validators:
+[2026.06.28-04.35.26:433][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.06.28-04.35.26:433][140]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.06.28-04.35.26:433][140]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.06.28-04.35.26:433][140]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.06.28-04.35.26:433][140]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.06.28-04.35.26:433][140]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.06.28-04.35.26:433][140]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validando recurso
+[2026.06.28-04.35.26:467][140]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.06.28-04.35.54:229][621]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.28-04.35.54:301][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.35.54:318][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2026.06.28-04.35.54:333][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2026.06.28-04.35.54:342][621]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.514 ms (total: 28.8 sec)
