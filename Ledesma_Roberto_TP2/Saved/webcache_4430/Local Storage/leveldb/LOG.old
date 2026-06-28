@@ -1,20 +1,29 @@
-2026/06/26-13:44:25.085 1094 Reusing MANIFEST C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/06/26-13:44:25.103 1094 Recovering log #10
-2026/06/26-13:44:25.104 1094 Level-0 table #13: started
-2026/06/26-13:44:25.110 1094 Level-0 table #13: 80411 bytes OK
-2026/06/26-13:44:25.113 1094 Delete type=0 #10
-2026/06/26-13:46:27.931 29b4 Level-0 table #16: started
-2026/06/26-13:46:27.937 29b4 Level-0 table #16: 80254 bytes OK
-2026/06/26-13:46:27.939 29b4 Delete type=0 #14
-2026/06/26-13:46:27.940 29b4 Compacting 4@0 + 1@1 files
-2026/06/26-13:46:27.945 29b4 Generated table #17@0: 3 keys, 40052 bytes
-2026/06/26-13:46:27.946 29b4 Compacted 4@0 + 1@1 files => 40052 bytes
-2026/06/26-13:46:27.947 29b4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2026/06/26-13:46:27.948 29b4 Delete type=2 #7
-2026/06/26-13:46:27.948 29b4 Delete type=2 #9
-2026/06/26-13:46:27.948 29b4 Delete type=2 #11
-2026/06/26-13:46:27.948 29b4 Delete type=2 #13
-2026/06/26-13:46:27.948 29b4 Delete type=2 #16
-2026/06/26-13:48:27.928 5ad4 Level-0 table #19: started
-2026/06/26-13:48:27.935 5ad4 Level-0 table #19: 79839 bytes OK
-2026/06/26-13:48:27.936 5ad4 Delete type=0 #15
+2026/06/28-14:41:11.688 1aa4 Reusing MANIFEST C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/06/28-14:41:11.704 1aa4 Recovering log #18
+2026/06/28-14:41:11.705 1aa4 Level-0 table #21: started
+2026/06/28-14:41:11.708 1aa4 Level-0 table #21: 80283 bytes OK
+2026/06/28-14:41:11.710 1aa4 Delete type=0 #18
+2026/06/28-14:43:15.193 432c Level-0 table #24: started
+2026/06/28-14:43:15.205 432c Level-0 table #24: 79934 bytes OK
+2026/06/28-14:43:15.206 432c Delete type=0 #22
+2026/06/28-15:40:45.672 3fe4 Level-0 table #26: started
+2026/06/28-15:40:45.676 3fe4 Level-0 table #26: 79783 bytes OK
+2026/06/28-15:40:45.678 3fe4 Delete type=0 #23
+2026/06/28-15:40:45.680 3fe4 Compacting 4@0 + 1@1 files
+2026/06/28-15:40:45.685 3fe4 Generated table #27@0: 3 keys, 39896 bytes
+2026/06/28-15:40:45.685 3fe4 Compacted 4@0 + 1@1 files => 39896 bytes
+2026/06/28-15:40:45.685 3fe4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/06/28-15:40:45.686 3fe4 Delete type=2 #17
+2026/06/28-15:40:45.687 3fe4 Delete type=2 #19
+2026/06/28-15:40:45.687 3fe4 Delete type=2 #21
+2026/06/28-15:40:45.687 3fe4 Delete type=2 #24
+2026/06/28-15:40:45.687 3fe4 Delete type=2 #26
+2026/06/28-15:41:03.129 432c Level-0 table #29: started
+2026/06/28-15:41:03.138 432c Level-0 table #29: 79378 bytes OK
+2026/06/28-15:41:03.140 432c Delete type=0 #25
+2026/06/28-15:41:15.327 3fe4 Level-0 table #31: started
+2026/06/28-15:41:15.331 3fe4 Level-0 table #31: 78955 bytes OK
+2026/06/28-15:41:15.332 3fe4 Delete type=0 #28
+2026/06/28-15:41:36.037 432c Level-0 table #33: started
+2026/06/28-15:41:36.041 432c Level-0 table #33: 78535 bytes OK
+2026/06/28-15:41:36.043 432c Delete type=0 #30
