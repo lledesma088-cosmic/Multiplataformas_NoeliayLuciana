@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Noelia\\Documents\\GitHub\\Multiplataformas_NoeliayLuciana\\Ledesma_Roberto_TP2\\Intermediate\\Source\\Ledesma_Roberto_TP2.Build.cs",
+		"C:\\Users\\Noelia\\Documents\\GitHub\\Multiplataformas_NoeliayLuciana\\Ledesma_Roberto_TP2\\Intermediate\\Source\\Ledesma_Roberto_TP2.Target.cs",
+		"C:\\Users\\Noelia\\Documents\\GitHub\\Multiplataformas_NoeliayLuciana\\Ledesma_Roberto_TP2\\Intermediate\\Source\\Ledesma_Roberto_TP2Client.Target.cs",
+		"C:\\Users\\Noelia\\Documents\\GitHub\\Multiplataformas_NoeliayLuciana\\Ledesma_Roberto_TP2\\Intermediate\\Source\\Ledesma_Roberto_TP2Editor.Target.cs",
+		"C:\\Users\\Noelia\\Documents\\GitHub\\Multiplataformas_NoeliayLuciana\\Ledesma_Roberto_TP2\\Intermediate\\Source\\Ledesma_Roberto_TP2Server.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
