@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\noelia\\documents\\github\\multiplataformas_noeliayluciana\\ledesma_roberto_tp2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\ledesma_roberto_tp2\\module.ledesma_roberto_tp2.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\noelia\\documents\\github\\multiplataformas_noeliayluciana\\ledesma_roberto_tp2\\intermediate\\build\\win64\\x64\\ledesma_roberto_tp2\\development\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\noelia\\documents\\github\\multiplataformas_noeliayluciana\\ledesma_roberto_tp2\\intermediate\\build\\win64\\x64\\unrealgame\\development\\ledesma_roberto_tp2\\definitions.ledesma_roberto_tp2.h",
+            "c:\\users\\noelia\\documents\\github\\multiplataformas_noeliayluciana\\ledesma_roberto_tp2\\intermediate\\source\\ledesma_roberto_tp2.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

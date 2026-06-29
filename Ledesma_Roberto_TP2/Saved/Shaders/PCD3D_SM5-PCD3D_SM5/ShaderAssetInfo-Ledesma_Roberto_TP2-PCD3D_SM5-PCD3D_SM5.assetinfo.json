@@ -1,0 +1,1200 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "7D5B4100792E5D33212717BA450B1D7DB4A4E3CD",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/comb-brush/source/F6002NEG"
+			]
+		},
+		{
+			"ShaderMapHash": "29A6D2006DA4B0D5232BF017959E23189326AFFF",
+			"Assets": [
+				"/Game/DESCARGAS/dance-pole/source/pole"
+			]
+		},
+		{
+			"ShaderMapHash": "BAFF720153BFC9AD0F18F92A866C269486BC864A",
+			"Assets": [
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/a-rahman-kayu-kraf-04-key-holder/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "0C9CC701F1EC34FB76E8A282C530EC9362EC757A",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F48BD5014FC583ED092491D09CE7DC9795A89A6F",
+			"Assets": [
+				"/Game/dirty-light-switch/dirtyswitch"
+			]
+		},
+		{
+			"ShaderMapHash": "D047880233735B24F5F559B16E83AEA1CE0C7AC8",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "11558C033AF806037BDBD583E236F7D04E9F8948",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0E28A303C2AAAFB62438B6D10D2E6FECAD9A2AED",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LayerVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3EF77004519C8D4C3BCC23A5A9D13D59B49C1A4F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "18339905D993830C9B91CA23E065C21D08481936",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "4FD60A08359EBB814D6F60614147B6A1CCC75493",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "29A8690844C2D7E3C439577C083E441B487BD6EE",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/amethyst-heels/Heels"
+			]
+		},
+		{
+			"ShaderMapHash": "5F8AF9094763F1C26E809D2C7A0BAFC37F566E2D",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/high-heels/Punkte"
+			]
+		},
+		{
+			"ShaderMapHash": "999DEF0BB35022312342C4731F2D8E040340063F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EB30C70EE2C0372BA8E7745B640A663AA0BBB8E5",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "48ABEC0E0CF3A67E7E522236AA49D9856F244D2A",
+			"Assets": [
+				"/Game/ceiling-lamp-10mb/textures/lampara",
+				"/Game/DESCARGAS/art-deco-mirror/TT_checker_512x512_UV_GRID",
+				"/Game/DESCARGAS/broken-mug/brokenmug",
+				"/Game/DESCARGAS/habitacionmujer/table-mirror/textures/TABLEMIRROR",
+				"/Game/DESCARGAS/laluxury/pony-chair/textures/01_-_Default",
+				"/Game/DESCARGAS/laluxury/simple-handcuffs/esposas",
+				"/Game/DESCARGAS/soulmate-jacuzzi/textures/Bath",
+				"/Game/DESCARGAS/tv/Livingroom_TV",
+				"/Game/DESCARGAS/wall-mirror/textures/Material_001",
+				"/Game/DESCARGAS/wardrobe/Material_1",
+				"/Game/DESCARGAS/white-towel/towelwhite"
+			]
+		},
+		{
+			"ShaderMapHash": "1780FF12CC3A18E3CB754244C906FA8E0274272A",
+			"Assets": [
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/Tree_S1/grt1",
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/Tree_S1/M_06___Default1",
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/Tree_S1/TEXTURE11"
+			]
+		},
+		{
+			"ShaderMapHash": "169EA413C9087915A94EF27D45F03E41DF14E79C",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "AB864A147D3CCED18014C818B69F864ABD71821D",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "A3705B14E17480CF6BBA575C1F2F683FC3C7F310",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DB07F150A49D9684DC8E8AFD98A42D89E0AFC35",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/marilyn-monroe-hair/HairMatAniso_mesh"
+			]
+		},
+		{
+			"ShaderMapHash": "CAA8C217FBDA69318126E1076F88DD4ACBCDEEA4",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/pole-dance-high-heels/straps"
+			]
+		},
+		{
+			"ShaderMapHash": "2CDB061DCF1C124EF728EA9B828BEB168106CE37",
+			"Assets": [
+				"/Game/interruptor/source/Wall_socket_black"
+			]
+		},
+		{
+			"ShaderMapHash": "B02FA21DCC402C7C2EDB26A291A2307C958500BF",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/pole-dance-high-heels/shank"
+			]
+		},
+		{
+			"ShaderMapHash": "CEF92E21FBBDA1F5ED4CA7EFA3F1674557BB170C",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B58E60222F6353084657746E7A91D487CB13883D",
+			"Assets": [
+				"/Game/DESCARGAS/laluxury/sex-sofa/textures/Color_M09"
+			]
+		},
+		{
+			"ShaderMapHash": "5FC9932511940960505DD2F11F6409E40652F642",
+			"Assets": [
+				"/Game/DESCARGAS/graffiti-statue/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "1B2AAF25398CC27E2A6A67CA4768C3B6008DC891",
+			"Assets": [
+				"/Game/DESCARGAS/SILLONES_PUF/Misc/Materials/M_ORM_Paint_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "DFFB07264F0635E6EB21A33CDE2CA625CEFDC9D6",
+			"Assets": [
+				"/Game/DESCARGAS/soulmate-jacuzzi/textures/Black_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "2C0645264EFCA89DC45B478326292E4AF85ABE7D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2F529B279FAE9BCCFB50F142B257D60B6CEE2D48",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Ribbons1"
+			]
+		},
+		{
+			"ShaderMapHash": "A7BECC277AC0232B7D2F5EF68932188B665DDCEC",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "369F0428586EF9D515568F22FE86A0BD3202DE03",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/comb-brush/source/F6002AZU",
+				"/Game/DESCARGAS/habitacionmujer/comb-brush/source/F6002AZU_ncl_1"
+			]
+		},
+		{
+			"ShaderMapHash": "B3B5EF281B93529B6BB1796F24FB077A416A788D",
+			"Assets": [
+				"/Game/DESCARGAS/Pillows_pack/Textures_Materials/M_Pillows_Color_1"
+			]
+		},
+		{
+			"ShaderMapHash": "4D269729206CDDBFD4A6411EDD9BA1AA908C9ED1",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/high-heels/SohleStoff"
+			]
+		},
+		{
+			"ShaderMapHash": "217AAA2A3A51D441CA7D1A8F8C7CF25E97DCC90A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "83A0592BD1109BF1D4DD5398FDCDADEB8ACCFE30",
+			"Assets": [
+				"/Game/DetectiveOffice/Material/M_Basic1"
+			]
+		},
+		{
+			"ShaderMapHash": "6C85CC2C4E40F1C0F41A2BC4C292EFCFBA9ED751",
+			"Assets": [
+				"/Game/DetectiveOffice/MaterialInstances/MI_images"
+			]
+		},
+		{
+			"ShaderMapHash": "6BDB2030AD6991DD4703A128794ED36452D3BB23",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "797F13314851D015508746FC192610819E3CC733",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "49C2963197F771B48F282A13CFAAC111E57404B6",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A3CFA6316DA5A090CD5E81E24DC322AB3289B5FB",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "46D2C03170C55223D337D6D24375F284588F1BB0",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/sunsilk-shampoo-bottle/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "2A38C731BD9522B06D1B7033AE09E256F5A4ABA8",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "54B671358A6962F4922BF446A24F6AC3731F3B12",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "0F90F93534C851A52E856D74884DC1CB5C652AE5",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/pole-dance-high-heels/outsole"
+			]
+		},
+		{
+			"ShaderMapHash": "7292443786443DD2FF7E2F7104F4296E9820E212",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "ABCF713ADAA2B28BF356F776C9F0D796BEEE3FEA",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "91848D3B2C083905A54138E68EA9C1BFBAD82AC6",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/cosmetic-serum-bottle/Rubber_001"
+			]
+		},
+		{
+			"ShaderMapHash": "81230A3C8446AD2E2406E59D7602398486398A3C",
+			"Assets": [
+				"/Game/DESCARGAS/Inflatable_Flamingo/Material/M_flamingo_material"
+			]
+		},
+		{
+			"ShaderMapHash": "0F9F013E079D29FB168F8B07A41D55E4C559B1A1",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0147413F674C76D2E98C6599B458D2AAE3761AC4",
+			"Assets": [
+				"/Game/DESCARGAS/mesa_de_luz/Vase_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "3AC8543F9921F3470B0B77A9FE91CD72E475F113",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Manny/MI_Manny_02_New"
+			]
+		},
+		{
+			"ShaderMapHash": "9D77A93FDCF6732115D4627ACE2539C2741DB1EF",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/high-heels/KunstfaserGewebe_Absatz"
+			]
+		},
+		{
+			"ShaderMapHash": "08B635416D805F20DCDB938B10F1B0BA3EE1E76B",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FAF7B643A8AD783DB085822C3C32BA955FDE7A07",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/high-heels/SohleGummi"
+			]
+		},
+		{
+			"ShaderMapHash": "8C10FD490BC2B55CFA7806E8551A2A230CCF3E81",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D766D44A565BB903A00E06D34D2821F003F4B0AF",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0D08394C855037C8A54E5FFA6417E7C9EF801E09",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EAA69E4C00BF9EF06E2477721A563980A1AA8708",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CCD5374E0BA43C121A6C458F28B70E1B39F49878",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "20E5EB4FA52F87D630FADC885600D7C305DB68F3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A086105204D1DB4B1F16FAFC35F41490A7070998",
+			"Assets": [
+				"/Game/materials/MasterMaterial/MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E408C75403DDC6EF92D3D67461342244A0DAFA90",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/cosmetic-serum-bottle/Bottle_001"
+			]
+		},
+		{
+			"ShaderMapHash": "D0A8E9542B247F4745835AA192E4C6A144C1610B",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "AF4EF255EC7166800FA63EA08ABD4A73A121729B",
+			"Assets": [
+				"/Game/DESCARGAS/sofas/OldLivingRoomSofa/Materials/StandardMaterials/M_OpaqueMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "11C76659A71592D83EB8CF1E848125BFA9994C96",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "59D00F5AD4AF0C996E0C58946EB4C248F1DFEBE5",
+			"Assets": [
+				"/Game/DESCARGAS/cama_sangrienta/Material_001",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves1",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves10",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves2",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves3",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves4",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves5",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves6",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves7",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves8",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Leaves9",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Parcel1",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Parcel2",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals1",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals10",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals11",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals12",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals13",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals14",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals2",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals3",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals5",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals6",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals7",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals8",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Sepals1",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Sepals2",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/SmallPlants1",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/SmallPlants2",
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/SmallPlants3"
+			]
+		},
+		{
+			"ShaderMapHash": "B5EC9D5DDCD7A3085F8216291B5A11049987588A",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "AC64BF5D25D502F32153206004A8D9BA158CCF1C",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2151055EF82D78D66C3F70CD303FD046BBACDD16",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C5C85562D0D3ADC85DC67BD4CC05415E8E4FAC90",
+			"Assets": [
+				"/Game/DESCARGAS/towel-racks-02/textures/lambert3"
+			]
+		},
+		{
+			"ShaderMapHash": "4EFF5364D1CEE9F6170DBEB8CD26BA2CC9A43C5C",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4FBD5D66049160C3A68C57913C8C8326DFD11C68",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "6DF97A664693A40C4EA6EC1A38C7F2AB600A7BA0",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D45C28688A22A3857B730F0A5EFB916D8BC3547D",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E766B068CF7B9660959116B6C8E650335AD384F6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "F66AC268A20E6DC9EE0E119D0BA02C8085FA80BD",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "73E3746AACD32C9A44D952A2C1DD83CF936B84A1",
+			"Assets": [
+				"/Game/DESCARGAS/inodoro/Ceramic"
+			]
+		},
+		{
+			"ShaderMapHash": "D86A9D6AD39600751ED5145779B39B424CE0A132",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/pole-dance-high-heels/silver"
+			]
+		},
+		{
+			"ShaderMapHash": "5161106B343B9B1726E34EA445F98B421DBE6EC9",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "742ADF6F17F5432E48697FE6907DD5660B4280C1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "2406D570AD32993A9D65329ADD5F9C691C2E7425",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "39CE9671FBD43B1F895234FEA6EDF7F83FA7C581",
+			"Assets": [
+				"/Game/DESCARGAS/laluxury/dildo-sword/textures/dildo"
+			]
+		},
+		{
+			"ShaderMapHash": "0D8E7A72A721613852007C3DCAD1FA3C26E8F6FC",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "19AE88724CE0AFA95336ACDC3D5D9E7DFF414707",
+			"Assets": [
+				"/Game/DESCARGAS/inodoro/Tapa"
+			]
+		},
+		{
+			"ShaderMapHash": "4C127073C3C6FC7576AA8944EAF81EBEA3F3F3A8",
+			"Assets": [
+				"/Game/DESCARGAS/araña_techo/lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "9416E9742D53744B74CCDD4BF14574CB26669660",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "29FEF0755ECA87809F2C1AE9D42FCDC89BFAB27B",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "581218764F2453F869B18D9018EA5EFC4F9094E3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "82C364773360A58857B831FE55D0E1B6DF932FAB",
+			"Assets": [
+				"/Game/DESCARGAS/Deko_MatrixDemo/Shared/Material/Masters/MM_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "03D6037F28318E325F3F889970A73731B7E8E877",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultEvenSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "CD1CFA7F3014B922848ABBD8A7042E314552F548",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "1D7B8F83398BB5D512869A0DD96553A8600BD3C2",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "8C903D8582C0E59D1DD225D1366E1A7836CCF0AC",
+			"Assets": [
+				"/Game/DESCARGAS/paperinformation-holder/source/information"
+			]
+		},
+		{
+			"ShaderMapHash": "1FC14D861E6FA857071A3691F28D4A30FB0C1A1F",
+			"Assets": [
+				"/Game/DESCARGAS/cama/frazada"
+			]
+		},
+		{
+			"ShaderMapHash": "2F7E5889F931D465629142A648207ED8A8835FAE",
+			"Assets": [
+				"/Game/DetectiveOffice/MaterialInstances/MI_leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "76535F8A1A0E3F6F114E729C1918A917FFB919AD",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "6E353B8BB286BA342D7D9872D28915190E31A73C",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C4D59B8C12206D2F2049ECE6B5A9729CF72B5522",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE4938DAA8F82860F8A575D7F61780BC9749B4E",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "37DE4190F776E022FCEDF80FF73765540DBB0A45",
+			"Assets": [
+				"/Game/DESCARGAS/cama/lambert5"
+			]
+		},
+		{
+			"ShaderMapHash": "A01526928E0E8929846F6BC67D11E35892AFC0AF",
+			"Assets": [
+				"/Game/DESCARGAS/cama/2_alm",
+				"/Game/DESCARGAS/cama/cama",
+				"/Game/DESCARGAS/cama/colchon"
+			]
+		},
+		{
+			"ShaderMapHash": "312A3C9331CB1890EFFA78879973590F91B7367F",
+			"Assets": [
+				"/Game/DESCARGAS/OldWest/VOL5/Materials/MI_Curtain_NN_02a"
+			]
+		},
+		{
+			"ShaderMapHash": "9D6C6F944C85B5FAF52C007651615C225AB7BAB0",
+			"Assets": [
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/Wireframe_Trash_Bin/metal",
+				"/Game/DESCARGAS/habitacionmujer/high-heels/Material__0"
+			]
+		},
+		{
+			"ShaderMapHash": "21FC03955BA48FB3D0B4C426C912268338D2E208",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AD4490951A1FB666A27128C879B52631F6BF4184",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9FE206973F633E4704C157D5D7164C28E4F94CFC",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "908A12982B4CFDD418D3A42DFC34A867B84CA933",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "73A4C9992A6B85B2CBF11F8F3E5A2C810335341B",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "2981FA99AA6A433B82891D79E24578B3502FD526",
+			"Assets": [
+				"/Game/DESCARGAS/mesa_de_luz/Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "63E4979B9585C1B7328360920B426547DD387DA9",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "29CB8A9CB023D2548E1111F763D3200DC3AF887F",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "8067719E01ECDBFFFA02E77F92E0275A69F7AF1B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8162F59EFE908B41191A8CD1E400331EFF189AC4",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "421A92A1E3D50058738776278EBFE0D3682D94F4",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/leather-purse/textures/bag"
+			]
+		},
+		{
+			"ShaderMapHash": "200DAEA1A130A4BE510774EE9523C15DDB769901",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "0D06D6A1ADEB38E9B8EE75D14841CEA5B4DEDE4A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "764713A74D55BA74D03A1D61AB2D99C7611FE0C5",
+			"Assets": [
+				"/Game/DESCARGAS/table-bell/Black_metal",
+				"/Game/DESCARGAS/table-bell/Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "9F47B8A7DECBF7F6C8EB48FF0E8BCFBD2A9F9D4F",
+			"Assets": [
+				"/Game/DESCARGAS/araña_techo/body",
+				"/Game/DESCARGAS/coat-rack/textures/Material_001",
+				"/Game/DESCARGAS/control_tv/Material__7",
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/commod-low-poly-game-ready/source/commod",
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/lapo-s/source/Lapo",
+				"/Game/DESCARGAS/laluxury/bondage-cuff/textures/cuff",
+				"/Game/DESCARGAS/laluxury/bondage-cuff/textures/cuff2",
+				"/Game/DESCARGAS/laptop/laptopmaterial",
+				"/Game/DESCARGAS/paper/aiStandardSurface1SG",
+				"/Game/DESCARGAS/paper/aiStandardSurface2",
+				"/Game/DESCARGAS/sofaenL2/textures/Null",
+				"/Game/DESCARGAS/wine-bottle/textures/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "F87963A85CE57206867E62431C3B5B5F828C1124",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C38DB1A9CEAD11D30D06F218B4496DB3EF8758F3",
+			"Assets": [
+				"/Game/DESCARGAS/PISOS/Piso_maderaopaca"
+			]
+		},
+		{
+			"ShaderMapHash": "7B7407AAAB861ACF39F4B7B3855019779228679C",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/high-heels/KunstfaserGewebe"
+			]
+		},
+		{
+			"ShaderMapHash": "42B3E0AA6BB46EBA85BD7EF63B368E087BC44037",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__313"
+			]
+		},
+		{
+			"ShaderMapHash": "70A2F0AA89DAE48CA329E55ECD57D73748BFA4C9",
+			"Assets": [
+				"/Game/DESCARGAS/dance-pole/source/stands"
+			]
+		},
+		{
+			"ShaderMapHash": "B06C0EABCD555E1B50250B39D6CBA61BE8548FE9",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "550DCAAF26852A2CF1C1BE3301ED1E32617547A8",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "32D029B0F07F75084F14A5973D40B8EBAB28C2BC",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "5A8861B318C19E40B82A0FF7BFF6A4D51A6C5D1C",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "7294E6B9B8924349C3B219681BC14C56BEE63631",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultOddSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "8C720BBA54F885BC066C5EBEB3F321EE9CDBE483",
+			"Assets": [
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/let-me-out-reception-chair/source/Cushion"
+			]
+		},
+		{
+			"ShaderMapHash": "5FF2F0BAD60C272CDDD2E63F37B838B2E46B7CD1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "AE234BBB5CC9B46BEDECA6C854177C318BBFDCA0",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "9E56B7BE450F7B069E50C344E094B9A5D7849165",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/sunsilk-shampoo-bottle/Pink_001"
+			]
+		},
+		{
+			"ShaderMapHash": "FF9C84BF973B0F7748B6BF9981C5BAA8935D5D97",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/FrontColor"
+			]
+		},
+		{
+			"ShaderMapHash": "212FFCC0E743209FEEB36960CFA74CB3A4BB875A",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FEBD8EC1BC1C8C21A66E38991E37F5D2478AF238",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "EEECC1C183529CAED2C37D3A0579EEB771D44252",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE105C2FB203B2C002A9AC7D4F4BD15FD2FB010",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "3D0266C21E37FAF3FA0FA2E42728A8ACBC79D9A4",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4134ABC2929D41A8F1CF1A6502630F7A60806466",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "F7ACEBC3EE8035D2D44D7412FACC9CF57532AAB9",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "13F8C5C64A890D7F32A5B240C050BA0AD9686B4D",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+				"/Game/DESCARGAS/broken-glass/color_-1033803926"
+			]
+		},
+		{
+			"ShaderMapHash": "779E36C7A2D24CABBF8BF59C850514C542DC929B",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/hair-dryer-philips/hairdryer",
+				"/Game/DESCARGAS/habitacionmujer/zapatos/textures/ASSET_MAT_MR"
+			]
+		},
+		{
+			"ShaderMapHash": "1E8AB6C813994159FECE66A520C41B1F5C555225",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D851ADC9C147E6E762BD2F8C030695C89D75AF2F",
+			"Assets": [
+				"/Game/DESCARGAS/shower-fixture/textures/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "21B87DCA8CF7639C8F756B27A83D55DA8685DA7E",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "E3DF4DCB840D242B63980A6168D52E109F788EB7",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/wrapped-flower-bouquet/Petals9"
+			]
+		},
+		{
+			"ShaderMapHash": "1BA435CC8C076122E17D0FA5EFF21BF8F7A58C05",
+			"Assets": [
+				"/Game/interruptor/source/Wall_socket_white"
+			]
+		},
+		{
+			"ShaderMapHash": "EB9548CC087867A01CCB4964EEEB714EA34C768D",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/pole-dance-high-heels/black"
+			]
+		},
+		{
+			"ShaderMapHash": "E3C727D075FDB6E4E954296E1AA6A6B7C8B53EA0",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/comb-brush/source/F6002PLA"
+			]
+		},
+		{
+			"ShaderMapHash": "200248D735120A85925691F3FD2F13766C25F1E6",
+			"Assets": [
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/let-me-out-reception-chair/source/Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "3EAE4ED9E4872E67DACB113C7288D7B94CDACB11",
+			"Assets": [
+				"/Game/DESCARGAS/inodoro/Button"
+			]
+		},
+		{
+			"ShaderMapHash": "546776D93FAA41406AEF81D132662CDEF84203A6",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D4D977DA6345DC4361FFCBC716E0D1C2050A00CE",
+			"Assets": [
+				"/Game/DESCARGAS/bloody-baseball-bat/Material_001",
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/corpse-in-a-black-body-bag-with-ropes/source/Bag_PBR",
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/corpse-in-a-black-body-bag-with-ropes/source/Rope_Feet_PBR",
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/corpse-in-a-black-body-bag-with-ropes/source/Rope_Head_PBR"
+			]
+		},
+		{
+			"ShaderMapHash": "B27666DEB31CC269C4E8832868A251C94D995F79",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/high-heels/Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "0B4399DE8571F633C489A2891AA04E978897F9E1",
+			"Assets": [
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_ComputerMonitor_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_ComputerMonitor_A02",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_ComputerPrinter_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Desk_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Desk_Cab_A02",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Food_Leftover_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Headset_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Phone_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Toolbox_Pack_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Unit_A01"
+			]
+		},
+		{
+			"ShaderMapHash": "64E3AADE0F3B3847F69381592E1703BAFB2400A4",
+			"Assets": [
+				"/Game/DESCARGAS/bacha/textures/cabinet",
+				"/Game/DESCARGAS/bacha/textures/faucet",
+				"/Game/DESCARGAS/mesa_de_luz/Nightstand",
+				"/Game/DESCARGAS/mesa_de_luz/Vase"
+			]
+		},
+		{
+			"ShaderMapHash": "B04A4BE028A3BFBC8E3DFE4632D6DE7AAD4CA323",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7701A0E04E5F94A6F97839EABB360D63306B51F3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "BC5D2AE1DEA07427A88C0D622F3BD806579C29A6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "2843B3E27258F5A0E48E502D3D3D5812C78C1C8C",
+			"Assets": [
+				"/Game/DetectiveOffice/MaterialInstances/MI_other_objects_Baked_002"
+			]
+		},
+		{
+			"ShaderMapHash": "AFD44DE30C71BA7FDECEE48CE2EE427193649E2F",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "482C76E57843B589A0D0877D93365D8BA48D4CBD",
+			"Assets": [
+				"/Game/DESCARGAS/Pillows_pack/Textures_Materials/M_Pillows_Color_2",
+				"/Game/DESCARGAS/Pillows_pack/Textures_Materials/M_Pillows_Plain_2"
+			]
+		},
+		{
+			"ShaderMapHash": "34256EE636A7B7FE3D2560DA1CD8F3538619CA38",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "67DAF8E87F61BBE3A83E28F55FBC6C029E0AD53B",
+			"Assets": [
+				"/Game/DESCARGAS/drainage-grate/low_poly_Bake1_baked"
+			]
+		},
+		{
+			"ShaderMapHash": "163BF1E9F76539B1EAB853754C4AC7C7D133D868",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "288117EA48111F81CFCC71F8EADA6F53FE7845DB",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "705680ED9DC01B5CF729CF2262B3127DBE4D34CA",
+			"Assets": [
+				"/Game/DESCARGAS/cama/alm_chica",
+				"/Game/DESCARGAS/cama/alm_mas_chica"
+			]
+		},
+		{
+			"ShaderMapHash": "7510ABED71DEAA03FA32B19DFFD076277DE5A0EE",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2315A7EE0F2730FC52E245BF68419EBCAF64C826",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/comb-brush/source/F6002BLA"
+			]
+		},
+		{
+			"ShaderMapHash": "E4084BF0A77DF3B73E835CFA1D9DA2F9F497BACF",
+			"Assets": [
+				"/Game/DetectiveOffice/MaterialInstances/MI_rope"
+			]
+		},
+		{
+			"ShaderMapHash": "BD5712F47079F009BAB2F97DE955739FFDE7C048",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/high-heels/Band"
+			]
+		},
+		{
+			"ShaderMapHash": "C8844FF5544A9FEFE12C60A6E1BE8D0AFA9F3220",
+			"Assets": [
+				"/Game/DESCARGAS/OldWest/Shared/Materials/MM_MasterMaterial_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "EFEA14F9604239128C706B0EE6A86CE2A1062539",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__305",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__306",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__308",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__309",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__310",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__311",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__314",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__315",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__316",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__317",
+				"/Game/DESCARGAS/habitacionmujer/perfume-bottle/Material__318"
+			]
+		},
+		{
+			"ShaderMapHash": "3B829FF9F0422FD637E1F06B3504C41D02C45C1F",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "500094FBB414F616DAB88EBC7AC0770AE32AE620",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "0C29BEFB599517525FE1D66001CD29044C140204",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5D0A61FD2BA90A96DACAE1A7C5E7E2D8161E907C",
+			"Assets": [
+				"/Game/DESCARGAS/habitacionmujer/pole-dance-high-heels/topPiece_001"
+			]
+		},
+		{
+			"ShaderMapHash": "E8A64EFEAA9D6436E8EFF7B3D32DFA53AF3DC94F",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "463D67FEE43A5B90D74313E4BC897C9615B324C3",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "49082AFF44D812EAD0E4CBEA7CCB4BBCD7D11639",
+			"Assets": [
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/free-keys-tools-asset/source/holder_shd",
+				"/Game/DESCARGAS/Habitaciones_assetsvarios/free-keys-tools-asset/source/keyMetalica",
+				"/Game/DESCARGAS/habitacionmujer/cosmetic-bottles-dove/texture",
+				"/Game/DESCARGAS/habitacionmujer/cosmetic-bottles-dove/texture_1",
+				"/Game/DESCARGAS/habitacionmujer/cosmetic-bottles-dove/texture_2",
+				"/Game/DESCARGAS/habitacionmujer/cosmetic-bottles-dove/texture_3",
+				"/Game/DESCARGAS/habitacionmujer/cosmetic-serum-bottle/Material_002",
+				"/Game/DESCARGAS/habitacionmujer/hair-tie/tex_u1_v1",
+				"/Game/DESCARGAS/habitacionmujer/pile-of-clothes/textures/Dress_pile_u1_v1",
+				"/Game/DESCARGAS/habitacionmujer/pile-of-clothes/textures/dresspile",
+				"/Game/DESCARGAS/habitacionmujer/sunsilk-shampoo-bottle/Pink_Back",
+				"/Game/DESCARGAS/habitacionmujer/sunsilk-shampoo-bottle/Pink_Front",
+				"/Game/DESCARGAS/laluxury/sex-sofa/textures/blue"
+			]
+		}
+	]
+}
