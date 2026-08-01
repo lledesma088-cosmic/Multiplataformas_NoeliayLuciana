@@ -1,0 +1,9 @@
+Breadcrumbs 'Parallel'
+ - BuildHZB
+ - BuildPreviousOccluderHZB
+ - Nanite::DrawGeometry
+ - Nanite::VisBuffer
+ - Scene
+ - RenderGraphExecute - /ViewFamilies
+ - SceneRender - ViewFamilies
+ - Frame 70145
