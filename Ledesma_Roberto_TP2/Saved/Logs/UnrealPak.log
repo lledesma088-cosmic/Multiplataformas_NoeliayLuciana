@@ -1,8 +1,8 @@
-﻿Log file open, 08/02/26 22:33:51
+﻿Log file open, 08/03/26 00:06:55
 LogTrace: Initializing trace...
 LogTrace: Finished trace initialization.
 LogInit: Session CrashGUID >====================================================
-         Session CrashGUID >   UECC-Windows-DA6E11804A87E163C18183BC2AB62A64
+         Session CrashGUID >   UECC-Windows-CAD0E4E1491734873166E18DDEEDD499
          Session CrashGUID >====================================================
 LogConfig: No local boot hotfix file found at: [../../../../../../Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
 LogPluginManager: Mounting Engine plugin PlatformCrypto
@@ -68,194 +68,169 @@ LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
 LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
 LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
 LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
-[2026.08.03-01.33.51:157][  0]LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
-[2026.08.03-01.33.51:157][  0]LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
-[2026.08.03-01.33.51:157][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
-[2026.08.03-01.33.51:157][  0]LogInit: Computer: DESKTOP-AERA584
-[2026.08.03-01.33.51:157][  0]LogInit: User: Noelia
-[2026.08.03-01.33.51:157][  0]LogInit: CPU Page size=4096, Cores=6
-[2026.08.03-01.33.51:157][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2026.08.03-01.33.51:157][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
-[2026.08.03-01.33.51:157][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx) Virtual=37.0GB
-[2026.08.03-01.33.51:157][  0]LogMemory: Platform Memory Stats for WindowsEditor
-[2026.08.03-01.33.51:157][  0]LogMemory: Process Physical Memory: 65.52 MB used, 65.52 MB peak
-[2026.08.03-01.33.51:157][  0]LogMemory: Process Virtual Memory: 118.90 MB used, 118.90 MB peak
-[2026.08.03-01.33.51:157][  0]LogMemory: Physical Memory: 6278.62 MB used,  7950.92 MB free, 14229.54 MB total
-[2026.08.03-01.33.51:157][  0]LogMemory: Virtual Memory: 30287.55 MB used,  7624.99 MB free, 37912.54 MB total
-[2026.08.03-01.33.51:165][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
-[2026.08.03-01.33.51:165][  0]LogUObjectArray: 462 objects as part of root set at end of initial load.
-[2026.08.03-01.33.51:165][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2026.08.03-01.33.51:166][  0]LogInit: Using OS detected language ().
-[2026.08.03-01.33.51:166][  0]LogInit: Using OS detected locale ().
-[2026.08.03-01.33.51:166][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2026.08.03-01.33.51:167][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2026.08.03-01.33.51:167][  0]LogInit: Using OS detected language ().
-[2026.08.03-01.33.51:167][  0]LogInit: Using OS detected locale ().
-[2026.08.03-01.33.51:167][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2026.08.03-01.33.51:167][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2026.08.03-01.33.51:167][  0]LogPakFile: Display: ProjectDir: ../../../../../../Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/
-[2026.08.03-01.33.51:168][  0]LogIoStore: Display: ==================== IoStore Utils ====================
-[2026.08.03-01.33.51:170][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\Noelia\Documents\GitHub\Multiplataformas_NoeliayLuciana\Ledesma_Roberto_TP2\Saved\Cooked\Windows\Ledesma_Roberto_TP2\Metadata\Crypto.json'
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Container signing - DISABLED
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Directory index - ENABLED
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Using compression format 'Oodle'
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Using memory mapping alignment '16384'
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Using compression block size '65536'
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Using compression block alignment '2048'
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Using compression min bytes saved '1024'
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Using compression min percent saved '5'
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Using max partition size '0'
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Not using DDC for compression
-[2026.08.03-01.33.51:175][  0]LogIoStore: Display: Using command list file: 'C:\Users\Noelia\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.6\IoStoreCommands.txt'
-[2026.08.03-01.33.51:206][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
-[2026.08.03-01.33.51:208][  0]LogIoStore: Display: Fetched 1748 oplog items from Manifest in 0.00 seconds
-[2026.08.03-01.33.51:218][  0]LogIoStore: Display: Parsed 1748 oplog items 0.01 seconds, 2555 chunks
-[2026.08.03-01.33.51:230][  0]LogIoStore: Display: Using input asset registry: C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Cooked/Windows/Ledesma_Roberto_TP2/Metadata/DevelopmentAssetRegistry.bin
-[2026.08.03-01.33.51:244][  0]LogIoStore: Display: Loaded 819 chunk hashes from AssetRegistry in 0.03 seconds, 819 hashes updated in 0.00 seconds
-[2026.08.03-01.33.51:251][  0]LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\Noelia\Documents\GitHub\Multiplataformas_NoeliayLuciana\Ledesma_Roberto_TP2\Saved\Cooked\Windows'
-[2026.08.03-01.33.51:312][  0]LogIoStore: Display: Found '4299' files
-[2026.08.03-01.33.51:333][  0]LogIoStore: Display: Creating container targets...
-[2026.08.03-01.33.51:344][  0]OodleDataCompression: Display: Oodle v2.9.13 format for pak/iostore with method=Kraken, level=4=Normal
-[2026.08.03-01.33.51:405][  0]LogIoStore: Display: Parsing packages...
-[2026.08.03-01.33.51:406][  0]LogIoStore: Display: Reading package assets...
-[2026.08.03-01.33.51:491][  0]LogIoStore: Display: Reading 1000/1736: 'C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Cooked/Windows/Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset'
-[2026.08.03-01.33.51:557][  0]LogIoStore: Display: Packages read 1,736 files in 0.15 seconds, 2,830,927 total bytes, 18,706,224 bytes per second
-[2026.08.03-01.33.51:568][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
-[2026.08.03-01.33.51:603][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 379 groups (139 of them didn't need new indices), average uncompressed size 150965 bytes, min 249 bytes, max 1048075 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2026.08.03-01.33.51:785][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 4106 shaders as 379 groups. Library size changed from 12766 KB (4.38 : 1 ratio) to 5612 KB (9.96 : 1 ratio), 43.96% of previous.
-[2026.08.03-01.33.52:353][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 636 groups (187 of them didn't need new indices), average uncompressed size 298237 bytes, min 1249 bytes, max 1045520 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2026.08.03-01.33.54:667][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 10691 shaders as 636 groups. Library size changed from 140593 KB (1.32 : 1 ratio) to 82364 KB (2.25 : 1 ratio), 58.58% of previous.
-[2026.08.03-01.33.54:683][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 309 groups (127 of them didn't need new indices), average uncompressed size 49846 bytes, min 490 bytes, max 966610 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2026.08.03-01.33.54:743][  0]LogIoStore: Display: Ledesma_Roberto_TP2-PCD3D_SM5(PCD3D_SM5): Recompressed 1491 shaders as 309 groups. Library size changed from 4282 KB (3.51 : 1 ratio) to 1953 KB (7.70 : 1 ratio), 45.63% of previous.
-[2026.08.03-01.33.54:765][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 367 groups (70 of them didn't need new indices), average uncompressed size 129905 bytes, min 2342 bytes, max 963395 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
-[2026.08.03-01.33.55:218][  0]LogIoStore: Display: Ledesma_Roberto_TP2-PCD3D_SM6(PCD3D_SM6): Recompressed 3600 shaders as 367 groups. Library size changed from 36136 KB (1.29 : 1 ratio) to 25131 KB (1.85 : 1 ratio), 69.55% of previous.
-[2026.08.03-01.33.55:626][  0]LogIoStore: Display: Shaders processed in 4.06 seconds
-[2026.08.03-01.33.55:630][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=6 (12 cores), MaxSourceBufferMemory=3072MiB
-[2026.08.03-01.33.55:635][  0]LogIoStore: Display: Processing redirects...
-[2026.08.03-01.33.55:635][  0]LogIoStore: Display: Creating disk layout...
-[2026.08.03-01.33.55:638][  0]LogIoStore: Display: Ordered 1736 packages using fallback bundle order
-[2026.08.03-01.33.55:654][  0]LogIoStore: Display: Serializing container(s)...
-[2026.08.03-01.33.57:668][  0]LogIoStore: Display: Writing chunks 1358/4251... [63 compressed] [6206 compression tasks] [Physical: 1861 MiB, Virtual: 4804 MiB]
-[2026.08.03-01.33.59:674][  0]LogIoStore: Display: Writing chunks 2222/4251... [917 compressed] [8665 compression tasks] [Physical: 2778 MiB, Virtual: 5668 MiB]
-[2026.08.03-01.34.01:676][  0]LogIoStore: Display: Writing chunks 3440/4251... [1788 compressed] [7286 compression tasks] [Physical: 2981 MiB, Virtual: 5601 MiB]
-[2026.08.03-01.34.03:680][  0]LogIoStore: Display: Writing chunks 3465/4251... [1923 compressed] [4103 compression tasks] [Physical: 2772 MiB, Virtual: 4866 MiB]
-[2026.08.03-01.34.05:681][  0]LogIoStore: Display: Writing chunks 3499/4251... [2050 compressed] [2285 compression tasks] [Physical: 2463 MiB, Virtual: 4318 MiB]
-[2026.08.03-01.34.07:682][  0]LogIoStore: Display: Writing chunks 3515/4251... [2165 compressed] [Physical: 1982 MiB, Virtual: 3671 MiB]
-[2026.08.03-01.34.09:683][  0]LogIoStore: Display: Writing chunks 3546/4251... [2221 compressed] [Physical: 1951 MiB, Virtual: 3569 MiB]
-[2026.08.03-01.34.11:683][  0]LogIoStore: Display: Writing chunks 3555/4251... [2236 compressed] [Physical: 1955 MiB, Virtual: 3561 MiB]
-[2026.08.03-01.34.13:684][  0]LogIoStore: Display: Writing chunks 3559/4251... [2254 compressed] [Physical: 1974 MiB, Virtual: 3561 MiB]
-[2026.08.03-01.34.15:690][  0]LogIoStore: Display: Writing chunks 3559/4251... [2254 compressed] [Physical: 1974 MiB, Virtual: 3561 MiB]
-[2026.08.03-01.34.17:690][  0]LogIoStore: Display: Writing chunks 3560/4251... [2263 compressed] [Physical: 1976 MiB, Virtual: 3545 MiB]
-[2026.08.03-01.34.19:691][  0]LogIoStore: Display: Writing chunks 3621/4251... [2547 compressed] [Physical: 2006 MiB, Virtual: 3650 MiB]
-[2026.08.03-01.34.21:691][  0]LogIoStore: Display: Writing chunks 3726/4251... [2555 compressed] [Physical: 2019 MiB, Virtual: 3525 MiB]
-[2026.08.03-01.34.23:691][  0]LogIoStore: Display: Writing chunks 3745/4251... [2555 compressed] [Physical: 2019 MiB, Virtual: 3525 MiB]
-[2026.08.03-01.34.25:692][  0]LogIoStore: Display: Writing chunks 3748/4251... [2555 compressed] [Physical: 2019 MiB, Virtual: 3525 MiB]
-[2026.08.03-01.34.27:692][  0]LogIoStore: Display: Writing chunks 3749/4251... [2555 compressed] [Physical: 2019 MiB, Virtual: 3525 MiB]
-[2026.08.03-01.34.29:693][  0]LogIoStore: Display: Writing chunks 3755/4251... [2555 compressed] [Physical: 2019 MiB, Virtual: 3525 MiB]
-[2026.08.03-01.34.31:693][  0]LogIoStore: Display: Writing chunks 3756/4251... [2555 compressed] [Physical: 2019 MiB, Virtual: 3525 MiB]
-[2026.08.03-01.34.33:693][  0]LogIoStore: Display: Writing chunks 3918/4251... [2555 compressed] [Physical: 2020 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.35:694][  0]LogIoStore: Display: Writing chunks 3926/4251... [2555 compressed] [Physical: 2020 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.37:695][  0]LogIoStore: Display: Writing chunks 3931/4251... [2555 compressed] [Physical: 2020 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.39:695][  0]LogIoStore: Display: Writing chunks 4246/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.41:695][  0]LogIoStore: Display: Writing chunks 4246/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.43:710][  0]LogIoStore: Display: Writing chunks 4246/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.45:721][  0]LogIoStore: Display: Writing chunks 4246/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.47:723][  0]LogIoStore: Display: Writing chunks 4247/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.49:723][  0]LogIoStore: Display: Writing chunks 4247/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.51:723][  0]LogIoStore: Display: Writing chunks 4247/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.53:724][  0]LogIoStore: Display: Writing chunks 4248/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.55:724][  0]LogIoStore: Display: Writing chunks 4249/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.57:724][  0]LogIoStore: Display: Writing chunks 4249/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.34.59:725][  0]LogIoStore: Display: Writing chunks 4249/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.35.01:725][  0]LogIoStore: Display: Writing chunks 4249/4251... [2555 compressed] [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.35.02:038][  0]LogIoStore: Display: Writing and compressing took 64.89 seconds, writes to disk took 62.63 seconds for 1,784,437,312 bytes @ 28,489,754 bytes per second.
-[2026.08.03-01.35.02:292][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
-[2026.08.03-01.35.02:297][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows: Found perfect hashmap for 4250 items.
-[2026.08.03-01.35.03:726][  0]LogIoStore: Display: Writing tocs... [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.35.05:140][  0]LogIoStore: Display: Finalize took 3.1 seconds for 2 writers to write 1,152,031 bytes, 371,446 bytes per second
-[2026.08.03-01.35.05:140][  0]LogIoStore: Display: Writing tocs... [Physical: 2021 MiB, Virtual: 3526 MiB]
-[2026.08.03-01.35.05:140][  0]LogIoStore: Display: 819 / 4,251 hashes were loaded from the hash database, by type:
-[2026.08.03-01.35.05:389][  0]LogIoStore: Display:     BulkData                   815
-[2026.08.03-01.35.05:389][  0]LogIoStore: Display:     OptionalBulkData           4
-[2026.08.03-01.35.05:389][  0]LogIoStore: Display: 2,555 / 4,251 chunks attempted to compress, by type:
-[2026.08.03-01.35.05:389][  0]LogIoStore: Display:     ExportBundleData           1,736 / 1,736
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     BulkData                   815 / 815
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     OptionalBulkData           4 / 4
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     ScriptObjects              0 / 1
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     ContainerHeader            0 / 1
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     ShaderCode                 0 / 1,690
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display: Source bytes read:
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     Zen:                                  0
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     Loose File:               5,017,976,037
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:         ExportBundleData       1,578,327,434 bytes over 3,472 reads
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:         BulkData               3,271,876,443 bytes over 815 reads
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:         OptionalBulkData        167,772,160 bytes over 4 reads
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:     Memory:                     237,260,910
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:         ShaderCodeLibrary         1,613,944 bytes over 8 reads
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display:         ShaderCode              235,646,966 bytes over 3,380 reads
-[2026.08.03-01.35.05:390][  0]LogIoStore: Display: Calculating stats...
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Container Summary
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: ==================
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.65                 2.43                 2.43 -
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows                         C/-/-/I/-            4250         1124.38              4151.12              1699.34 (59.06% Oodle)
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Total                                                                    4251         1125.03              4153.55              1701.77
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Compression block padding:     3.30 MiB
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Container Directory Index
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: ==========================
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Container                                          Size (KiB)
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: global                                                   0.00
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows                            110.09
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Container Patch Report
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: ========================
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
-[2026.08.03-01.35.05:638][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows                              4250                0             4250             0.00          1696.04
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: PackageStore
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: =============
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows                                61            1736               0
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Total                                                      61            1736               0
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Input:      1736 Packages
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Input:      0.73 GB UExp
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Input:      0.00 GB UAsset
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Input:      3.20 GB UBulk
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Input:     85.91 MB for 1015 Global shaders
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Input:      4.16 MB for 269 Shared shaders
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Input:     22.29 MB for 406 Inline shaders
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Output:    13446 Name map entries
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Output:     2270 Imported package entries
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Output:      905 Packages without imports
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Output:        0 Public runtime script objects
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: Output:     2.43 MB InitialLoadData
-[2026.08.03-01.35.05:639][  0]LogIoStore: Display: 
-[2026.08.03-01.35.05:902][  0]LogPakFile: Display: UnrealPak executed in 74.736553 seconds
-[2026.08.03-01.35.06:150][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
-[2026.08.03-01.35.06:150][  0]LogExit: Preparing to exit.
-[2026.08.03-01.35.11:485][  0]LogExit: Object subsystem successfully closed.
-[2026.08.03-01.35.12:981][  0]LogPakFile: Destroying PakPlatformFile
-[2026.08.03-01.35.12:993][  0]LogExit: Exiting.
-[2026.08.03-01.35.13:799][  0]Log file closed, 08/02/26 22:35:13
+LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+[2026.08.03-03.06.55:985][  0]LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+[2026.08.03-03.06.55:985][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2026.08.03-03.06.55:985][  0]LogInit: Computer: DESKTOP-AERA584
+[2026.08.03-03.06.55:985][  0]LogInit: User: Noelia
+[2026.08.03-03.06.55:985][  0]LogInit: CPU Page size=4096, Cores=6
+[2026.08.03-03.06.55:985][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2026.08.03-03.06.55:985][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2026.08.03-03.06.55:985][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx) Virtual=35.9GB
+[2026.08.03-03.06.55:985][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2026.08.03-03.06.55:985][  0]LogMemory: Process Physical Memory: 65.45 MB used, 65.45 MB peak
+[2026.08.03-03.06.55:985][  0]LogMemory: Process Virtual Memory: 118.97 MB used, 118.97 MB peak
+[2026.08.03-03.06.55:985][  0]LogMemory: Physical Memory: 7654.57 MB used,  6574.97 MB free, 14229.54 MB total
+[2026.08.03-03.06.55:985][  0]LogMemory: Virtual Memory: 26249.43 MB used,  10508.11 MB free, 36757.54 MB total
+[2026.08.03-03.06.55:991][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2026.08.03-03.06.55:992][  0]LogUObjectArray: 462 objects as part of root set at end of initial load.
+[2026.08.03-03.06.55:992][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2026.08.03-03.06.55:992][  0]LogInit: Using OS detected language ().
+[2026.08.03-03.06.55:992][  0]LogInit: Using OS detected locale ().
+[2026.08.03-03.06.55:993][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.08.03-03.06.55:993][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.08.03-03.06.55:993][  0]LogInit: Using OS detected language ().
+[2026.08.03-03.06.55:993][  0]LogInit: Using OS detected locale ().
+[2026.08.03-03.06.55:993][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2026.08.03-03.06.55:993][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2026.08.03-03.06.55:993][  0]LogPakFile: Display: ProjectDir: ../../../../../../Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/
+[2026.08.03-03.06.55:994][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2026.08.03-03.06.55:997][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\Noelia\Documents\GitHub\Multiplataformas_NoeliayLuciana\Ledesma_Roberto_TP2\Saved\Cooked\Windows\Ledesma_Roberto_TP2\Metadata\Crypto.json'
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Container signing - DISABLED
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Directory index - ENABLED
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Using compression block size '65536'
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Using max partition size '0'
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Not using DDC for compression
+[2026.08.03-03.06.56:003][  0]LogIoStore: Display: Using command list file: 'C:\Users\Noelia\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.6\IoStoreCommands.txt'
+[2026.08.03-03.06.56:029][  0]LogIoStore: Display: Selected Oodle level 4 (Normal) from command line for shaders
+[2026.08.03-03.06.56:247][  0]LogIoStore: Display: Fetched 1814 oplog items from Manifest in 0.22 seconds
+[2026.08.03-03.06.56:256][  0]LogIoStore: Display: Parsed 1814 oplog items 0.01 seconds, 2659 chunks
+[2026.08.03-03.06.56:270][  0]LogIoStore: Display: Using input asset registry: C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Cooked/Windows/Ledesma_Roberto_TP2/Metadata/DevelopmentAssetRegistry.bin
+[2026.08.03-03.06.56:283][  0]LogIoStore: Display: Loaded 857 chunk hashes from AssetRegistry in 0.03 seconds, 857 hashes updated in 0.00 seconds
+[2026.08.03-03.06.56:291][  0]LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\Noelia\Documents\GitHub\Multiplataformas_NoeliayLuciana\Ledesma_Roberto_TP2\Saved\Cooked\Windows'
+[2026.08.03-03.06.56:344][  0]LogIoStore: Display: Found '4469' files
+[2026.08.03-03.06.56:363][  0]LogIoStore: Display: Creating container targets...
+[2026.08.03-03.06.56:374][  0]OodleDataCompression: Display: Oodle v2.9.13 format for pak/iostore with method=Kraken, level=4=Normal
+[2026.08.03-03.06.56:425][  0]LogIoStore: Display: Parsing packages...
+[2026.08.03-03.06.56:425][  0]LogIoStore: Display: Reading package assets...
+[2026.08.03-03.06.56:851][  0]LogIoStore: Display: Reading 1000/1802: 'C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Saved/Cooked/Windows/Ledesma_Roberto_TP2/Content/DESCARGAS/HABITACIONES/habitacion_encuentro/TEXTURAS/DefaultMaterial_Normal.uasset'
+[2026.08.03-03.06.56:962][  0]LogIoStore: Display: Packages read 1,802 files in 0.54 seconds, 2,989,411 total bytes, 5,566,051 bytes per second
+[2026.08.03-03.06.56:974][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 4 (Normal)
+[2026.08.03-03.06.57:007][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 380 groups (140 of them didn't need new indices), average uncompressed size 150585 bytes, min 249 bytes, max 1048075 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.08.03-03.06.57:156][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 4107 shaders as 380 groups. Library size changed from 12767 KB (4.38 : 1 ratio) to 5613 KB (9.95 : 1 ratio), 43.97% of previous.
+[2026.08.03-03.06.57:486][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 637 groups (188 of them didn't need new indices), average uncompressed size 297778 bytes, min 1249 bytes, max 1045520 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.08.03-03.06.59:448][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 10692 shaders as 637 groups. Library size changed from 140597 KB (1.32 : 1 ratio) to 82368 KB (2.25 : 1 ratio), 58.58% of previous.
+[2026.08.03-03.06.59:461][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 322 groups (129 of them didn't need new indices), average uncompressed size 48208 bytes, min 325 bytes, max 966610 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.08.03-03.06.59:499][  0]LogIoStore: Display: Ledesma_Roberto_TP2-PCD3D_SM5(PCD3D_SM5): Recompressed 1525 shaders as 322 groups. Library size changed from 4331 KB (3.50 : 1 ratio) to 1985 KB (7.63 : 1 ratio), 45.85% of previous.
+[2026.08.03-03.06.59:515][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 380 groups (70 of them didn't need new indices), average uncompressed size 128109 bytes, min 2342 bytes, max 963395 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2026.08.03-03.06.59:837][  0]LogIoStore: Display: Ledesma_Roberto_TP2-PCD3D_SM6(PCD3D_SM6): Recompressed 3689 shaders as 380 groups. Library size changed from 36927 KB (1.29 : 1 ratio) to 25725 KB (1.85 : 1 ratio), 69.66% of previous.
+[2026.08.03-03.06.59:843][  0]LogIoStore: Display: Shaders processed in 2.87 seconds
+[2026.08.03-03.06.59:845][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=6 (12 cores), MaxSourceBufferMemory=3072MiB
+[2026.08.03-03.06.59:850][  0]LogIoStore: Display: Processing redirects...
+[2026.08.03-03.06.59:850][  0]LogIoStore: Display: Creating disk layout...
+[2026.08.03-03.06.59:854][  0]LogIoStore: Display: Ordered 1802 packages using fallback bundle order
+[2026.08.03-03.06.59:869][  0]LogIoStore: Display: Serializing container(s)...
+[2026.08.03-03.07.01:890][  0]LogIoStore: Display: Writing chunks 998/4383... [56 compressed] [4287 compression tasks] [Physical: 1294 MiB, Virtual: 4160 MiB]
+[2026.08.03-03.07.03:917][  0]LogIoStore: Display: Writing chunks 1716/4383... [1148 compressed] [7119 compression tasks] [Physical: 2529 MiB, Virtual: 5353 MiB]
+[2026.08.03-03.07.05:917][  0]LogIoStore: Display: Writing chunks 2687/4383... [1925 compressed] [4615 compression tasks] [Physical: 2559 MiB, Virtual: 4956 MiB]
+[2026.08.03-03.07.07:924][  0]LogIoStore: Display: Writing chunks 3527/4383... [2033 compressed] [2574 compression tasks] [Physical: 2391 MiB, Virtual: 4339 MiB]
+[2026.08.03-03.07.09:924][  0]LogIoStore: Display: Writing chunks 3551/4383... [2185 compressed] [Physical: 2017 MiB, Virtual: 3788 MiB]
+[2026.08.03-03.07.11:924][  0]LogIoStore: Display: Writing chunks 3601/4383... [2235 compressed] [Physical: 1896 MiB, Virtual: 3575 MiB]
+[2026.08.03-03.07.13:925][  0]LogIoStore: Display: Writing chunks 3659/4383... [2304 compressed] [Physical: 1985 MiB, Virtual: 3586 MiB]
+[2026.08.03-03.07.15:939][  0]LogIoStore: Display: Writing chunks 3722/4383... [2509 compressed] [392 compression tasks] [Physical: 2125 MiB, Virtual: 3653 MiB]
+[2026.08.03-03.07.17:940][  0]LogIoStore: Display: Writing chunks 4015/4383... [2659 compressed] [Physical: 2092 MiB, Virtual: 3580 MiB]
+[2026.08.03-03.07.18:985][  0]LogIoStore: Display: Writing and compressing took 17.51 seconds, writes to disk took 16.62 seconds for 1,799,582,896 bytes @ 108,288,696 bytes per second.
+[2026.08.03-03.07.18:987][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2026.08.03-03.07.18:989][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows: Found perfect hashmap for 4382 items.
+[2026.08.03-03.07.19:017][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 1,185,572 bytes, 37,313,115 bytes per second
+[2026.08.03-03.07.19:017][  0]LogIoStore: Display: Writing tocs... [Physical: 2093 MiB, Virtual: 3580 MiB]
+[2026.08.03-03.07.19:017][  0]LogIoStore: Display: 857 / 4,383 hashes were loaded from the hash database, by type:
+[2026.08.03-03.07.19:018][  0]LogIoStore: Display:     BulkData                   853
+[2026.08.03-03.07.19:018][  0]LogIoStore: Display:     OptionalBulkData           4
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display: 2,659 / 4,383 chunks attempted to compress, by type:
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display:     ExportBundleData           1,802 / 1,802
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display:     BulkData                   853 / 853
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display:     OptionalBulkData           4 / 4
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display:     ShaderCode                 0 / 1,718
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display: Source bytes read:
+[2026.08.03-03.07.19:019][  0]LogIoStore: Display:     Zen:                                  0
+[2026.08.03-03.07.19:022][  0]LogIoStore: Display:     Loose File:               5,133,695,641
+[2026.08.03-03.07.19:022][  0]LogIoStore: Display:         ExportBundleData       1,576,034,228 bytes over 3,604 reads
+[2026.08.03-03.07.19:022][  0]LogIoStore: Display:         BulkData               3,389,889,253 bytes over 853 reads
+[2026.08.03-03.07.19:022][  0]LogIoStore: Display:         OptionalBulkData        167,772,160 bytes over 4 reads
+[2026.08.03-03.07.19:022][  0]LogIoStore: Display:     Memory:                     238,565,322
+[2026.08.03-03.07.19:022][  0]LogIoStore: Display:         ShaderCodeLibrary         1,626,392 bytes over 8 reads
+[2026.08.03-03.07.19:022][  0]LogIoStore: Display:         ShaderCode              236,938,930 bytes over 3,436 reads
+[2026.08.03-03.07.19:022][  0]LogIoStore: Display: Calculating stats...
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Container Summary
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ==================
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.67                 2.52                 2.52 -
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows                         C/-/-/I/-            4382         1157.12              4263.40              1713.70 (59.80% Oodle)
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Total                                                                    4383         1157.79              4265.91              1716.22
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Compression block padding:     3.40 MiB
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Container Directory Index
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ==========================
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: global                                                   0.00
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows                            114.48
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Container Patch Report
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ========================
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows                              4382                0             4382             0.00          1710.30
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: PackageStore
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: =============
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.08.03-03.07.19:023][  0]LogIoStore: Display: Ledesma_Roberto_TP2-Windows                                66            1802               0
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Total                                                      66            1802               0
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Input:      1802 Packages
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Input:      0.73 GB UExp
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Input:      0.00 GB UAsset
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Input:      3.31 GB UBulk
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Input:     85.92 MB for 1017 Global shaders
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Input:      5.02 MB for 290 Shared shaders
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Input:     22.04 MB for 411 Inline shaders
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Output:    14353 Name map entries
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Output:     2348 Imported package entries
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Output:      944 Packages without imports
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: Output:     2.52 MB InitialLoadData
+[2026.08.03-03.07.19:024][  0]LogIoStore: Display: 
+[2026.08.03-03.07.19:031][  0]LogPakFile: Display: UnrealPak executed in 23.038387 seconds
+[2026.08.03-03.07.19:044][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2026.08.03-03.07.19:044][  0]LogExit: Preparing to exit.
+[2026.08.03-03.07.19:104][  0]LogExit: Object subsystem successfully closed.
+[2026.08.03-03.07.19:115][  0]LogPakFile: Destroying PakPlatformFile
+[2026.08.03-03.07.19:122][  0]LogExit: Exiting.
+[2026.08.03-03.07.19:135][  0]Log file closed, 08/03/26 00:07:19
