@@ -2,7 +2,7 @@
 /D_WIN64
 /l 0x409
 /I "."
-/I "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.38.33130/INCLUDE"
+/I "C:/Program Files/Microsoft Visual Studio/18/Insiders/VC/Tools/MSVC/14.38.33130/INCLUDE"
 /I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/ucrt"
 /I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/shared"
 /I "C:/Program Files (x86)/Windows Kits/10/include/10.0.22621.0/um"
@@ -67,7 +67,7 @@
 /DUBT_COMPILED_TARGET=Game
 /DUE_APP_NAME="UnrealGame"
 /DUE_WARNINGS_AS_ERRORS=0
-/DUE_ENGINE_DIRECTORY="../../../../../../../../Program Files/Epic Games/UE_5.6/Engine/"
+/DUE_ENGINE_DIRECTORY="../../../../../../UE_5.6/Engine/"
 /DFORCE_ANSI_ALLOCATOR=0
 /DUSE_MALLOC_BINNED2=1
 /DUSE_MALLOC_BINNED3=0
@@ -91,5 +91,5 @@
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
 /DPROJECT_PRODUCT_NAME="First Person BP Game Template"
 /DPROJECT_PRODUCT_IDENTIFIER=Ledesma_Roberto_TP2
-/fo "C:/Users/Noelia/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Intermediate/Build/Win64/x64/Ledesma_Roberto_TP2/Shipping/Ledesma_Roberto_TP2-Win64-Shipping.exe/Default.rc2.res"
+/fo "D:/Documents/GitHub/Multiplataformas_NoeliayLuciana/Ledesma_Roberto_TP2/Intermediate/Build/Win64/x64/Ledesma_Roberto_TP2/Shipping/Ledesma_Roberto_TP2-Win64-Shipping.exe/Default.rc2.res"
 "../Build/Windows/Resources/Default.rc2"

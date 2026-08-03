@@ -1,0 +1,12 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+*.sln
+*.VC.db
+*.VC.opendb
+
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
