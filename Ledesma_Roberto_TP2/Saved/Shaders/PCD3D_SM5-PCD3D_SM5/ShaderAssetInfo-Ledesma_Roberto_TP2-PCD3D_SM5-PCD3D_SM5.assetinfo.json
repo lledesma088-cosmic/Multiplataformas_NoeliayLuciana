@@ -1,0 +1,1661 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "9B6DFE00EFDEF7DF46E85DB1F0459CA438A0AC52",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/Seda_Rosa"
+			]
+		},
+		{
+			"ShaderMapHash": "0C9CC701F1EC34FB76E8A282C530EC9362EC757A",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F48BD5014FC583ED092491D09CE7DC9795A89A6F",
+			"Assets": [
+				"/Game/dirty-light-switch/dirtyswitch"
+			]
+		},
+		{
+			"ShaderMapHash": "6836E7016A0A652416BF94B3F843AD484D5CF7DE",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MovieRenderQueue_MotionVectors"
+			]
+		},
+		{
+			"ShaderMapHash": "D047880233735B24F5F559B16E83AEA1CE0C7AC8",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "11558C033AF806037BDBD583E236F7D04E9F8948",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0E28A303C2AAAFB62438B6D10D2E6FECAD9A2AED",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LayerVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3EF77004519C8D4C3BCC23A5A9D13D59B49C1A4F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "672F79055E0544085F0F7E4DD26DF5A3B6A72EDE",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_018"
+			]
+		},
+		{
+			"ShaderMapHash": "18339905D993830C9B91CA23E065C21D08481936",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "6DAC420726382FEE73BA8ED5914103B565BA69A3",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "CEF1920731D41AFCAD62268CEA9E364E02C8B9BC",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material18"
+			]
+		},
+		{
+			"ShaderMapHash": "4FD60A08359EBB814D6F60614147B6A1CCC75493",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9EFCAA0854381D6271D06F82E9F17290A69ABA60",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/hair-dryer-with-diffuser/textures/BlackPlastic"
+			]
+		},
+		{
+			"ShaderMapHash": "39ECAD086D3EE1097D696C6E2B63B415371AFF75",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/leather_red"
+			]
+		},
+		{
+			"ShaderMapHash": "999DEF0BB35022312342C4731F2D8E040340063F",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9B4C300C52554C75381AF26A985CFA861D4EC07B",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/piece-virtual_grey"
+			]
+		},
+		{
+			"ShaderMapHash": "EB30C70EE2C0372BA8E7745B640A663AA0BBB8E5",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "48ABEC0E0CF3A67E7E522236AA49D9856F244D2A",
+			"Assets": [
+				"/Game/DESCARGAS/broken-mug/brokenmug",
+				"/Game/DESCARGAS/ceiling-lamp-10mb/textures/lampara",
+				"/Game/DESCARGAS/ESPEJO/ESPEJO",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/BAÑADERA/Material__3",
+				"/Game/DESCARGAS/tv/Livingroom_TV",
+				"/Game/DESCARGAS/wall-mirror/textures/Material_001",
+				"/Game/DESCARGAS/wardrobe/Material_1"
+			]
+		},
+		{
+			"ShaderMapHash": "23A08A0FAC3B37CF758B895D607515ED28930439",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/dior-handbag/Metal_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "1780FF12CC3A18E3CB754244C906FA8E0274272A",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/buzz-toy/source/Box2SG",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material__145",
+				"/Game/DESCARGAS/HABITACIONES/Habitaciones_assetsvarios/Tree_S1/grt1",
+				"/Game/DESCARGAS/HABITACIONES/Habitaciones_assetsvarios/Tree_S1/M_06___Default1",
+				"/Game/DESCARGAS/HABITACIONES/Habitaciones_assetsvarios/Tree_S1/TEXTURE11",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/6_-_Laminado_negro",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/black_ncl_1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/gold_yellow",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/padded_geo",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/scales_black",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/scales_black_1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/Suela_Negro"
+			]
+		},
+		{
+			"ShaderMapHash": "169EA413C9087915A94EF27D45F03E41DF14E79C",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "AB864A147D3CCED18014C818B69F864ABD71821D",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "A3705B14E17480CF6BBA575C1F2F683FC3C7F310",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "70657314862B010EABDA7586F97E65F1C8B80B67",
+			"Assets": [
+				"/Game/RandomPaintings7/Materials/M_Photo_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "1DB07F150A49D9684DC8E8AFD98A42D89E0AFC35",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/bar-with-bottles/source/glassbilel",
+				"/Game/DESCARGAS/lip-stick/textures/lakeme"
+			]
+		},
+		{
+			"ShaderMapHash": "FC802616017E2F5D41B3A1461ADEC5D7020F0F85",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/jeweled-sandal-high-heels/zipper"
+			]
+		},
+		{
+			"ShaderMapHash": "D12F481B4B76E710943486E5B770B7EC2733A943",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "2CDB061DCF1C124EF728EA9B828BEB168106CE37",
+			"Assets": [
+				"/Game/interruptor/source/Wall_socket_black"
+			]
+		},
+		{
+			"ShaderMapHash": "7476AC1EC2696C1175706520446831C5CA7606CF",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/foto_polaroid/initialShadingGroup",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Light_Oak1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wallet/notes_1_lambert",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wallet/notes_2_lambert",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wallet/notes_3_lambert",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wallet/notes_4_lambert"
+			]
+		},
+		{
+			"ShaderMapHash": "39089320D0DF37BFB499E3C8ED69B567EC3BC89D",
+			"Assets": [
+				"/Game/DESCARGAS/psx-style-wardrobe/source/Wardrobe"
+			]
+		},
+		{
+			"ShaderMapHash": "36CE0121996FCB0944FA07D935E0BB76EA10FF6A",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material__166"
+			]
+		},
+		{
+			"ShaderMapHash": "CEF92E21FBBDA1F5ED4CA7EFA3F1674557BB170C",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial",
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5FC9932511940960505DD2F11F6409E40652F642",
+			"Assets": [
+				"/Game/DESCARGAS/graffiti-statue/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "2C0645264EFCA89DC45B478326292E4AF85ABE7D",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "145C0F279B1A46DA0742D675FA198FF0FE825BD4",
+			"Assets": [
+				"/Game/MODULOS/Socalos"
+			]
+		},
+		{
+			"ShaderMapHash": "A7BECC277AC0232B7D2F5EF68932188B665DDCEC",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "217AAA2A3A51D441CA7D1A8F8C7CF25E97DCC90A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "83A0592BD1109BF1D4DD5398FDCDADEB8ACCFE30",
+			"Assets": [
+				"/Game/DetectiveOffice/Material/M_Basic1"
+			]
+		},
+		{
+			"ShaderMapHash": "BC83EC2DA5C6CD90F7A5E20F85B98F9197B75865",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/Clothing",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/source/Clothing"
+			]
+		},
+		{
+			"ShaderMapHash": "3665EE2E29F0AF095F3EC70DBBA559C2303A763E",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/toy-castle/source/lambert5"
+			]
+		},
+		{
+			"ShaderMapHash": "6BDB2030AD6991DD4703A128794ED36452D3BB23",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "00ED4F30D4A62F37DBD3EDEC629989ACB818282F",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/dior-handbag/Stitches_Mat",
+				"/Game/DESCARGAS/nike/source/finalized/tex_u1_v1",
+				"/Game/DESCARGAS/pile-of-clothes/source/tex_u1_v1"
+			]
+		},
+		{
+			"ShaderMapHash": "797F13314851D015508746FC192610819E3CC733",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeDirtyMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FEE65B31D2A01E71B28739D4668CFAF84594A0D5",
+			"Assets": [
+				"/Game/silla/RESPALDO"
+			]
+		},
+		{
+			"ShaderMapHash": "49C2963197F771B48F282A13CFAAC111E57404B6",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A3CFA6316DA5A090CD5E81E24DC322AB3289B5FB",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "2A38C731BD9522B06D1B7033AE09E256F5A4ABA8",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "F9648C32E35B05F352F1051A2AC7AE1754A5550B",
+			"Assets": [
+				"/Game/Movies/MP_Conflicto_Video_Mat",
+				"/Game/Movies/MP_Encuentro_Video_Mat",
+				"/Game/Movies/MP_Identidad_Video_Mat",
+				"/Game/Movies/MP_IdentidadM_Video_Mat",
+				"/Game/Movies/MP_Infancia_Video_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "95692B33CC674C88FB2CBAA514904D2A08CC3AEA",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/refrigerator/source/reizouko_ashi"
+			]
+		},
+		{
+			"ShaderMapHash": "B4693435776CEAA49BFFABBF28A6B0E70B27694A",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/dior-handbag/Object_2"
+			]
+		},
+		{
+			"ShaderMapHash": "54B671358A6962F4922BF446A24F6AC3731F3B12",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "2C1A07360A7B9DD253BD1A26E99B6BA764A0C028",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-mono-pink/plastic",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-unusual-day/plastic"
+			]
+		},
+		{
+			"ShaderMapHash": "7292443786443DD2FF7E2F7104F4296E9820E212",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "ABCF713ADAA2B28BF356F776C9F0D796BEEE3FEA",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "91848D3B2C083905A54138E68EA9C1BFBAD82AC6",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/cosmetic-serum-bottle/Rubber_001"
+			]
+		},
+		{
+			"ShaderMapHash": "81230A3C8446AD2E2406E59D7602398486398A3C",
+			"Assets": [
+				"/Game/DESCARGAS/Telephone/Materials/M_Phone",
+				"/Game/DESCARGAS/Telephone/Materials/M_Phone_2"
+			]
+		},
+		{
+			"ShaderMapHash": "0F9F013E079D29FB168F8B07A41D55E4C559B1A1",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0147413F674C76D2E98C6599B458D2AAE3761AC4",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/old-man-shoes/head",
+				"/Game/DESCARGAS/mesa_de_luz/Vase_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "3AC8543F9921F3470B0B77A9FE91CD72E475F113",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/Manny/MI_Manny_02_New"
+			]
+		},
+		{
+			"ShaderMapHash": "08B635416D805F20DCDB938B10F1B0BA3EE1E76B",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B4D6AF4617E329184949B00184CE6B3A7A69830B",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/heart-jewelry/source/Mat",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/heart-jewelry/source/Mat_1"
+			]
+		},
+		{
+			"ShaderMapHash": "CEBDF147BE6E4D4CACC5C3FE5AF5F7A2B9BF15A4",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/teddy-bears/source/fabric_brown",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/teddy-bears/source/fabric_white"
+			]
+		},
+		{
+			"ShaderMapHash": "F32BBA49BB28F6DC9B1ACF139E8B97DF060AE328",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/toy_story_lunchbox/Materials/Lunchbox_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "8C10FD490BC2B55CFA7806E8551A2A230CCF3E81",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D766D44A565BB903A00E06D34D2821F003F4B0AF",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "50808E4B17E86FCE63408E2B9C9A2C4FBC65E233",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/old-man-shoes/aiStandardSurface2"
+			]
+		},
+		{
+			"ShaderMapHash": "44DBA74BF0F402E8DEAD0430DB1F4F2B3B064B97",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/refrigerator/source/reizouko_kazari"
+			]
+		},
+		{
+			"ShaderMapHash": "0D08394C855037C8A54E5FFA6417E7C9EF801E09",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EAA69E4C00BF9EF06E2477721A563980A1AA8708",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CCD5374E0BA43C121A6C458F28B70E1B39F49878",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "6310E84F72B5EE2B61F2E324211151A252CBACD0",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/jeweled-sandal-high-heels/toppiece"
+			]
+		},
+		{
+			"ShaderMapHash": "20E5EB4FA52F87D630FADC885600D7C305DB68F3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A086105204D1DB4B1F16FAFC35F41490A7070998",
+			"Assets": [
+				"/Game/materials/MasterMaterial/MasterMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C7360B5338AB2F2C04B80E2D155CD1D5CD3355BF",
+			"Assets": [
+				"/Game/DESCARGAS/LAMPARA/METAL_LAMPARA"
+			]
+		},
+		{
+			"ShaderMapHash": "E408C75403DDC6EF92D3D67461342244A0DAFA90",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/cosmetic-serum-bottle/Bottle_001"
+			]
+		},
+		{
+			"ShaderMapHash": "D0A8E9542B247F4745835AA192E4C6A144C1610B",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "AF4EF255EC7166800FA63EA08ABD4A73A121729B",
+			"Assets": [
+				"/Game/DESCARGAS/sofas/OldLivingRoomSofa/Materials/StandardMaterials/M_OpaqueMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "62768457078A1B924773682209AD4C597CEDFF54",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/teddy-bears/source/eyes"
+			]
+		},
+		{
+			"ShaderMapHash": "6792D657C29AF45203580FD9F6AA760FFE0B5BA9",
+			"Assets": [
+				"/Game/DESCARGAS/dress/source/Rib_1X1_486gsm_FRONT_2246101"
+			]
+		},
+		{
+			"ShaderMapHash": "F6C8B658D0E64950607BED6D0F18CEC7FE37833B",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/toy-castle/source/lambert2"
+			]
+		},
+		{
+			"ShaderMapHash": "922D3D59382E37A7852B5CD39CE886F4DE4EE921",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/red_blood"
+			]
+		},
+		{
+			"ShaderMapHash": "11C76659A71592D83EB8CF1E848125BFA9994C96",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "59D00F5AD4AF0C996E0C58946EB4C248F1DFEBE5",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/buzz-toy/source/BuzzBaked",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_001",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_003",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_004",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_005",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_006",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_008",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_009",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_010",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_012",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_005",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_006",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_007",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_020",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_021",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_022",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_023",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_024",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_025",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_026",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_027",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_028",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_029",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_030",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_031",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_032",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_033",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_066",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-mono-pink/3CE61",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-mono-pink/sticker_sew1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-unusual-day/3CE61",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-unusual-day/sticker_sew1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Sepals1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Sepals2"
+			]
+		},
+		{
+			"ShaderMapHash": "B5EC9D5DDCD7A3085F8216291B5A11049987588A",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "AC64BF5D25D502F32153206004A8D9BA158CCF1C",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A088EC5D69B30DA36382666995306E0D6FDADDEA",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/teddy-bears/source/Material_012"
+			]
+		},
+		{
+			"ShaderMapHash": "2151055EF82D78D66C3F70CD303FD046BBACDD16",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DD72E05F55BDA7FAAA5E4BB9D6B07ADE395F4394",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__Amber"
+			]
+		},
+		{
+			"ShaderMapHash": "77BD2061D01AAAFEF21085E9C83E39BE5F3CAB3C",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_007"
+			]
+		},
+		{
+			"ShaderMapHash": "01055B637CD9A2AE496B78687F3EAB325679C42C",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/hair-dryer-with-diffuser/textures/BlackMatt"
+			]
+		},
+		{
+			"ShaderMapHash": "4EFF5364D1CEE9F6170DBEB8CD26BA2CC9A43C5C",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/LandscapeLayerUsageMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4FBD5D66049160C3A68C57913C8C8326DFD11C68",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "6DF97A664693A40C4EA6EC1A38C7F2AB600A7BA0",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D45C28688A22A3857B730F0A5EFB916D8BC3547D",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "E766B068CF7B9660959116B6C8E650335AD384F6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "F66AC268A20E6DC9EE0E119D0BA02C8085FA80BD",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "73E3746AACD32C9A44D952A2C1DD83CF936B84A1",
+			"Assets": [
+				"/Game/DESCARGAS/inodoro/Ceramic"
+			]
+		},
+		{
+			"ShaderMapHash": "5161106B343B9B1726E34EA445F98B421DBE6EC9",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "EB8E946CD45CFBCCC3013F71A7DE02966293F779",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_1",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_2",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_3",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_4",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_5",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_6",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_7",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_8"
+			]
+		},
+		{
+			"ShaderMapHash": "A971CE6CEA4C888D01D2EE67975DE618F16B216E",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/foto_polaroid/Frame_lambert79SG"
+			]
+		},
+		{
+			"ShaderMapHash": "742ADF6F17F5432E48697FE6907DD5660B4280C1",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "2406D570AD32993A9D65329ADD5F9C691C2E7425",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0D8E7A72A721613852007C3DCAD1FA3C26E8F6FC",
+			"Assets": [
+				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "19AE88724CE0AFA95336ACDC3D5D9E7DFF414707",
+			"Assets": [
+				"/Game/DESCARGAS/inodoro/Tapa"
+			]
+		},
+		{
+			"ShaderMapHash": "4C127073C3C6FC7576AA8944EAF81EBEA3F3F3A8",
+			"Assets": [
+				"/Game/DESCARGAS/araña_techo/lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "CC7E54742D1A48A17A916BE972370761358625B6",
+			"Assets": [
+				"/Game/DESCARGAS/LAMPARA/LAMPARA"
+			]
+		},
+		{
+			"ShaderMapHash": "9416E9742D53744B74CCDD4BF14574CB26669660",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F70CE5754E88E126E39F1541BF63CC010C889389",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/Amber"
+			]
+		},
+		{
+			"ShaderMapHash": "29FEF0755ECA87809F2C1AE9D42FCDC89BFAB27B",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "581218764F2453F869B18D9018EA5EFC4F9094E3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "EF25E176A5ABC9A73D3BF42B8DF6706F944BE94A",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__Wax1"
+			]
+		},
+		{
+			"ShaderMapHash": "73413877C5CEFBCDA5DECE81D1F549D66824C0FB",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/hair-dryer-with-diffuser/textures/Button"
+			]
+		},
+		{
+			"ShaderMapHash": "82C364773360A58857B831FE55D0E1B6DF932FAB",
+			"Assets": [
+				"/Game/DESCARGAS/Deko_MatrixDemo/Shared/Material/Masters/MM_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "4CD8E179D872D12293EA9D53E3D19E60018AB387",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/Boots",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/source/Boots"
+			]
+		},
+		{
+			"ShaderMapHash": "C775F17A4EF361D71C70A70D623E86D44979408A",
+			"Assets": [
+				"/Game/DESCARGAS/cama/frazada"
+			]
+		},
+		{
+			"ShaderMapHash": "D0A94A7B9D8A7E932C9A312CA06A899A52EB2203",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/source/Thread1",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/Thread1"
+			]
+		},
+		{
+			"ShaderMapHash": "02DBCD7D9AA5B29AD18DED561D715DE64D730214",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/red-wine-glass/source/WineGlassMergDirt_upl/WineGlassMerged",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_019",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/hair-dryer-with-diffuser/textures/Hairdryer1"
+			]
+		},
+		{
+			"ShaderMapHash": "03D6037F28318E325F3F889970A73731B7E8E877",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultEvenSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "CD1CFA7F3014B922848ABBD8A7042E314552F548",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "89DF2580650264E0F5C234522D821789E9F07433",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/source/Thread2",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/Thread2"
+			]
+		},
+		{
+			"ShaderMapHash": "1D7B8F83398BB5D512869A0DD96553A8600BD3C2",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "2718B18894525EA19F2AB5E112B763A08BF5B5FE",
+			"Assets": [
+				"/Game/DESCARGAS/LAMPARA/PALO_LAMPARA"
+			]
+		},
+		{
+			"ShaderMapHash": "2F7E5889F931D465629142A648207ED8A8835FAE",
+			"Assets": [
+				"/Game/DetectiveOffice/MaterialInstances/MI_leaves"
+			]
+		},
+		{
+			"ShaderMapHash": "C3A9CA89D6A85ED2F9E1CF1A49E917FB8DCA401E",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__pasted__Amber"
+			]
+		},
+		{
+			"ShaderMapHash": "76535F8A1A0E3F6F114E729C1918A917FFB919AD",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "6E353B8BB286BA342D7D9872D28915190E31A73C",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "C4D59B8C12206D2F2049ECE6B5A9729CF72B5522",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE4938DAA8F82860F8A575D7F61780BC9749B4E",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DED168E0CDC1EB9137FB9B92AFD498FCD120185",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__pasted__Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "7E1A379088D8D97ECE324EB01F53C5E627329502",
+			"Assets": [
+				"/Game/DESCARGAS/LAMPARA/BASE_LAMPARA"
+			]
+		},
+		{
+			"ShaderMapHash": "37DE4190F776E022FCEDF80FF73765540DBB0A45",
+			"Assets": [
+				"/Game/DESCARGAS/cama/lambert5"
+			]
+		},
+		{
+			"ShaderMapHash": "A01526928E0E8929846F6BC67D11E35892AFC0AF",
+			"Assets": [
+				"/Game/DESCARGAS/cama/2_alm",
+				"/Game/DESCARGAS/cama/cama",
+				"/Game/DESCARGAS/cama/colchon",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/box-of-toys/source/aiToon6",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/box-of-toys/source/aiToonBase"
+			]
+		},
+		{
+			"ShaderMapHash": "312A3C9331CB1890EFFA78879973590F91B7367F",
+			"Assets": [
+				"/Game/DESCARGAS/OldWest/VOL5/Materials/MI_Curtain_NN_02a"
+			]
+		},
+		{
+			"ShaderMapHash": "21FC03955BA48FB3D0B4C426C912268338D2E208",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AD4490951A1FB666A27128C879B52631F6BF4184",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "272D459677C707315EE2181CEB1F467003DC10D5",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/jeweled-sandal-high-heels/base_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "9FE206973F633E4704C157D5D7164C28E4F94CFC",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "2EA7C497790F51B06C1AE9F5DCDCFF9165016055",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/pvc"
+			]
+		},
+		{
+			"ShaderMapHash": "908A12982B4CFDD418D3A42DFC34A867B84CA933",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "883C5A99525AAC4663E316D7008207EF6561270B",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/Metal",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/source/Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "73A4C9992A6B85B2CBF11F8F3E5A2C810335341B",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "2981FA99AA6A433B82891D79E24578B3502FD526",
+			"Assets": [
+				"/Game/DESCARGAS/mesa_de_luz/Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "63E4979B9585C1B7328360920B426547DD387DA9",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2EB1639CC571E85E24AB2B48E7482F957F81EA04",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/Black"
+			]
+		},
+		{
+			"ShaderMapHash": "29CB8A9CB023D2548E1111F763D3200DC3AF887F",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "75662B9E331A2331912E8072AAF82DB697ECFBC3",
+			"Assets": [
+				"/MovieRenderPipeline/Blueprints/M_MoviePipelineRenderPreview"
+			]
+		},
+		{
+			"ShaderMapHash": "8067719E01ECDBFFFA02E77F92E0275A69F7AF1B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8162F59EFE908B41191A8CD1E400331EFF189AC4",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "61363EA1B65B9D05561D5E9CB5F8FBEC8CE91B29",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MovieRenderQueue_WorldDepth"
+			]
+		},
+		{
+			"ShaderMapHash": "C1465BA1501742B8A3373F655FDC0601D40144FE",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__Amber1"
+			]
+		},
+		{
+			"ShaderMapHash": "421A92A1E3D50058738776278EBFE0D3682D94F4",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/free-pothos-potted-plant-money-plant/source/POTHOS_Mat",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/leather-purse/purse"
+			]
+		},
+		{
+			"ShaderMapHash": "200DAEA1A130A4BE510774EE9523C15DDB769901",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "0D06D6A1ADEB38E9B8EE75D14841CEA5B4DEDE4A",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F24CE5A4561ECAA087CD1F14EDD23D20E1F52C71",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_Zufllige_Farbe_007"
+			]
+		},
+		{
+			"ShaderMapHash": "764713A74D55BA74D03A1D61AB2D99C7611FE0C5",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/salon-round-hair-brush/source/mRoundBrush"
+			]
+		},
+		{
+			"ShaderMapHash": "9F47B8A7DECBF7F6C8EB48FF0E8BCFBD2A9F9D4F",
+			"Assets": [
+				"/Game/DESCARGAS/araña_techo/body",
+				"/Game/DESCARGAS/coat-rack/textures/Material_001",
+				"/Game/DESCARGAS/control_tv/Material__7",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/bar-with-bottles/source/etiketks",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/bar-with-bottles/source/glass",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/bar-with-bottles/source/kriwki",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/bar-with-bottles/source/polka",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/whisky/source/Material_001",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/whisky/source/Material_002",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/whisky/source/Material_003",
+				"/Game/DESCARGAS/HABITACIONES/Habitaciones_assetsvarios/commod-low-poly-game-ready/source/commod",
+				"/Game/DESCARGAS/HABITACIONES/Habitaciones_assetsvarios/lapo-s/source/Lapo",
+				"/Game/DESCARGAS/laptop/laptopmaterial",
+				"/Game/DESCARGAS/RADIO/BORDE_PARLANTE",
+				"/Game/DESCARGAS/RADIO/BOTON",
+				"/Game/DESCARGAS/RADIO/BOTONES",
+				"/Game/DESCARGAS/RADIO/CUERPO_PARLANTE",
+				"/Game/DESCARGAS/RADIO/MARCA",
+				"/Game/DESCARGAS/RADIO/PARLANTE",
+				"/Game/DESCARGAS/RADIO/PERILLA_METAL",
+				"/Game/DESCARGAS/wine-bottle/textures/lambert1"
+			]
+		},
+		{
+			"ShaderMapHash": "EE6EFDA74565C5D467BE7E3B4D4B791A48CA33A5",
+			"Assets": [
+				"/Game/RandomPaintings7/Materials/M_Base_02"
+			]
+		},
+		{
+			"ShaderMapHash": "F87963A85CE57206867E62431C3B5B5F828C1124",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F11D5BA9FC6425D3F2E4F3AAA28FEF4AB42CA0B7",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/Wax"
+			]
+		},
+		{
+			"ShaderMapHash": "C38DB1A9CEAD11D30D06F218B4496DB3EF8758F3",
+			"Assets": [
+				"/Game/DESCARGAS/PISOS/Piso_maderaopaca"
+			]
+		},
+		{
+			"ShaderMapHash": "7AF6E1A99A9AB784E95F4F59183C4530BE1B51B5",
+			"Assets": [
+				"/Game/DESCARGAS/psx-style-wardrobe/source/Wardrobe_Door_Handle"
+			]
+		},
+		{
+			"ShaderMapHash": "42B3E0AA6BB46EBA85BD7EF63B368E087BC44037",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__313"
+			]
+		},
+		{
+			"ShaderMapHash": "B06C0EABCD555E1B50250B39D6CBA61BE8548FE9",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D1DB1CAB4A0A3E9E9C99D3339E34731ADA77F203",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/jeweled-sandal-high-heels/insole",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/jeweled-sandal-high-heels/Outer_base_inner",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/jeweled-sandal-high-heels/outsole"
+			]
+		},
+		{
+			"ShaderMapHash": "36D1A9AD833E98DCE8C3B7515EC246FCB50EC500",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "43018CAEF19F6F3F6BC5CA46244D7D230C48358A",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/MESSY_BED/Nordli_Fabrics",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/MESSY_BED/Nordli_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "5A1465AF40E77CD45DE820C491E746B785E64DAF",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_017"
+			]
+		},
+		{
+			"ShaderMapHash": "550DCAAF26852A2CF1C1BE3301ED1E32617547A8",
+			"Assets": [
+				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "32D029B0F07F75084F14A5973D40B8EBAB28C2BC",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "726332B3E23F61577A835F7A4705B5A8BD08385C",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MoviePipeline_StencilCutout"
+			]
+		},
+		{
+			"ShaderMapHash": "5A8861B318C19E40B82A0FF7BFF6A4D51A6C5D1C",
+			"Assets": [
+				"/InterchangeAssets/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "13D61FB48E527B1108ECBFB9AF13FA1569885426",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__pasted__Wax"
+			]
+		},
+		{
+			"ShaderMapHash": "DEB199B4932EB2F8703EDC93F15D79E1CB7C90E1",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "8DED9BB5878C54DA66D2DAA231C767AB8F6CC21B",
+			"Assets": [
+				"/Game/DESCARGAS/RADIO/patas"
+			]
+		},
+		{
+			"ShaderMapHash": "475738B6428574CBC026AA7DF27AE178308EFB20",
+			"Assets": [
+				"/Game/DESCARGAS/hanging-shirt-by-camille-kleinman/source/Shirt_Dolman_Shirt_by_CG_Elves/Shirt_Dolman_39kpolys/Material1513820",
+				"/Game/DESCARGAS/hanging-shirt-by-camille-kleinman/source/Shirt_Dolman_Shirt_by_CG_Elves/Shirt_Dolman_39kpolys/Material1513823",
+				"/Game/DESCARGAS/hanging-shirt-by-camille-kleinman/source/Shirt_Dolman_Shirt_by_CG_Elves/Shirt_Dolman_39kpolys/Material__165",
+				"/Game/DESCARGAS/hanging-shirt-by-camille-kleinman/source/Shirt_Dolman_Shirt_by_CG_Elves/Shirt_Dolman_39kpolys/Material__166"
+			]
+		},
+		{
+			"ShaderMapHash": "9520E8B613C67E1D35F085071E0455581345880F",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__Fire1"
+			]
+		},
+		{
+			"ShaderMapHash": "7294E6B9B8924349C3B219681BC14C56BEE63631",
+			"Assets": [
+				"/CameraCalibrationCore/Materials/M_DefaultOddSquare"
+			]
+		},
+		{
+			"ShaderMapHash": "5FF2F0BAD60C272CDDD2E63F37B838B2E46B7CD1",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "AE234BBB5CC9B46BEDECA6C854177C318BBFDCA0",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "FF9C84BF973B0F7748B6BF9981C5BAA8935D5D97",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/FrontColor"
+			]
+		},
+		{
+			"ShaderMapHash": "101F0AC078D4DFDE7F80C91FFF68084CEFC0D837",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_001"
+			]
+		},
+		{
+			"ShaderMapHash": "15C3C8C046C20CCF55F76ED7F1FF551A336DE352",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/sketchbook-variant-of-a-sad-child/source/Sketchbook_sadchild/sketchbook",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/sketchbook-variant-of-a-sad-child/source/Sketchbook_sadchild/sketchbook_backface"
+			]
+		},
+		{
+			"ShaderMapHash": "212FFCC0E743209FEEB36960CFA74CB3A4BB875A",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FEBD8EC1BC1C8C21A66E38991E37F5D2478AF238",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "EEECC1C183529CAED2C37D3A0579EEB771D44252",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE105C2FB203B2C002A9AC7D4F4BD15FD2FB010",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SelectBrushMaterial_SelectedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "3D0266C21E37FAF3FA0FA2E42728A8ACBC79D9A4",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4134ABC2929D41A8F1CF1A6502630F7A60806466",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "F7ACEBC3EE8035D2D44D7412FACC9CF57532AAB9",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7DEC13C487C464AE5ED6EB10E2F7221A028ADD42",
+			"Assets": [
+				"/Game/DESCARGAS/hanging-shirt-by-camille-kleinman/source/Shirt_Dolman_Shirt_by_CG_Elves/Shirt_Dolman_39kpolys/Material1513828"
+			]
+		},
+		{
+			"ShaderMapHash": "FBBD34C586DF3E48C289231911277271A4C4CC7F",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/jeweled-sandal-high-heels/diamond"
+			]
+		},
+		{
+			"ShaderMapHash": "DDA93FC6423D173A40CF2A03AF9B3236AB0C3324",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/rita-floor-lamp-brass-and-marble/source/FLOOR"
+			]
+		},
+		{
+			"ShaderMapHash": "13F8C5C64A890D7F32A5B240C050BA0AD9686B4D",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+				"/Game/DESCARGAS/broken-glass/color_-1033803926"
+			]
+		},
+		{
+			"ShaderMapHash": "FF3EE7C7E3697C5CF261884C65423591077956F3",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "86A203C87E67ACCD9BF0D653ACA62D039E715A30",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/Goma_Tapa_Negro"
+			]
+		},
+		{
+			"ShaderMapHash": "1E8AB6C813994159FECE66A520C41B1F5C555225",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "21B87DCA8CF7639C8F756B27A83D55DA8685DA7E",
+			"Assets": [
+				"/Game/Characters/Mannequins/Materials/M_Mannequin"
+			]
+		},
+		{
+			"ShaderMapHash": "E3DF4DCB840D242B63980A6168D52E109F788EB7",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/sketchbook-variant-of-a-sad-child/source/Sketchbook_sadchild/sketchbook_leaf",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-mono-pink/package1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-mono-pink/screw1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-mono-pink/shade__MONO_PINK",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-mono-pink/sticker_number1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-unusual-day/package1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-unusual-day/screw1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-unusual-day/shade__UNUSUAL_DAY",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/3ce-face-blush-unusual-day/sticker_number1"
+			]
+		},
+		{
+			"ShaderMapHash": "1BA435CC8C076122E17D0FA5EFF21BF8F7A58C05",
+			"Assets": [
+				"/Game/interruptor/source/Wall_socket_white"
+			]
+		},
+		{
+			"ShaderMapHash": "742FC8CFDBC1BF98383513B864DBF8FB4AB8829F",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wallet/wallet_blinn"
+			]
+		},
+		{
+			"ShaderMapHash": "88B086D3C3A9E4463C69193754B4CD3B3BDBD6FF",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/free-pothos-potted-plant-money-plant/source/WOODEN_LEGS_POT",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/box-of-toys/source/aiToon3",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/box-of-toys/source/aiToon4",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/box-of-toys/source/aiToon7",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/box-of-toys/source/aiToonetch"
+			]
+		},
+		{
+			"ShaderMapHash": "3EAE4ED9E4872E67DACB113C7288D7B94CDACB11",
+			"Assets": [
+				"/Game/DESCARGAS/inodoro/Button"
+			]
+		},
+		{
+			"ShaderMapHash": "546776D93FAA41406AEF81D132662CDEF84203A6",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D4D977DA6345DC4361FFCBC716E0D1C2050A00CE",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/jeweled-sandal-high-heels/outer"
+			]
+		},
+		{
+			"ShaderMapHash": "5A0552DD32814D24316378FFBD8F254A2852B2F1",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner_Zufllige_Farbe"
+			]
+		},
+		{
+			"ShaderMapHash": "0B4399DE8571F633C489A2891AA04E978897F9E1",
+			"Assets": [
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Desk_A01"
+			]
+		},
+		{
+			"ShaderMapHash": "64E3AADE0F3B3847F69381592E1703BAFB2400A4",
+			"Assets": [
+				"/Game/DESCARGAS/bacha/textures/cabinet",
+				"/Game/DESCARGAS/bacha/textures/faucet",
+				"/Game/DESCARGAS/mesa_de_luz/Nightstand",
+				"/Game/DESCARGAS/mesa_de_luz/Vase"
+			]
+		},
+		{
+			"ShaderMapHash": "B04A4BE028A3BFBC8E3DFE4632D6DE7AAD4CA323",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "7701A0E04E5F94A6F97839EABB360D63306B51F3",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "BC5D2AE1DEA07427A88C0D622F3BD806579C29A6",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "C549B2E16EEA0B9C4BE87DF6687EA7BA7BDFF9FE",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/refrigerator/source/reizouko"
+			]
+		},
+		{
+			"ShaderMapHash": "2843B3E27258F5A0E48E502D3D3D5812C78C1C8C",
+			"Assets": [
+				"/Game/DetectiveOffice/MaterialInstances/MI_other_objects_Baked_002"
+			]
+		},
+		{
+			"ShaderMapHash": "C90702E34AFECE256E8DD46E0E3323F4B1E3EAC9",
+			"Assets": [
+				"/Game/RandomPaintings7/Materials/M_Base_01"
+			]
+		},
+		{
+			"ShaderMapHash": "AFD44DE30C71BA7FDECEE48CE2EE427193649E2F",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "E1FCFDE5A2B4AFD5B9475EFFDD87651CA5364BDB",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__Wax"
+			]
+		},
+		{
+			"ShaderMapHash": "34256EE636A7B7FE3D2560DA1CD8F3538619CA38",
+			"Assets": [
+				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "03579FE6E7EC9591969C14B46C4738D510E28B97",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/toy-castle/source/lambert4"
+			]
+		},
+		{
+			"ShaderMapHash": "288117EA48111F81CFCC71F8EADA6F53FE7845DB",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "705680ED9DC01B5CF729CF2262B3127DBE4D34CA",
+			"Assets": [
+				"/Game/DESCARGAS/cama/alm_chica",
+				"/Game/DESCARGAS/cama/alm_mas_chica"
+			]
+		},
+		{
+			"ShaderMapHash": "7510ABED71DEAA03FA32B19DFFD076277DE5A0EE",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E4084BF0A77DF3B73E835CFA1D9DA2F9F497BACF",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/crayon_bleu/Materials/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "93544DF1F14CF7E0D21BEFBE701E2B1E432E6E0C",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/glass/source/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "B7AEFEF165A6A7537193487F44A962287A7F6705",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/wood-closet-doors-closed/source/Closet_Closed/standardSurface1"
+			]
+		},
+		{
+			"ShaderMapHash": "FDE708F25247847E1EDF2D128FDE37518B6B5A8A",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/Hair",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/source/Hair"
+			]
+		},
+		{
+			"ShaderMapHash": "276969F262F7A05123A2ADFFCCD7B9D718C32930",
+			"Assets": [
+				"/Game/DESCARGAS/LAMPARA/BOTON_ENCENDIDO"
+			]
+		},
+		{
+			"ShaderMapHash": "81DF43F3117169C8B8F6D42A351CABF2D75C3E38",
+			"Assets": [
+				"/Game/DESCARGAS/psx-style-wardrobe/source/Hanger_Bar"
+			]
+		},
+		{
+			"ShaderMapHash": "7B024BF48427DFD1334331FCA71EC5D79A2474FC",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/toy-castle/source/lambert3"
+			]
+		},
+		{
+			"ShaderMapHash": "C8844FF5544A9FEFE12C60A6E1BE8D0AFA9F3220",
+			"Assets": [
+				"/Game/DESCARGAS/OldWest/Shared/Materials/MM_MasterMaterial_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "78F881F7DF9F735B8EF632B427AC23B450E04B52",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle/label_roughness_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "365796F8F373E54B9FA227ADC22D74A0BC68B8AB",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/teddy-bears/source/Nose_002"
+			]
+		},
+		{
+			"ShaderMapHash": "EFEA14F9604239128C706B0EE6A86CE2A1062539",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__305",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__306",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__308",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__309",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__310",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__311",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__314",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__315",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__316",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__317",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/perfume-bottle__1_/source/Material__318"
+			]
+		},
+		{
+			"ShaderMapHash": "5BD33EF917EB486C09ABE42ADD8171CCD88C4B9D",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/foto_polaroid/Frame_blinn2SG",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Metal_Rough_Black_10mm_Circular_Mesh",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Metal_Rough_Black_10mm_Circular_Mesh_ncl_1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/heart-jewelry/source/Mat_2",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/heart-jewelry/source/Mat_3",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/heart-jewelry/source/Mat_4",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/heart-jewelry/source/Mat_5",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/heart-jewelry/source/Mat_6",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/heart-jewelry/source/Mat_7"
+			]
+		},
+		{
+			"ShaderMapHash": "3B829FF9F0422FD637E1F06B3504C41D02C45C1F",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "60E4F1F98E662E813AC3F2C7E145ABA26EE5B99A",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/dior-handbag/Plastic_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "961A2DFB9AF29CBD4DC80884285F8D4599DCD984",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/Barbie",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/Barbie_Head",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/source/Barbie",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/my-scene-barbie-doll/source/Barbie_Head"
+			]
+		},
+		{
+			"ShaderMapHash": "500094FBB414F616DAB88EBC7AC0770AE32AE620",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "0C29BEFB599517525FE1D66001CD29044C140204",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "D2D716FDE7C20CBC6DEB40CA1BC04EB0B9C917E1",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/hair-dryer-with-diffuser/textures/Hairdryer2"
+			]
+		},
+		{
+			"ShaderMapHash": "2253B6FD544C1AFE0CD037328C2FDEE88FF59D13",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/color-pencil-collection/source/Material_011"
+			]
+		},
+		{
+			"ShaderMapHash": "E8A64EFEAA9D6436E8EFF7B3D32DFA53AF3DC94F",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "463D67FEE43A5B90D74313E4BC897C9615B324C3",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "60169FFEC1EEA30119A5A1753D20B81460F2C2C5",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/refrigerator/source/reizouko_packin"
+			]
+		},
+		{
+			"ShaderMapHash": "49082AFF44D812EAD0E4CBEA7CCB4BBCD7D11639",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/rita-floor-lamp-brass-and-marble/source/BRASS",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/rita-floor-lamp-brass-and-marble/source/LAMP_SHADE",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/rita-floor-lamp-brass-and-marble/source/LIGHT_BULB",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/rita-floor-lamp-brass-and-marble/source/MARBLE",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/cosmetic-serum-bottle/Material_002",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/light-brown-hair-wig/PELUCA",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/marilyn-monroe-hair/HairMatAniso_mesh",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves10",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves2",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves3",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves4",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves5",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves6",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves7",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves8",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Leaves9",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Parcel1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Parcel2",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals10",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals11",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals12",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals13",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals14",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals2",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals3",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals5",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals6",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals7",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals8",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Petals9",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/Ribbons1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/SmallPlants1",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/SmallPlants2",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/wrapped-flower-bouquet/textures/SmallPlants3",
+				"/Game/silla/ASIENTO",
+				"/Game/silla/PATAS_DE_SILLA"
+			]
+		}
+	]
+}
