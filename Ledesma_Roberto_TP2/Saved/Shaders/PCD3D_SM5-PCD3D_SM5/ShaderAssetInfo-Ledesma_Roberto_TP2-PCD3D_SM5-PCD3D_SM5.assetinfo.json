@@ -8,6 +8,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2E620001CC92FFCA0429B17EC84BB9D5BABF19B6",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_010"
+			]
+		},
+		{
 			"ShaderMapHash": "0C9CC701F1EC34FB76E8A282C530EC9362EC757A",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
@@ -50,6 +56,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C2B3D204F5040671D6E75E2D49E1988CC2389FF4",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_007"
+			]
+		},
+		{
 			"ShaderMapHash": "672F79055E0544085F0F7E4DD26DF5A3B6A72EDE",
 			"Assets": [
 				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/zoologic-shelving/source/Material_018"
@@ -70,7 +82,25 @@
 		{
 			"ShaderMapHash": "CEF1920731D41AFCAD62268CEA9E364E02C8B9BC",
 			"Assets": [
-				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material18"
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/edge_color000255",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/material",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material1",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material10",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material11",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material12",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material12345678",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material13",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material14",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material15",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material16",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material18",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material19",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material2",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material3",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material4",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material5",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material6",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/low_poly_crayon_drawing/Materials/Material7"
 			]
 		},
 		{
@@ -128,6 +158,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "34776F124BE6288E1ED4CC2F083E8E4E64B2C461",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/foto_polaroid/Frame_lambert79SG"
+			]
+		},
+		{
 			"ShaderMapHash": "1780FF12CC3A18E3CB754244C906FA8E0274272A",
 			"Assets": [
 				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/buzz-toy/source/Box2SG",
@@ -142,6 +178,12 @@
 				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/scales_black",
 				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/scales_black_1",
 				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/woman-shoes-3d-design-exercise/Suela_Negro"
+			]
+		},
+		{
+			"ShaderMapHash": "760E24130DE7FCEA700A4339C28EC09ED104919E",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/old-leather-book/source/model/model/Copertina"
 			]
 		},
 		{
@@ -191,6 +233,12 @@
 			"ShaderMapHash": "2CDB061DCF1C124EF728EA9B828BEB168106CE37",
 			"Assets": [
 				"/Game/interruptor/source/Wall_socket_black"
+			]
+		},
+		{
+			"ShaderMapHash": "7F7F841D644F650130723FC301575ECD9D7C68EF",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_009"
 			]
 		},
 		{
@@ -488,6 +536,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "35A564540DD52151989BEAEAE4A9695B4CEABEF3",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/picture_frame_collection/Materials/T_glass_cracked"
+			]
+		},
+		{
 			"ShaderMapHash": "E408C75403DDC6EF92D3D67461342244A0DAFA90",
 			"Assets": [
 				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/cosmetic-serum-bottle/Bottle_001"
@@ -599,6 +653,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A305AA5E3EE713DF3CCE0FE301D3AC5335AA158D",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_006"
+			]
+		},
+		{
 			"ShaderMapHash": "DD72E05F55BDA7FAAA5E4BB9D6B07ADE395F4394",
 			"Assets": [
 				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__Amber"
@@ -676,12 +736,6 @@
 				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_6",
 				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_7",
 				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/minibar/source/Paint_Matte_Black_ncl_8"
-			]
-		},
-		{
-			"ShaderMapHash": "A971CE6CEA4C888D01D2EE67975DE618F16B216E",
-			"Assets": [
-				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/foto_polaroid/Frame_lambert79SG"
 			]
 		},
 		{
@@ -799,6 +853,7 @@
 		{
 			"ShaderMapHash": "CD1CFA7F3014B922848ABBD8A7042E314552F548",
 			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
@@ -816,15 +871,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "73A7A08389DB56C6D9424C127D81F912F968F704",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/love-neon-sign-wall/source/Phong_313131"
+			]
+		},
+		{
 			"ShaderMapHash": "2718B18894525EA19F2AB5E112B763A08BF5B5FE",
 			"Assets": [
 				"/Game/DESCARGAS/LAMPARA/PALO_LAMPARA"
 			]
 		},
 		{
-			"ShaderMapHash": "2F7E5889F931D465629142A648207ED8A8835FAE",
+			"ShaderMapHash": "A6B82889976450E28AC1E8B1C325C557F9E424E0",
 			"Assets": [
-				"/Game/DetectiveOffice/MaterialInstances/MI_leaves"
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/love-neon-sign-wall/source/Standard_FF00BB"
 			]
 		},
 		{
@@ -848,7 +909,8 @@
 		{
 			"ShaderMapHash": "C4D59B8C12206D2F2049ECE6B5A9729CF72B5522",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid",
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
 			]
 		},
 		{
@@ -861,6 +923,12 @@
 			"ShaderMapHash": "1DED168E0CDC1EB9137FB9B92AFD498FCD120185",
 			"Assets": [
 				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/pasted__pasted__Fire"
+			]
+		},
+		{
+			"ShaderMapHash": "C7894F8F77689088BD2E3E6DA889E962A45ABDFA",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_008"
 			]
 		},
 		{
@@ -965,6 +1033,19 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C62BFC9CDF5C59F381598736F59A424E2B928EAC",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/love-neon-sign-wall/source/neon_apagado"
+			]
+		},
+		{
+			"ShaderMapHash": "2B197D9D937CE8C2FC314888B23E9CCD133D1F99",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/old-leather-book/source/model/model/Pagine_Centrali",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/old-leather-book/source/model/model/Pagine_Laterali"
+			]
+		},
+		{
 			"ShaderMapHash": "75662B9E331A2331912E8072AAF82DB697ECFBC3",
 			"Assets": [
 				"/MovieRenderPipeline/Blueprints/M_MoviePipelineRenderPreview"
@@ -979,7 +1060,20 @@
 		{
 			"ShaderMapHash": "8162F59EFE908B41191A8CD1E400331EFF189AC4",
 			"Assets": [
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
 				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
+			]
+		},
+		{
+			"ShaderMapHash": "DB0B80A05963C17EDE926010DFD415E7C480D73B",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_005"
+			]
+		},
+		{
+			"ShaderMapHash": "0B17C0A0F445383D99F6F0BBA624916E267EF3F8",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/love-neon-sign-wall/source/Phong_4E4E4E"
 			]
 		},
 		{
@@ -1016,7 +1110,11 @@
 		{
 			"ShaderMapHash": "F24CE5A4561ECAA087CD1F14EDD23D20E1F52C71",
 			"Assets": [
-				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_Zufllige_Farbe_007"
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_Zufllige_Farbe_001",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_Zufllige_Farbe_002",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_Zufllige_Farbe_003",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_Zufllige_Farbe_007",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_Zufllige_Farbe_008"
 			]
 		},
 		{
@@ -1067,6 +1165,12 @@
 			"ShaderMapHash": "F11D5BA9FC6425D3F2E4F3AAA28FEF4AB42CA0B7",
 			"Assets": [
 				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/candles/source/Wax"
+			]
+		},
+		{
+			"ShaderMapHash": "882993A9B17F05FC3E1A81E87ECABF5031971C32",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/picture_frame_collection/Materials/T_frame"
 			]
 		},
 		{
@@ -1204,7 +1308,26 @@
 		{
 			"ShaderMapHash": "101F0AC078D4DFDE7F80C91FFF68084CEFC0D837",
 			"Assets": [
-				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_001"
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/4x4_rubiks_cube/Materials/Material",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/comic_bookshelf/Materials/material_0",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_1_Zufallsfarbe",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_1_Zufallsfarbe_001",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_1_Zufallsfarbe_002",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_1_Zufallsfarbe_003",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_1_Zufallsfarbe_004",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_1_Zufallsfarbe_005",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_2_Zufallsfarbe",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_2_Zufallsfarbe_001",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_2_Zufallsfarbe_002",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_2_Zufallsfarbe_003",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_2_Zufallsfarbe_004",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Buntstift_2_Zufallsfarbe_005",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_001",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_002",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_003",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzstift_004",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner"
 			]
 		},
 		{
@@ -1300,6 +1423,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8EA79AC997467F8DAFA4F07E0B1059D84BED8636",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_012"
+			]
+		},
+		{
 			"ShaderMapHash": "21B87DCA8CF7639C8F756B27A83D55DA8685DA7E",
 			"Assets": [
 				"/Game/Characters/Mannequins/Materials/M_Mannequin"
@@ -1360,15 +1489,31 @@
 			]
 		},
 		{
+			"ShaderMapHash": "65F8CBDC68E5037A27768F7682F27D21AB7F33AA",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/habitacion_encuentro/foto_polaroid/photo_2",
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/picture_frame_collection/StaticMeshes/M_RockyHorror_Poster"
+			]
+		},
+		{
 			"ShaderMapHash": "5A0552DD32814D24316378FFBD8F254A2852B2F1",
 			"Assets": [
-				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner_Zufllige_Farbe"
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Filzer_Schwarz",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner_Zufllige_Farbe",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner_Zufllige_Farbe_001",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner_Zufllige_Farbe_002",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner_Zufllige_Farbe_003",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner_Zufllige_Farbe_004"
 			]
 		},
 		{
 			"ShaderMapHash": "0B4399DE8571F633C489A2891AA04E978897F9E1",
 			"Assets": [
-				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Desk_A01"
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Desk_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Desk_Cab_A02",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Food_Leftover_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Headset_A01",
+				"/Game/DESCARGAS/Deko_MatrixDemo/Apartment/Materials/MI_Unit_A01"
 			]
 		},
 		{
@@ -1406,12 +1551,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2843B3E27258F5A0E48E502D3D3D5812C78C1C8C",
-			"Assets": [
-				"/Game/DetectiveOffice/MaterialInstances/MI_other_objects_Baked_002"
-			]
-		},
-		{
 			"ShaderMapHash": "C90702E34AFECE256E8DD46E0E3323F4B1E3EAC9",
 			"Assets": [
 				"/Game/RandomPaintings7/Materials/M_Base_01"
@@ -1442,6 +1581,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "388D46E72F505D1182479B693FCCF8C8044EA3B8",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_013"
+			]
+		},
+		{
+			"ShaderMapHash": "1DFE9CE8348571E77C05A24CB8CA32C0B37D3BF2",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/vanity-mirror/source/Material_004"
+			]
+		},
+		{
 			"ShaderMapHash": "288117EA48111F81CFCC71F8EADA6F53FE7845DB",
 			"Assets": [
 				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
@@ -1463,7 +1614,16 @@
 		{
 			"ShaderMapHash": "E4084BF0A77DF3B73E835CFA1D9DA2F9F497BACF",
 			"Assets": [
-				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/crayon_bleu/Materials/Material_002"
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/crayon_bleu/Materials/Material",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/crayon_bleu/Materials/Material_001",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/crayon_bleu/Materials/Material_002",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Bleistift_Holz",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Bleistift_Miene",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Bleistift_Wei",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Fineliner_Wei",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Silber",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Tasse_Schwarz",
+				"/Game/DESCARGAS/HABITACIONES/habitacion_infancia/cup_with_pencils/Materials/Tasse_Wei"
 			]
 		},
 		{
