@@ -1,7 +1,7 @@
 Ledesma_Roberto_TP2/Binaries/Win64/D3D12/x64/D3D12Core.dll	2026-03-21T13:17:45.749Z
 Ledesma_Roberto_TP2/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2026-03-21T13:17:45.766Z
 Ledesma_Roberto_TP2/Binaries/Win64/DML/x64/DirectML.dll	2026-03-21T13:23:57.124Z
-Ledesma_Roberto_TP2/Binaries/Win64/Ledesma_Roberto_TP2-Win64-Shipping.exe	2026-08-03T16:11:47.649Z
+Ledesma_Roberto_TP2/Binaries/Win64/Ledesma_Roberto_TP2-Win64-Shipping.exe	2026-08-03T18:05:44.417Z
 Ledesma_Roberto_TP2/Binaries/Win64/tbb12.dll	2026-03-21T13:24:01.860Z
 Ledesma_Roberto_TP2/Binaries/Win64/tbbmalloc.dll	2026-03-21T13:24:01.863Z
 Engine/Extras/Redist/en-us/vc_redist.x64.exe	2026-03-21T13:19:06.272Z
@@ -16,10 +16,10 @@ Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2026-03-21T
 Engine/Content/Renderer/TessellationTable.bin	2026-03-21T13:18:35.155Z
 Engine/Content/Slate/Cursor/invisible.cur	2026-03-21T13:18:35.314Z
 Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll	2026-03-21T13:21:24.767Z
-Engine/Config/StagedBuild_Ledesma_Roberto_TP2.ini	2026-08-03T16:13:03.957Z
+Engine/Config/StagedBuild_Ledesma_Roberto_TP2.ini	2026-08-03T18:06:07.301Z
 Ledesma_Roberto_TP2/Content/Movies/conflicto.mp4	2026-08-03T01:31:52.718Z
 Ledesma_Roberto_TP2/Content/Movies/encuentro.mp4	2026-08-03T01:31:52.781Z
 Ledesma_Roberto_TP2/Content/Movies/Gloria Trevi - Todos Me Miran (Videoclip Oficial) - GloriaTrevi (1080p).mp4	2026-08-03T01:31:52.626Z
 Ledesma_Roberto_TP2/Content/Movies/identidadm.mp4	2026-08-03T01:31:52.874Z
 Ledesma_Roberto_TP2/Content/Movies/infancia.mp4	2026-08-03T01:31:52.934Z
-Ledesma_Roberto_TP2.exe	2026-08-03T16:13:03.955Z
+Ledesma_Roberto_TP2.exe	2026-08-03T18:06:07.299Z
