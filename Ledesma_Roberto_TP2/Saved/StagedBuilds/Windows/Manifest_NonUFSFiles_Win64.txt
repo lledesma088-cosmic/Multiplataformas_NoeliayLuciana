@@ -1,7 +1,7 @@
 Ledesma_Roberto_TP2/Binaries/Win64/D3D12/x64/D3D12Core.dll	2026-03-29T15:33:49.582Z
 Ledesma_Roberto_TP2/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll	2026-03-29T15:33:49.763Z
 Ledesma_Roberto_TP2/Binaries/Win64/DML/x64/DirectML.dll	2026-03-29T15:48:47.135Z
-Ledesma_Roberto_TP2/Binaries/Win64/Ledesma_Roberto_TP2.exe	2026-06-29T17:24:12.262Z
+Ledesma_Roberto_TP2/Binaries/Win64/Ledesma_Roberto_TP2.exe	2026-08-03T01:19:12.513Z
 Ledesma_Roberto_TP2/Binaries/Win64/tbb12.dll	2026-03-29T15:48:53.239Z
 Ledesma_Roberto_TP2/Binaries/Win64/tbbmalloc.dll	2026-03-29T15:48:53.239Z
 Engine/Extras/Redist/en-us/vc_redist.x64.exe	2026-03-29T15:37:09.532Z
@@ -17,7 +17,12 @@ Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2026-03-29T
 Engine/Content/Renderer/TessellationTable.bin	2026-03-29T15:36:25.552Z
 Engine/Content/Slate/Cursor/invisible.cur	2026-03-29T15:36:25.573Z
 Engine/Plugins/NNE/NNERuntimeORT/Binaries/ThirdParty/Onnxruntime/Win64/onnxruntime.dll	2026-03-29T15:43:02.996Z
-Engine/Config/StagedBuild_Ledesma_Roberto_TP2.ini	2026-06-29T17:27:20.088Z
+Engine/Config/StagedBuild_Ledesma_Roberto_TP2.ini	2026-08-03T01:33:45.970Z
+Ledesma_Roberto_TP2/Content/Movies/conflicto.mp4	2026-08-02T23:26:26.815Z
+Ledesma_Roberto_TP2/Content/Movies/encuentro.mp4	2026-08-02T22:43:03.951Z
+Ledesma_Roberto_TP2/Content/Movies/Gloria Trevi - Todos Me Miran (Videoclip Oficial) - GloriaTrevi (1080p).mp4	2026-08-02T19:11:38.626Z
+Ledesma_Roberto_TP2/Content/Movies/identidadm.mp4	2026-08-02T22:49:57.660Z
+Ledesma_Roberto_TP2/Content/Movies/infancia.mp4	2026-08-02T23:00:13.926Z
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.dll	2026-03-29T15:33:49.350Z
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_api_dump.json	2026-03-29T15:33:49.351Z
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_crash_diagnostic.dll	2026-03-29T15:33:49.364Z
@@ -32,4 +37,4 @@ Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.dll	202
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_synchronization2.json	2026-03-29T15:33:49.412Z
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.dll	2026-03-29T15:33:49.566Z
 Engine/Binaries/ThirdParty/Vulkan/Win64/VkLayer_khronos_validation.json	2026-03-29T15:33:49.566Z
-Ledesma_Roberto_TP2.exe	2026-06-29T17:27:20.079Z
+Ledesma_Roberto_TP2.exe	2026-08-03T01:33:45.961Z
