@@ -278,6 +278,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1B2AAF25398CC27E2A6A67CA4768C3B6008DC891",
+			"Assets": [
+				"/Game/DESCARGAS/SILLONES_PUF/Misc/Materials/M_ORM_Paint_Master"
+			]
+		},
+		{
 			"ShaderMapHash": "2C0645264EFCA89DC45B478326292E4AF85ABE7D",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Blend_DS"
@@ -447,6 +453,12 @@
 			"ShaderMapHash": "08B635416D805F20DCDB938B10F1B0BA3EE1E76B",
 			"Assets": [
 				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CAFC684184D64FBF159F6E743AD0F2C211A0EE58",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/braun-series-7-shaver/material_0"
 			]
 		},
 		{

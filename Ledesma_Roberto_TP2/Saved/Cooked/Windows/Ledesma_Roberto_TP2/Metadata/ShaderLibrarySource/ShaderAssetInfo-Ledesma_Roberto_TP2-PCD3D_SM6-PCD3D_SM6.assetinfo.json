@@ -39,6 +39,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "82F7E707B4DDF5F14C2DF8303F52069B3AB2FFFD",
+			"Assets": [
+				"/Game/DESCARGAS/SILLONES_PUF/Misc/Materials/M_ORM_Paint_Master"
+			]
+		},
+		{
 			"ShaderMapHash": "5271C50884A227FE05A352513082F8B6E582DC6B",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/LayerVisMaterial"
@@ -279,6 +285,12 @@
 			"ShaderMapHash": "9C41692B839C5DEBEBAFFE58FBF2C47574702AE7",
 			"Assets": [
 				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/cosmetic-serum-bottle/Rubber_001"
+			]
+		},
+		{
+			"ShaderMapHash": "88F68E2B31993B9EA2C4C111DDFAEF7718E2EF59",
+			"Assets": [
+				"/Game/DESCARGAS/HABITACIONES/Habitación_identidad/braun-series-7-shaver/material_0"
 			]
 		},
 		{

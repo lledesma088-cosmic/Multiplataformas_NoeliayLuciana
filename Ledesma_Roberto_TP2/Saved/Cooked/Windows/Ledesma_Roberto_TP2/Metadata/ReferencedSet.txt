@@ -1012,6 +1012,9 @@
 /game/descargas/habitaciones/habitación_identidad/3ce-face-blush-unusual-day/sticker_sew
 /game/descargas/habitaciones/habitación_identidad/3ce-face-blush-unusual-day/sticker_sew1
 /game/descargas/habitaciones/habitación_identidad/bracelet/source/bracelet2/default
+/game/descargas/habitaciones/habitación_identidad/braun-series-7-shaver/artecshaver
+/game/descargas/habitaciones/habitación_identidad/braun-series-7-shaver/material_0
+/game/descargas/habitaciones/habitación_identidad/braun-series-7-shaver/tex_artecshaver_0
 /game/descargas/habitaciones/habitación_identidad/cosmetic-serum-bottle/bottle_001
 /game/descargas/habitaciones/habitación_identidad/cosmetic-serum-bottle/label
 /game/descargas/habitaciones/habitación_identidad/cosmetic-serum-bottle/material_002
@@ -1415,6 +1418,16 @@
 /game/descargas/radio/perilla_metal_normal
 /game/descargas/radio/perilla_metal_roughness
 /game/descargas/radio/radio
+/game/descargas/sillones_puf/living_bedroom/materials/mi_inf_seatstool_leather
+/game/descargas/sillones_puf/living_bedroom/staticmeshes/sm_inf_seatstool
+/game/descargas/sillones_puf/living_bedroom/textures/t_inf_seatstool_leatherbrown_basecolor
+/game/descargas/sillones_puf/living_bedroom/textures/t_inf_seatstool_leatherbrown_normal
+/game/descargas/sillones_puf/living_bedroom/textures/t_inf_seatstool_leatherbrown_orm
+/game/descargas/sillones_puf/living_bedroom/textures/t_inf_seatstool_mask
+/game/descargas/sillones_puf/misc/materials/m_orm_paint_master
+/game/descargas/sillones_puf/misc/textures/t_normal_flat
+/game/descargas/sillones_puf/misc/textures/t_white
+/game/descargas/sillones_puf/misc/textures/t_white_orm
 /game/descargas/simple-glass-cup/copa
 /game/descargas/simple-glass-cup/textures/cup
 /game/descargas/simple-glass-cup/textures/diffuse

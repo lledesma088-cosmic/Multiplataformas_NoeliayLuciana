@@ -51,30 +51,6 @@
 	],
 	"RuntimeDependencies": [
 		{
-			"Path": "$(ProjectDir)/Binaries/Win64/D3D12/x64/D3D12Core.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/DML/x64/DirectML.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/tbb12.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Binaries/Win64/tbbmalloc.dll",
-			"Type": "NonUFS"
-		},
-		{
-			"Path": "$(ProjectDir)/Ledesma_Roberto_TP2.uproject",
-			"Type": "UFS"
-		},
-		{
 			"Path": "$(EngineDir)/Binaries/ThirdParty/DbgHelp/dbghelp.dll",
 			"Type": "NonUFS"
 		},
@@ -3191,6 +3167,10 @@
 			"Type": "UFS"
 		},
 		{
+			"Path": "$(EngineDir)/Plugins/Bridge/Bridge.uplugin",
+			"Type": "UFS"
+		},
+		{
 			"Path": "$(EngineDir)/Plugins/Cameras/CameraShakePreviewer/CameraShakePreviewer.uplugin",
 			"Type": "UFS"
 		},
@@ -3448,6 +3428,10 @@
 		},
 		{
 			"Path": "$(EngineDir)/Plugins/FX/Niagara/Niagara.uplugin",
+			"Type": "UFS"
+		},
+		{
+			"Path": "$(EngineDir)/Plugins/Fab/Fab.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -3733,6 +3717,30 @@
 		{
 			"Path": "$(EngineDir)/Plugins/WorldMetrics/WorldMetrics.uplugin",
 			"Type": "UFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/D3D12/x64/D3D12Core.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/D3D12/x64/d3d12SDKLayers.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/DML/x64/DirectML.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/tbb12.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Binaries/Win64/tbbmalloc.dll",
+			"Type": "NonUFS"
+		},
+		{
+			"Path": "$(ProjectDir)/Ledesma_Roberto_TP2.uproject",
+			"Type": "UFS"
 		}
 	],
 	"BuildPlugins": [
@@ -3763,6 +3771,7 @@
 		"BackChannel",
 		"BlendSpaceMotionAnalysis",
 		"BlueprintHeaderView",
+		"Bridge",
 		"CLionSourceCodeAccess",
 		"CableComponent",
 		"CameraCalibrationCore",
@@ -3814,6 +3823,7 @@
 		"EnhancedInput",
 		"EnvironmentQueryEditor",
 		"ExampleDeviceProfileSelector",
+		"Fab",
 		"FacialAnimation",
 		"FastBuildController",
 		"Fracture",
